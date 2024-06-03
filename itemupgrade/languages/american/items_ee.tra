@@ -902,3 +902,27 @@ Equipped abilities:
 – Regenerate 1 Hit Point per round
 
 Weight: 0~
+
+
+
+// the following strings are used for compatibility with ZS Tweaks
+// since it's an EE-only mod, they're only placed here so they're in UTF-8
+@201 = ~Damage: 1d6\+\([34]\)~
+@202 = ~Damage (thrown): 1d6+\1
+Damage (melee): 1d8~
+@203 = ~Acid Resistance: \+50%~
+@204 = ~Immunity to level drain~ 
+@205 = ~– Pick Pockets:~
+@206 = ~– Immunity to backstab~
+@207 = ~STATISTICS:~
+@208 = ~Combat abilities:
+– Every hit inflicts pain, making living beings feel weakened for 1 round, suffering a penalty of 2 to THAC0 and AC, and a penalty of 2 to damage. This effect does not stack.~
+@209 = ~– Magic Resistance:~
+@210 = ~– Magic damage resistance: +25%
+– Casting speed improved by 1~
+@211 = ~Damage: 1d10\+5 (slashing)~
+@212 = ~Damage: 2d5+5 (slashing)~
+@213 = ~Combat abilities:~
+@214 = ~– 1/2 extra attack per round~
+@215 = ~Damage: 1d12\+~
+@216 = ~Damage: 2d6+~

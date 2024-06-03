@@ -59,6 +59,9 @@ COPY ~itemupgrade/itm/c2quiv01.itm~ ~override~
   PATCH_IF enhanced_edition BEGIN // make usable by shaman
     WRITE_BYTE 0x21 (THIS BAND `BIT6) // removes druid flag
     LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 319 target = 1 parameter1 = 11 parameter2 = 5 timing = 2 special = 1080 END
+    PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
+      LPF ADD_ITEM_EFFECT INT_VAR type = 2 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 44 STR_VAR resource = zstwa0 END
+    END
   END
 
 COPY ~itemupgrade/itm/c2quiv02.itm~ ~override~
@@ -73,6 +76,9 @@ COPY ~itemupgrade/itm/c2quiv02.itm~ ~override~
       SET index = abil_num // kill loop
     END
   END
+  PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
+    LPF ADD_ITEM_EFFECT INT_VAR type = 2 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 59 STR_VAR resource = zstwb0 END
+  END
 
 COPY ~itemupgrade/itm/c2quiv03.itm~ ~override~
   SAY NAME2     @112
@@ -85,6 +91,9 @@ COPY ~itemupgrade/itm/c2quiv03.itm~ ~override~
       WRITE_SHORT (abil_off + 0x2a + (index * 0x38)) bull3_proj
       SET index = abil_num // kill loop
     END
+  END
+  PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
+    LPF ADD_ITEM_EFFECT INT_VAR type = 2 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 44 STR_VAR resource = zstws3 END
   END
 
 COPY ~itemupgrade/itm/c2sw2h02.itm~ ~override~
@@ -99,6 +108,16 @@ COPY ~itemupgrade/itm/c2sw2h02.itm~ ~override~
       LPF ALTER_EFFECT INT_VAR match_opcode = 77 opcode = 146 parameter1 = 0 parameter2 = 2 STR_VAR resource = ~#curefbm~ END
       LPF DELETE_EFFECT INT_VAR match_opcode = 240 match_parameter2 = 48 END
     END
+    PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1430~ BEGIN // Make Two-handed swords deal 1d9+1 by default, and 2d6 where it applies
+      LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 6 dicenumber = 2 END   
+      SPRINT old @215
+      SPRINT new @216       
+      READ_STRREF 0x54 desc
+      INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
+        REPLACE_TEXTUALLY ~%old%~ ~%new%~
+      END
+      SAY_EVALUATED 0x54 ~%desc%~ // write changes
+    END    
   END ELSE BEGIN
     PATCH_IF FILE_EXISTS_IN_GAME ~cditmdm0.spl~ THEN BEGIN // if Fixpack's item dispel magic spell is installed
       LPF ALTER_EFFECT INT_VAR match_opcode = 58 opcode = 146 parameter1 = 0 parameter2 = 1 STR_VAR resource = ~cditmdm0~ END // change dispel to cast spell
