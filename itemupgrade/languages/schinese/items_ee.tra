@@ -925,3 +925,26 @@ This file is also formatted in utf-8 since it's only used on BGIIEE games. setup
     - 每轮恢复1点生命
 
 重量：0~
+
+
+// the following strings are used for compatibility with ZS Tweaks
+// since it's an EE-only mod, they're only placed here so they're in UTF-8
+@201 = ~伤害： 1d6\+\([34]\)~
+@202 = ~伤害 （投掷）：1d6+\1
+伤害（近战）：1d8~
+@203 = ~抗酸：\+50%~
+@204 = ~免疫等级吸取~ 
+@205 = ~– 偷窃：~
+@206 = ~– 免疫背刺：~
+@207 = ~数据资料：~
+@208 = ~战斗属性：
+– 每次命中都会造成疼痛，使生物在一回合内感到虚弱，THAC0和AC值受到2的惩罚，伤害值受到2的惩罚。此效果不会叠加。~
+@209 = ~– 魔法抗性：~
+@210 = ~– 魔法伤害抗性：+25%
+– 施法速度提高 1~
+@211 = ~伤害: 1d10\+5 （挥砍）~
+@212 = ~伤害: 2d5+5 （挥砍）~
+@213 = ~战斗属性~
+@214 = ~– 1/2每轮额外攻击~
+@215 = ~伤害: 1d12\+~
+@216 = ~伤害: 2d6+~
