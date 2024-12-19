@@ -148,7 +148,7 @@ Czarna Krew
 Zgniatacz
 15,000 Sztuk z³ota
                         Niewierna ¯ona +5
-                        +5 obra¿eñ od kwasu, ciête: 3/rundê przez 4 rundy,
+                        +3 obra¿eñ od kwasu, ciête: 3/rundê przez 4 rundy,
                         25% odpornoœæ na kwas
 ---------------------------------------------------------------------------
 Koœciana Maczuga
