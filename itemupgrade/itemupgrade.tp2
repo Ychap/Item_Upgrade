@@ -3,21 +3,19 @@ SUPPORT ~http://forums.pocketplane.net/index.php/board,43.0.html~
 
 ALWAYS
 
-  ACTION_IF NOT VARIABLE_IS_SET enhanced_edition THEN BEGIN // just do this once per install
+  ACTION_IF NOT VARIABLE_IS_SET cd_always_itemupgrade THEN BEGIN // just do this once per install
+  
+    OUTER_SET cd_always_itemupgrade = 1
 
     ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
 
-      LOAD_TRA ~itemupgrade/languages/%LANGUAGE%/items_ee.tra~
+      OUTER_SET enhanced_edition = 1 // ee game with actual items_ee translation
 
       OUTER_SPRINT ~tra_location~ ~itemupgrade/languages~
 
-      ACTION_IF ("%LANGUAGE%" STRING_COMPARE_CASE "korean" = 0) BEGIN
+      ACTION_IF FILE_EXISTS ~itemupgrade/languages/%LANGUAGE%/items_ee.tra~ BEGIN
 
-        OUTER_SET enhanced_edition = 2 // ee game without actual items_ee translation
-
-      END ELSE BEGIN
-
-        OUTER_SET enhanced_edition = 1 // ee game with actual items_ee translation
+        LOAD_TRA ~itemupgrade/languages/%LANGUAGE%/items_ee.tra~
 
       END
 

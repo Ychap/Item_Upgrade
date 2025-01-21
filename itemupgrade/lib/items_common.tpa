@@ -1,6 +1,6 @@
-  INCLUDE ~itemupgrade/lib/alter_header.tpa~
+INCLUDE ~itemupgrade/lib/alter_header.tpa~
   
-  COPY_EXISTING ~ar0202.are~ ~override~ // UE quest, cult hideout
+COPY_EXISTING ~ar0202.are~ ~override~ // UE quest, cult hideout
   LPF ALTER_AREA_DOOR INT_VAR flag_uses_key = 0 STR_VAR door_name = "DOORDRAG" END
   BUT_ONLY
 
@@ -66,6 +66,8 @@ ACTION_IF NOT VARIABLE_IS_SET charm_immunity THEN BEGIN // ee fixpack immunity s
 END
 
 // get throwing STR weapon flag from azuredge; grab azuredge throwing projectile while we're here
+OUTER_SET throwing_flags = BIT0 // set failsafes
+OUTER_SET azure_proj     = 10 
 COPY_EXISTING ~ax1h10.itm~ ~override~ // get axe projectile
   READ_LONG  0x64 abil_off
   READ_SHORT 0x68 abil_num
@@ -1000,6 +1002,7 @@ END
 ACTION_IF NOT FILE_EXISTS_IN_GAME c2staf01.itm THEN BEGIN
 
   // get sleep cloud projectile from staff of air (1pp/ee)
+  OUTER_SET air_proj = 55 // set a failsafe value
   COPY_EXISTING ~staf15.itm~ ~override~
     READ_LONG  0x64 abil_off
     READ_SHORT 0x68 abil_num

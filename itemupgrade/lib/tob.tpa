@@ -8,6 +8,7 @@ COPY ~itemupgrade/itm/c2leat01.itm~ ~override~
     LPF ADD_ITEM_EQEFFECT INT_VAR insert_point = "-1" opcode = 318 target = 1 timing = 2 STR_VAR resource = wand13 END // ee protection from wand of cloudkill
   END
 
+OUTER_SET ar3_proj = 2 // failsafe
 COPY_EXISTING ~arow15.itm~ ~override~ // get arrow +3 projectile
   READ_LONG  0x64 abil_off
   READ_SHORT 0x68 abil_num
@@ -20,6 +21,7 @@ COPY_EXISTING ~arow15.itm~ ~override~ // get arrow +3 projectile
   END
   BUT_ONLY
 
+OUTER_SET bolt3_proj = 12 // failsafe
 COPY_EXISTING ~bolt09.itm~ ~override~ // get bolt +3 projectile
   READ_LONG  0x64 abil_off
   READ_SHORT 0x68 abil_num
@@ -32,6 +34,7 @@ COPY_EXISTING ~bolt09.itm~ ~override~ // get bolt +3 projectile
   END
   BUT_ONLY
 
+OUTER_SET bull3_proj = 17 // failsafe
 COPY_EXISTING ~bull05.itm~ ~override~ // get bullet +3 projectile
   READ_LONG  0x64 abil_off
   READ_SHORT 0x68 abil_num
@@ -158,7 +161,7 @@ COPY_EXISTING ~quiver02.itm~ ~override~
   WRITE_ASCII 0x44 ~gquiver0~
   BUT_ONLY
 
-ACTION_IF enhanced_edition = 2 BEGIN
+ACTION_IF !FILE_EXISTS ~itemupgrade/languages/%LANGUAGE%/items_ee.tra~ BEGIN
 
   INCLUDE ~itemupgrade/lib/ee_game.tpa~ // function to redo descriptions
 
