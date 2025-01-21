@@ -154,6 +154,13 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2ax1h01.itm THEN BEGIN
        ~itemupgrade/eff/c2ax1h1b.eff~ ~override~
 
   APPEND ~tooltip.2da~ ~c2ax1h01 15527 15529 -1~ // tooltip stuff
+    
+  COPY_EXISTING ~ohhexam1.itm~ ~override~ // hexxat should be disallowed
+                ~ohhexam2.itm~ ~override~
+                ~ohhexam3.itm~ ~override~
+                ~ohhexam5.itm~ ~override~
+    LPF CLONE_EFFECT INT_VAR match_opcode = 180 STR_VAR match_resource = ax1h10 resource = c2amul01 END
+    BUT_ONLY IF_EXISTS
 
 END
 
@@ -883,6 +890,13 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2shld01.itm THEN BEGIN
     END
 
   COPY ~itemupgrade/bam/c2shld01.bam~ ~override~
+    
+  COPY_EXISTING ~ohhexam1.itm~ ~override~ // hexxat should be disallowed
+                ~ohhexam2.itm~ ~override~
+                ~ohhexam3.itm~ ~override~
+                ~ohhexam5.itm~ ~override~
+    LPF CLONE_EFFECT INT_VAR match_opcode = 180 STR_VAR match_resource = ax1h10 resource = c2shld01 END
+    BUT_ONLY IF_EXISTS
 
 END
 
@@ -1128,6 +1142,13 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sw1h01.itm THEN BEGIN
        ~itemupgrade/eff/c2sw1h1e.eff~ ~override~ // 1d8+4 extra damage (magic) vs. undead
 
   APPEND ~tooltip.2da~ ~c2sw1h01 15529 2664 -1~ // tooltip stuff
+    
+  COPY_EXISTING ~ohhexam1.itm~ ~override~ // hexxat should be disallowed
+                ~ohhexam2.itm~ ~override~
+                ~ohhexam3.itm~ ~override~
+                ~ohhexam5.itm~ ~override~
+    LPF CLONE_EFFECT INT_VAR match_opcode = 180 STR_VAR match_resource = sw1h31 resource = c2sw1h01 END
+    BUT_ONLY IF_EXISTS
 
 END
 
