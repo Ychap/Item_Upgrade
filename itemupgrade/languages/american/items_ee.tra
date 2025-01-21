@@ -33,7 +33,7 @@ Weight: 0~
 
 @105 = ~Ring of Elemental Mastery
 This ring combines the might of elements of Earth, Air and Fire and grants the user dominion over the creatures that hail from those planes. This ring was created for <CHARNAME> and its fame will no doubt grow with <PRO_HIMHER>.
- 
+
 STATISTICS:
 
 Equipped abilities:
@@ -59,7 +59,7 @@ Charge abilities:
 
 Weight: 0~
 @107 = ~Staff of Elemental Mastery +5
-Linked to three of the Elemental Planes, this powerful staff was forged at <CHARNAME>'s behest. It is a potent weapon in its own right, but it also possess the power of life and death over Elemental creatures. This particular staff is cold to the touch and is covered with burn marks and small gouges. Rumor has it that the secret for this sort of construction was originally discovered by the Rakshasa, who first used it to create the Flail of Ages. 
+Linked to three of the Elemental Planes, this powerful staff was forged at <CHARNAME>'s behest. It is a potent weapon in its own right, but it also possess the power of life and death over Elemental creatures. This particular staff is cold to the touch and is covered with burn marks and small gouges. Rumor has it that the secret for this sort of construction was originally discovered by the Rakshasa, who first used it to create the Flail of Ages.
 
 STATISTICS:
 
@@ -282,7 +282,7 @@ Forged at <CHARNAME>'s request, the Citadel Helmet protects its wearer from phys
 STATISTICS:
 
 Equipped abilities:
-– Protects against critical hits 
+– Protects against critical hits
 – Wearer is immune to Charm
 – Saving Throws: +1
 – Cold Resistance: +20%
@@ -418,7 +418,7 @@ The original Unicorn Spear was reforged by <CHARNAME> to serve as a ranged weapo
 
 STATISTICS:
 
-Equipped abilities: 
+Equipped abilities:
 – Immunity to charm and hold
 – Save vs. Death: +3
 
@@ -456,7 +456,7 @@ Weight: 3~
 @157 = ~Staff of the Woodlands +5
 Known only as the "Wild Man of the Wood", the man that carried this staff was a legendary figure near Trademeet until the day he died and returned to the soil. Those who saw him remember his dark, bark-like skin, a feature that would fade if the staff were set aside. He would harass irresponsible loggers and poachers, and old-timers tell of mercenaries chasing him with a dozen hunting dogs or more. The animals seemed ready to rip the poor druid to pieces, but he quickly turned them on their former masters. Rushing forward in hopes of ending his influence, the men-at-arms saw the final power of the staff, and as the vegetation trembled with the "Wild Man's" magical calling, there formed a green, rotting mix of life and death that shambled overtop of the terrified soldiers, killing them all.
 
-Recently the Staff was re-enchanted by <CHARNAME> to give it slightly better melee abilities. 
+Recently the Staff was re-enchanted by <CHARNAME> to give it slightly better melee abilities.
 
 STATISTICS:
 
@@ -532,7 +532,7 @@ Celestial Fury is a katana of excellent construction -- a flexible but unbreakab
 
 STATISTICS:
 
-Combat abilities: 
+Combat abilities:
 – Booming Thunder: Hit target must save vs. Spell or be stunned for 1 round
 – Shocking Blow: 5% chance of an extra 20 electrical damage to hit target
 
@@ -911,12 +911,12 @@ Weight: 0~
 @202 = ~Damage (thrown): 1d6+\1
 Damage (melee): 1d8~
 @203 = ~Acid Resistance: \+50%~
-@204 = ~Immunity to level drain~ 
+@204 = ~Immunity to level drain~
 @205 = ~– Pick Pockets:~
 @206 = ~– Immunity to backstab~
 @207 = ~STATISTICS:~
 @208 = ~Combat abilities:
-– Every hit inflicts pain, making living beings feel weakened for 1 round, suffering a penalty of 2 to THAC0 and AC, and a penalty of 2 to damage. This effect does not stack.~
+– Every hit inflicts pain, making living beings feel weakened for 1 round, suffering a penalty of 2 to THAC0, AC, and damage. This effect does not stack~
 @209 = ~– Magic Resistance:~
 @210 = ~– Magic damage resistance: +25%
 – Casting speed improved by 1~
