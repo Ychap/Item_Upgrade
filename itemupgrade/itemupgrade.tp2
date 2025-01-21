@@ -37,7 +37,7 @@ ALWAYS
 
 END
 
-VERSION ~v52~
+VERSION ~v53~
 
 README ~itemupgrade/readme-itemupgrade.%LANGUAGE%.txt~ 
        ~itemupgrade/readme-itemupgrade.%LANGUAGE%.html~ 
