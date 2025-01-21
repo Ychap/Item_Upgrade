@@ -1,5 +1,5 @@
 INCLUDE ~itemupgrade/lib/alter_header.tpa~
-  
+
 COPY_EXISTING ~ar0202.are~ ~override~ // UE quest, cult hideout
   LPF ALTER_AREA_DOOR INT_VAR flag_uses_key = 0 STR_VAR door_name = "DOORDRAG" END
   BUT_ONLY
@@ -19,8 +19,8 @@ COPY_EXISTING ~sw2h10.itm~ ~override~
   LPF ALTER_EFFECT INT_VAR silent = 1 check_headers = 0 match_opcode = 166 parameter2 = 0 END // adds 50% MR instead of setting it
   LPF ALTER_EFFECT INT_VAR silent = 1 check_globals = 0 header_type = 1 match_opcode = 58 power = 0 parameter2 = 0 END // dm always dispels on hit
   PATCH_IF !MOD_IS_INSTALLED ~zstweaks.tp2~ ~1430~ BEGIN // Make Two-handed swords deal 1d9+1 by default, and 2d6 where it applies
-    LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 12 dicenumber = 1 END   
-  END    
+    LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 12 dicenumber = 1 END
+  END
   BUT_ONLY IF_EXISTS
 
 // change MoD +5 to use MoD +1 BAMs instead of generic mace
@@ -67,7 +67,7 @@ END
 
 // get throwing STR weapon flag from azuredge; grab azuredge throwing projectile while we're here
 OUTER_SET throwing_flags = BIT0 // set failsafes
-OUTER_SET azure_proj     = 10 
+OUTER_SET azure_proj     = 10
 COPY_EXISTING ~ax1h10.itm~ ~override~ // get axe projectile
   READ_LONG  0x64 abil_off
   READ_SHORT 0x68 abil_num
@@ -180,15 +180,15 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2blun01.itm THEN BEGIN
     SAY NAME2     @122
     SAY DESC      @123
     PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1313~ BEGIN // Make Gnasher +2 slightly more painful
-      LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 146 target = 2 parameter2 = 1 timing = 1 dispel_resist = 2 STR_VAR rersource = zstwpain END
+      LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 146 target = 2 parameter2 = 1 timing = 1 resist_dispel = 2 STR_VAR resource = zstwpain END
       SPRINT old @207
-      SPRINT new @208       
+      SPRINT new @208
       READ_STRREF 0x54 desc
       INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
         REPLACE_TEXTUALLY ~%old%~ ~%old%%WNL%%WNL%%new%~
       END
       SAY_EVALUATED 0x54 ~%desc%~ // write changes
-    END  
+    END
 
   COPY ~itemupgrade/bam/c2blun01.bam~ ~override~
 
@@ -216,15 +216,15 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2blun03.itm THEN BEGIN
     SAY NAME2     @172
     SAY DESC      @173
     PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1313~ BEGIN // Make Gnasher +2 slightly more painful
-      LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 146 target = 2 parameter2 = 1 timing = 1 dispel_resist = 2 STR_VAR rersource = zstwpain END
+      LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 146 target = 2 parameter2 = 1 timing = 1 resist_dispel = 2 STR_VAR resource = zstwpain END
       SPRINT old @207
-      SPRINT new @208       
+      SPRINT new @208
       READ_STRREF 0x54 desc
       INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
         REPLACE_TEXTUALLY ~%old%~ ~%old%%WNL%%WNL%%new%~
       END
       SAY_EVALUATED 0x54 ~%desc%~ // write changes
-    END  
+    END
 
   COPY ~itemupgrade/bam/c2blun03.bam~ ~override~
        ~itemupgrade/eff/c2blun03.eff~ ~override~
@@ -314,7 +314,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2brac01.itm THEN BEGIN
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1180~ BEGIN // Make Ring of Danger sense protect against backstabs
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 292 target = 1 parameter2 = 1 timing = 2 END
         SPRINT old @205
-        SPRINT new @206       
+        SPRINT new @206
         READ_STRREF 0x54 desc
         INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
           REPLACE_TEXTUALLY ~%old%~ ~%new%%WNL%%old%~
@@ -360,11 +360,11 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2dagg01.itm THEN BEGIN
       LPF ALTER_EFFECT INT_VAR match_opcode = 39 parameter2 = 1 special = 14 END // don't wake on damage, add icon directly
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1440~ BEGIN // Make daggers have general extra features to compensate the low damage
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 301 target = 1 parameter1 = 1 parameter2 = 1 timing = 2 END
-        LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 341 target = 1 parameter2 = 1 timing = 2 STR_VAR resource = zstwdpq8 END
+        LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 341 target = 1 parameter2 = 1 timing = 2 STR_VAR resource = zstwd018 END
         LPF ALTER_HEADER INT_VAR match_type = 1 to_hit = 6 END
       END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
-        LPF ADD_ITEM_EFFECT INT_VAR type = 1 insert_point = 0 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 59 STR_VAR resource = zstwd4 END
+        LPF ADD_ITEM_EFFECT INT_VAR type = 1 insert_point = 0 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 48 STR_VAR resource = zstwd4 END
       END
     END
 
@@ -385,7 +385,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2hd1.itm THEN BEGIN
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1380~ BEGIN // Make Chaos and Entropy grant 1/2 APR each and improve them slightly.
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 1 target = 1 parameter1 = 6 timing = 2 END
         SPRINT old @213
-        SPRINT new @214        
+        SPRINT new @214
         READ_STRREF 0x54 desc
         INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
           REPLACE_TEXTUALLY ~%old%~ ~%old%%WNL%%new%~
@@ -393,7 +393,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2hd1.itm THEN BEGIN
         SAY_EVALUATED 0x54 ~%desc%~ // write changes
       END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
-        LPF ADD_ITEM_EFFECT INT_VAR insert_point = 0 type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 34 STR_VAR resource = zstwy3 END
+        LPF ADD_ITEM_EFFECT INT_VAR insert_point = 0 type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 30 STR_VAR resource = zstwy3 END
       END
     END
 
@@ -425,7 +425,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2hd2.itm THEN BEGIN
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1380~ BEGIN // Make Chaos and Entropy grant 1/2 APR each and improve them slightly.
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 1 target = 1 parameter1 = 6 timing = 2 END
         SPRINT old @213
-        SPRINT new @214        
+        SPRINT new @214
         READ_STRREF 0x54 desc
         INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
           REPLACE_TEXTUALLY ~%old%~ ~%old%%WNL%%new%~
@@ -433,7 +433,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2hd2.itm THEN BEGIN
         SAY_EVALUATED 0x54 ~%desc%~ // write changes
       END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
-        LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 34 STR_VAR resource = zstwy3 END
+        LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 31 STR_VAR resource = zstwy3 END
       END
     END
 
@@ -570,15 +570,15 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2keld02.itm THEN BEGIN
         LPF DELETE_EFFECT INT_VAR match_opcode = 240 match_parameter2 = 48 END
       END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1430~ BEGIN // Make Two-handed swords deal 1d9+1 by default, and 2d6 where it applies
-        LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 6 dicenumber = 2 END   
+        LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 6 dicenumber = 2 END
         SPRINT old @215
-        SPRINT new @216       
+        SPRINT new @216
         READ_STRREF 0x54 desc
         INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
           REPLACE_TEXTUALLY ~%old%~ ~%new%~
         END
         SAY_EVALUATED 0x54 ~%desc%~ // write changes
-      END    
+      END
     END ELSE BEGIN
       PATCH_IF FILE_EXISTS_IN_GAME ~cditmdm0.spl~ THEN BEGIN // if Fixpack's item dispel magic spell is installed
         LPF ALTER_EFFECT INT_VAR match_opcode = 58 opcode = 146 parameter1 = 0 parameter2 = 1 STR_VAR resource = ~cditmdm0~ END // change dispel to cast spell
@@ -669,12 +669,12 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2mazz01.itm THEN BEGIN
         LPF DELETE_EFFECT INT_VAR match_opcode = 240 match_parameter2 = 55 END
       END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
-        LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 34 STR_VAR resource = zstwy5 END
+        LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 33 STR_VAR resource = zstwy5 END
       END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1500~ BEGIN // Make Mazzy's weapons slightly more powerful
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 1 target = 1 parameter1 = 6 timing = 2 END
         SPRINT old @213
-        SPRINT new @214        
+        SPRINT new @214
         READ_STRREF 0x54 desc
         INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
           REPLACE_TEXTUALLY ~%old%~ ~%old%%WNL%%new%~
@@ -817,7 +817,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2robe01.itm THEN BEGIN
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode =  31 target = 1 parameter1 = 25 timing = 2 END
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 189 target = 1 parameter1 =  1 timing = 2 END
         SPRINT old @209
-        SPRINT new @210       
+        SPRINT new @210
         READ_STRREF 0x54 desc
         INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
           REPLACE_TEXTUALLY ~%old%~ ~%new%%WNL%%old%~
@@ -839,7 +839,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2robe02.itm THEN BEGIN
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode =  31 target = 1 parameter1 = 25 timing = 2 END
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 189 target = 1 parameter1 =  1 timing = 2 END
         SPRINT old @209
-        SPRINT new @210     
+        SPRINT new @210
         READ_STRREF 0x54 desc
         INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
           REPLACE_TEXTUALLY ~%old%~ ~%new%%WNL%%old%~
@@ -861,7 +861,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2robe03.itm THEN BEGIN
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode =  31 target = 1 parameter1 = 25 timing = 2 END
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 189 target = 1 parameter1 =  1 timing = 2 END
         SPRINT old @209
-        SPRINT new @210        
+        SPRINT new @210
         READ_STRREF 0x54 desc
         INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
           REPLACE_TEXTUALLY ~%old%~ ~%new%%WNL%%old%~
@@ -927,15 +927,15 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper01.itm THEN BEGIN
       END
     END
     PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1150~ BEGIN // Make spears do a baseline damage of 1d8, not 1d6
-      LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 8 END   
+      LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 8 END
       SPRINT old @201
-      SPRINT new @202        
+      SPRINT new @202
       READ_STRREF 0x54 desc
       INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
         REPLACE_TEXTUALLY ~%old%~ ~%new%~
       END
       SAY_EVALUATED 0x54 ~%desc%~ // write changes
-    END  
+    END
 
   COPY ~itemupgrade/bam/c2sper01.bam~ ~override~
 
@@ -965,15 +965,15 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper02.itm THEN BEGIN
         LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 175 opcode = 328 parameter2 = hold_immunity special = 1 STR_VAR insert = first END // clone immunity to hold into set spell state
       END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1150~ BEGIN // Make spears do a baseline damage of 1d8, not 1d6
-        LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 8 END   
+        LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 8 END
         SPRINT old @201
-        SPRINT new @202        
+        SPRINT new @202
         READ_STRREF 0x54 desc
         INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
           REPLACE_TEXTUALLY ~%old%~ ~%new%~
         END
         SAY_EVALUATED 0x54 ~%desc%~ // write changes
-      END  
+      END
     END
 
   COPY ~itemupgrade/bam/c2sper02.bam~ ~override~
@@ -997,15 +997,15 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper03.itm THEN BEGIN
       END
     END
     PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1150~ BEGIN // Make spears do a baseline damage of 1d8, not 1d6
-      LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 8 END   
+      LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 8 END
       SPRINT old @201
-      SPRINT new @202        
+      SPRINT new @202
       READ_STRREF 0x54 desc
       INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
         REPLACE_TEXTUALLY ~%old%~ ~%new%~
       END
       SAY_EVALUATED 0x54 ~%desc%~ // write changes
-    END  
+    END
 
   COPY ~itemupgrade/bam/c2sper03.bam~ ~override~
 
@@ -1060,7 +1060,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2staf01.itm THEN BEGIN
         LPF ADD_ITEM_EQEFFECT INT_VAR insert_point = 0 opcode = 263 target = 1 timing = 2 END
         READ_LONG 0x6a fx_off
         WRITE_LONG (fx_off + 0x04) "-2" // since we're inserting as first effect, this lazy and bad thing works
-      END  
+      END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
         LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 9 STR_VAR resource = zstwq5 END
       END
@@ -1108,7 +1108,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2staf02.itm THEN BEGIN
         LPF ADD_ITEM_EQEFFECT INT_VAR insert_point = 0 opcode = 263 target = 1 timing = 2 END
         READ_LONG 0x6a fx_off
         WRITE_LONG (fx_off + 0x04) "-2" // since we're inserting as first effect, this lazy and bad thing works
-      END  
+      END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
         LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 9 STR_VAR resource = zstwq5 END
       END
@@ -1129,9 +1129,9 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sw1h01.itm THEN BEGIN
       LPF ADD_ITEM_EQEFFECT INT_VAR insert_point = 0 opcode = 263 target = 1 timing = 2 END
       READ_LONG 0x6a fx_off
       WRITE_LONG (fx_off + 0x04) "-1" // since we're inserting as first effect, this lazy and bad thing works
-    END  
+    END
     PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
-      LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 9 STR_VAR resource = zstwl4 END
+      LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 11 STR_VAR resource = zstwl4 END
     END
 
   COPY ~itemupgrade/bam/c2sw1h01.bam~ ~override~
@@ -1161,19 +1161,19 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sw1h02.itm THEN BEGIN
       LPF ADD_ITEM_EQEFFECT INT_VAR insert_point = 0 opcode = 263 target = 1 timing = 2 END
       READ_LONG 0x6a fx_off
       WRITE_LONG (fx_off + 0x04) "-1" // since we're inserting as first effect, this lazy and bad thing works
-    END  
+    END
     PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1370~ BEGIN // Make Katanas deal 2d5 instead of 1d10
-      LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 5 dicenumber = 2 END   
+      LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 5 dicenumber = 2 END
       SPRINT old @211
-      SPRINT new @212             
+      SPRINT new @212
       READ_STRREF 0x54 desc
       INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
         REPLACE_TEXTUALLY ~%old%~ ~%new%~
       END
       SAY_EVALUATED 0x54 ~%desc%~ // write changes
-    END  
+    END
     PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
-      LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 14 STR_VAR resource = zstwk5 END
+      LPF ADD_ITEM_EFFECT INT_VAR type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 16 STR_VAR resource = zstwk5 END
     END
 
   COPY ~itemupgrade/bam/c2sw1h02.bam~ ~override~
@@ -1199,9 +1199,9 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sw1h03.itm THEN BEGIN
         LPF ADD_ITEM_EQEFFECT INT_VAR insert_point = 0 opcode = 263 target = 1 timing = 2 END
         READ_LONG 0x6a fx_off
         WRITE_LONG (fx_off + 0x04) "-1" // since we're inserting as first effect, this lazy and bad thing works
-      END  
+      END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
-        LPF ADD_ITEM_EFFECT INT_VAR insert_point = 0 type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 14 STR_VAR resource = zstwl4 END
+        LPF ADD_ITEM_EFFECT INT_VAR insert_point = 0 type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 11 STR_VAR resource = zstwl4 END
       END
     END
 
@@ -1221,15 +1221,15 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sw2h01.itm THEN BEGIN
       LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 128 opcode = 328 parameter2 = confusion_immunity special = 1 STR_VAR insert = first END // clone immunity to confusion into set spell state
     END
     PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1430~ BEGIN // Make Two-handed swords deal 1d9+1 by default, and 2d6 where it applies
-      LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 6 dicenumber = 2 END   
+      LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 6 dicenumber = 2 END
       SPRINT old @215
-      SPRINT new @216       
+      SPRINT new @216
       READ_STRREF 0x54 desc
       INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
         REPLACE_TEXTUALLY ~%old%~ ~%new%~
       END
       SAY_EVALUATED 0x54 ~%desc%~ // write changes
-    END    
+    END
 
   COPY ~itemupgrade/bam/c2sw2h01.bam~ ~override~
 
@@ -1249,19 +1249,19 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2valy01.itm THEN BEGIN
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1170~ BEGIN // Make Shadow Dragon Scale behave less like a Black Dragon Scale
         LPF ALTER_EFFECT INT_VAR match_opcode = 142 match_parameter2 = 24 parameter2 = 90 END // change pro-acid icon to NPP icon
         LPF ALTER_EFFECT INT_VAR match_opcode = 27 opcode = 101 parameter1 = 0 parameter2 = 216 END // change acid resistance to LD immunity
-        LPF CLONE_EFFECT INT_VAR match_opcode = 101 match_parameter2 = 216 opcode = 169 parameter2 = 59 END // prevent energy drain icon 
-        LPF CLONE_EFFECT INT_VAR match_opcode = 101 match_parameter2 = 216 opcode = 169 parameter2 = 53 END // prevent energy drain icon 
+        LPF CLONE_EFFECT INT_VAR match_opcode = 101 match_parameter2 = 216 opcode = 169 parameter2 = 59 END // prevent energy drain icon
+        LPF CLONE_EFFECT INT_VAR match_opcode = 101 match_parameter2 = 216 opcode = 169 parameter2 = 53 END // prevent energy drain icon
         PATCH_FOR_EACH string IN 41495 40968 40969 40979 41616 BEGIN
           LPF CLONE_EFFECT INT_VAR match_opcode = 101 match_parameter2 = 216 opcode = 267 parameter1 = string parameter2 = 0 END // prevent X level drain message
-        END  
+        END
         SPRINT old @203
-        SPRINT new @204       
+        SPRINT new @204
         READ_STRREF 0x54 desc
         INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
           REPLACE_TEXTUALLY ~%old%~ ~%new%~
         END
         SAY_EVALUATED 0x54 ~%desc%~ // write changes
-      END  
+      END
     END
 
   COPY ~itemupgrade/bam/c2valy01.bam~ ~override~
