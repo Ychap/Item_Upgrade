@@ -1,7 +1,7 @@
 EXTEND_BOTTOM WSMITH01 13
 	IF ~PartyHasItem("staf14")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND WSMITH01
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @123468
 		IF ~PartyHasItem("staf14")
@@ -21,11 +21,11 @@ APPEND WSMITH01
 			PartyHasItem("ring03")
 			PartyHasItem("ring06cd")~ THEN GOTO XO#ItemUp04
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @1234868
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @1234968
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",26)
@@ -40,7 +40,7 @@ APPEND WSMITH01
 													 DestroyItem("ring06")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp03 SAY @1234968
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",26)
@@ -55,7 +55,7 @@ APPEND WSMITH01
 													 DestroyItem("cdring06")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp04 SAY @1234968
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",26)

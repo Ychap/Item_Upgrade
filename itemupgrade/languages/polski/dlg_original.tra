@@ -9,7 +9,7 @@
 @12348 = ~Jest jakaś szansa na ulepszenie moich Butów uziemienia?~
 @12349 = ~Czy możesz stworzyć coś z tych Butów uników?~
 @123410 = ~Czy jesteś w stanie ulepszyć Czarną krew?~
-@123411 = ~Czy możesz uczynić tę Kościaną maczugę potężniejszą?~ 
+@123411 = ~Czy możesz uczynić tę Kościaną maczugę potężniejszą?~
 @123412 = ~Chciałbym uczynić mój Rozłupywacz czaszek potężniejszym. Możesz mi w tym pomóc?~ ~Chciałabym uczynić mój Rozłupywacz czaszek potężniejszym. Możesz mi w tym pomóc?~
 @123413 = ~Co możesz zrobić, by ulepszyć Poszukiwacza serc?~
 @123414 = ~Czy możesz przekuć rodową zbroję mego przyjaciela Valygara?~
@@ -122,9 +122,9 @@ From: Your pal Kelsey <kelseynpc@5678attbi.com>
 To: weimer@5678cs.berkeley.edu
 Subject: Item Upgrade: Audio-tagged TRA
 
-Can you work this into the next IU release so that people can be 
-subjected to... er, that is, enjoy my Cespenar audio without having to 
-go through a reinstall with a separate TRA? Taken from the latest 
+Can you work this into the next IU release so that people can be
+subjected to... er, that is, enjoy my Cespenar audio without having to
+go through a reinstall with a separate TRA? Taken from the latest
 version, I just added the tags, changed nothing.
 */
 
@@ -140,7 +140,7 @@ version, I just added the tags, changed nothing.
 @56788 = ~Jest jakaś szansa na ulepszenie tych Butów uziemienia?~
 @56789 = ~Czy możesz stworzyć coś z tych Butów uników?~
 @567810 = ~Czy jesteś w stanie ulepszyć Czarną krew?~
-@567811 = ~Czy możesz uczynić tę Kościaną maczugę potężniejszą?~ 
+@567811 = ~Czy możesz uczynić tę Kościaną maczugę potężniejszą?~
 @567812 = ~Chciałbym uczynić mój Rozłupywacz czaszek potężniejszym. Czy możesz mi pomóc?~ ~Chciałabym uczynić mój Rozłupywacz czaszek potężniejszym. Czy możesz mi pomóc?~
 @567813 = ~Co możesz zrobić, by ulepszyć Poszukiwacza serc?~
 @567814 = ~Czy możesz przekuć rodową zbroję mojego przyjaciela Valygara?~

@@ -5,7 +5,7 @@ END
 APPEND BOTSMITH
   IF ~~ THEN BEGIN XO#ItemUp00 SAY @567855
     IF ~~ THEN GOTO XO#ItemUp01_contin
-    IF ~Global("CD_SCS_Contingency","MYAREA",1)~ THEN GOTO XO#ItemUp01_goi    
+    IF ~Global("CD_SCS_Contingency","MYAREA",1)~ THEN GOTO XO#ItemUp01_goi
     IF ~PartyHasItem("clck17")
         PartyHasItem("scrl7u")
         Global("CD_SCS_Contingency","MYAREA",0)

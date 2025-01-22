@@ -1,7 +1,7 @@
 EXTEND_BOTTOM WSMITH01 13
 	IF ~PartyHasItem("misc3e")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND WSMITH01
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @123496
 		IF ~PartyHasItem("misc3e")
@@ -14,11 +14,11 @@ APPEND WSMITH01
 			PartyHasItem("scrl99")
 			NumItemsPartyGT("dagg16",4)~ THEN GOTO XO#ItemUp02
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @1234896
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @1234996
 		IF ~PartyGoldLT(5000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(4999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",40)

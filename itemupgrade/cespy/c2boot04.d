@@ -1,7 +1,7 @@
 EXTEND_BOTTOM BOTSMITH 4
 	IF ~PartyHasItem("boot05")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND BOTSMITH
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @567846
 		IF ~~ THEN GOTO XO#ItemUp01
@@ -12,11 +12,11 @@ APPEND BOTSMITH
 			PartyHasItem("bdboot05")
 			PartyHasItem("misc45")~ THEN GOTO XO#ItemUp03
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @5678846
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @5678946
 		IF ~PartyGoldLT(10000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(9999)~ THEN REPLY #66664 DO ~SetGlobal("XO#TOBItemUp","GLOBAL",7)
@@ -32,7 +32,7 @@ APPEND BOTSMITH
 													 DestroyItem("misc45")~ GOTO 11
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp03 SAY @5678946
 		IF ~PartyGoldLT(10000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(9999)~ THEN REPLY #66664 DO ~SetGlobal("XO#TOBItemUp","GLOBAL",7)

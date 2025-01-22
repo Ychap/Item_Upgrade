@@ -1,19 +1,19 @@
 EXTEND_BOTTOM BOTSMITH 4
 	IF ~PartyHasItem("ax1h10")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND BOTSMITH
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @567889
-		IF ~PartyHasItem("ax1h10") 
+		IF ~PartyHasItem("ax1h10")
 			!PartyHasItem("misc5k")~ THEN GOTO XO#ItemUp01
 		IF ~PartyHasItem("ax1h10")
             PartyHasItem("misc5k")~ THEN GOTO XO#ItemUp02
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @5678889
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @5678989
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#TOBItemUp","GLOBAL",37)

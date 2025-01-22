@@ -21,7 +21,7 @@ Specjalne:
  Regeneruje 1 pkt. życia co 6 sekund~
 
 @104 = ~Pierścień kontroli nad żywiołami~
-@105 = ~Pierścień ten łączy w sobie potęgę żywiołów ziemi, powietrza i ognia i zezwala użytkownikowi dominować nad istotami pochodzącymi z tych sfer. Pierścień został stworzony dla ciebie i jego sława będzie niewątpliwie rosnąć z twoją. 
+@105 = ~Pierścień ten łączy w sobie potęgę żywiołów ziemi, powietrza i ognia i zezwala użytkownikowi dominować nad istotami pochodzącymi z tych sfer. Pierścień został stworzony dla ciebie i jego sława będzie niewątpliwie rosnąć z twoją.
 
 PARAMETRY:
 
@@ -57,28 +57,28 @@ Nie może używać:
  Mnich~
 
 @108 = ~Kołczan obfitości +3~
-@109 = ~Pieniądze i surowce zainwestowane w Kołczan obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości. 
- 
+@109 = ~Pieniądze i surowce zainwestowane w Kołczan obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości.
+
 PARAMETRY:
- 
+
 Nieograniczona liczba strzał +3~
 
 @110 = ~Futerał obfitości +3~
-@111 = ~Pieniądze i surowce zainwestowane w Futerał obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości. 
- 
+@111 = ~Pieniądze i surowce zainwestowane w Futerał obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości.
+
 PARAMETRY:
- 
+
 Nieograniczona liczba bełtów +3~
 
 @112 = ~Torba obfitości +3~
-@113 = ~Pieniądze i surowce zainwestowane w Torbę obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości. Aczolwiek jakoś nie są one zadowalające. Czy kiedykolwiek zainwestowałeś pieniądze i surowce w magiczny objekt tylko po to, by przekonać się, że jest on bezużyteczny? To znaczy, z wyjątkiem Wyrównywacza i Fali. Myślę, że nie. 
+@113 = ~Pieniądze i surowce zainwestowane w Torbę obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości. Aczolwiek jakoś nie są one zadowalające. Czy kiedykolwiek zainwestowałeś pieniądze i surowce w magiczny objekt tylko po to, by przekonać się, że jest on bezużyteczny? To znaczy, z wyjątkiem Wyrównywacza i Fali. Myślę, że nie.
 
 PARAMETRY:
- 
+
 Nieograniczona liczba pocisków do procy +3~
 
 @114 = ~Buty przyspieszonego ukrycia~
-@115 = ~Doskonałe dla zwiadowców, którzy pragną zostać niewykryci, Buty przyspieszonego ukrycia łączą w sobie moce Butów szybkości i Butów ukrycia. Zostały zrobione na twoje zamówienie. 
+@115 = ~Doskonałe dla zwiadowców, którzy pragną zostać niewykryci, Buty przyspieszonego ukrycia łączą w sobie moce Butów szybkości i Butów ukrycia. Zostały zrobione na twoje zamówienie.
 
 Specjalne:
  Zwiększają prędkość poruszania się
@@ -87,7 +87,7 @@ Specjalne:
 Waga: 4~
 
 @116 = ~Buty zamieci~
-@117 = ~Doskonałe dla poszukiwacza przygód podróżującego po jaskini lodowych trollów lub innym chłodnym obszarze, Buty zamieci łączą w sobie moce Butów szybkości i Butów Północy, które zostały połączone specjalnie dla ciebie. 
+@117 = ~Doskonałe dla poszukiwacza przygód podróżującego po jaskini lodowych trollów lub innym chłodnym obszarze, Buty zamieci łączą w sobie moce Butów szybkości i Butów Północy, które zostały połączone specjalnie dla ciebie.
 
 PARAMETRY:
 
@@ -118,7 +118,7 @@ Waga: 4~
 
 @122 = ~Niewierna żona +5~
 @123 = ~Maczuga +5: Niewierna żona
-Stworzona na twoje zamówienie poprzez połączenie maczug: Czarnej krwi i Zgniatacza, Niewierna żona pulsuje destrukcyjną mocą. Pokryta jest substancją podobną do kwasu, która pali ciało przy zetknięciu. Niewierna żona zadaje potężne rany także miażdząc kręgosłup. 
+Stworzona na twoje zamówienie poprzez połączenie maczug: Czarnej krwi i Zgniatacza, Niewierna żona pulsuje destrukcyjną mocą. Pokryta jest substancją podobną do kwasu, która pali ciało przy zetknięciu. Niewierna żona zadaje potężne rany także miażdząc kręgosłup.
 
 Obrażenia: 1K6 +5, +5 pkt. obrażeń od kwasu, drzazgi dodają 3 pkt. obrażeń co rundę przez 4 rundy
 Trak0: +5
@@ -126,7 +126,7 @@ Typ obrażeń: obuchowe
 Specjalne:
  +25% do odporności na kwas
 Waga: 3
-Opóźnienie: 1 
+Opóźnienie: 1
 Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagana siła: 5
@@ -135,7 +135,7 @@ Nie może używać:
 
 @124 = ~Rozłupywacz czaszek +5~
 @125 = ~Wekiera +5: Rozłupywacz czaszek
-Ta wekiera jest na stałe splamiona krwią, znak wielu lat poświęconych na rozłupywanie głów. Broń ta mogła w przeszłości przynosić zagładę humanoidom, ale jej właściciele zostali prawdopodobnie celowo usunięci ze źródeł historycznych. Ostatnio za twoim pośrednictwem została przemieniona w jeszcze bardziej budzącą grozę broń. 
+Ta wekiera jest na stałe splamiona krwią, znak wielu lat poświęconych na rozłupywanie głów. Broń ta mogła w przeszłości przynosić zagładę humanoidom, ale jej właściciele zostali prawdopodobnie celowo usunięci ze źródeł historycznych. Ostatnio za twoim pośrednictwem została przemieniona w jeszcze bardziej budzącą grozę broń.
 
 PARAMETRY:
 
@@ -155,14 +155,14 @@ Nie może używać:
  Złodziej~
 
 @126 = ~Teleomortis +4~
-@127 = ~Stworzony w twoim imieniu używając mrocznych i strasznych rytuałów, Teleomortis jest długim łukiem o niezrównanej potędze. Kiedy cięciwa jest naciągana formuje się duchowa strzała, zdająca się migotać i kręcić w świetle. Łuk nie wymaga żadnej dodatkowej amunicji (chociaż może on używać również innych strzał). Duchowe strzały powstają z niewiadomych przyczyn, pozostając tajemnicą tego łuku. 
+@127 = ~Stworzony w twoim imieniu używając mrocznych i strasznych rytuałów, Teleomortis jest długim łukiem o niezrównanej potędze. Kiedy cięciwa jest naciągana formuje się duchowa strzała, zdająca się migotać i kręcić w świetle. Łuk nie wymaga żadnej dodatkowej amunicji (chociaż może on używać również innych strzał). Duchowe strzały powstają z niewiadomych przyczyn, pozostając tajemnicą tego łuku.
 
 PARAMETRY:
 
 Obrażenia: 1K6 +4
 TraK0: +4
 Specjalne:
- Nie potrzebuje amunicji, tworzy bowiem swe własne duchowe strzały +4. Istnieje 5% szansa, że cel trafiony taką strzałą zostanie wprawiony w zamęt na okres 5 rund. 
+ Nie potrzebuje amunicji, tworzy bowiem swe własne duchowe strzały +4. Istnieje 5% szansa, że cel trafiony taką strzałą zostanie wprawiony w zamęt na okres 5 rund.
 Waga: 7
 Opóźnienie: 1
 Rodzaj biegłości: długi łuk
@@ -186,7 +186,7 @@ Specjalne:
  Niewykrywalność
  +50% do odporności na ogień, kwas i obrażenia magiczne
 Waga: 9
-Może używać: 
+Może używać:
  Valygar~
 
 @130 = ~Wzmocniona szata dobrego arcymaga~
@@ -196,10 +196,10 @@ PARAMETRY:
 
 Klasa Pancerza: 3
 Specjalne:
- Pozwala zapamiętać po 1 dodatkowym zaklęciu z poziomów 1, 2, 3 i 4. 
+ Pozwala zapamiętać po 1 dodatkowym zaklęciu z poziomów 1, 2, 3 i 4.
  +10% do odporności na magię
  +2 do rzutów obronnych
-Waga: 6 
+Waga: 6
 Może używać:
  Mag
  Postać o dobrym charakterze~
@@ -211,10 +211,10 @@ PARAMETRY:
 
 Klasa Pancerza: 3
 Specjalne:
- Pozwala zapamiętać po 1 dodatkowym zaklęciu z poziomów 1, 2, 3 i 4. 
+ Pozwala zapamiętać po 1 dodatkowym zaklęciu z poziomów 1, 2, 3 i 4.
  +10% do odporności na magię
  +2 do rzutów obronnych
-Waga: 6 
+Waga: 6
 Może używać:
  Mag
  Postać o neutralnym charakterze~
@@ -226,16 +226,16 @@ PARAMETRY:
 
 Klasa Pancerza: 3
 Specjalne:
- Pozwala zapamiętać po 1 dodatkowym zaklęciu z poziomów 1, 2, 3 i 4. 
+ Pozwala zapamiętać po 1 dodatkowym zaklęciu z poziomów 1, 2, 3 i 4.
  +10% do odporności na magię
  +2 do rzutów obronnych
-Waga: 6 
+Waga: 6
 Może używać:
  Mag
  Postać o złym charakterze~
 
 @136 = ~Hełm Cytadeli~
-@137 = ~Wykuty na twoje życzenie, Hełm Cytadeli chroni noszącą go osobę przed fizycznymi, magicznymi i umysłowymi atakami. Łączy on w sobie defensywną moc Hełmu ochrony i Hełmu ochrony przed urokami. W dodatku wygląda wyzywająco. 
+@137 = ~Wykuty na twoje życzenie, Hełm Cytadeli chroni noszącą go osobę przed fizycznymi, magicznymi i umysłowymi atakami. Łączy on w sobie defensywną moc Hełmu ochrony i Hełmu ochrony przed urokami. W dodatku wygląda wyzywająco.
 
 PARAMETRY:
 
@@ -286,7 +286,7 @@ Nie może używać:
 
 PARAMETRY:
 
-Klasa Pancerza: 0 
+Klasa Pancerza: 0
 Specjalne:
  +4 do rzutów obronnych
  +20% do odporności na magię
@@ -300,7 +300,7 @@ Nie może używać:
  Postać o charakterze dobrym lub neutralnym~
 
 @144 = ~Ulepszona pełna zbroja płytowa Firecama~
-@145 = ~Ta zbroja została zaprojektowana specjalnie dla Keldorna. Zbroja została później umagiczniona, gdy zażyczył sobie tego <CHARNAME>, aby zapewniała Keldornowi lepszą ochronę. Będąc na wyposażeniu zapewnia właścicielowi premię +2 do wszystkich rzutów obronnych oraz pozwala na Swobodę działania (np. przechodzenie przez pajęczyny) oraz odporność na strach. Poza byciem niesamowicie silną, zbroja prawie nic nie waży. 
+@145 = ~Ta zbroja została zaprojektowana specjalnie dla Keldorna. Zbroja została później umagiczniona, gdy zażyczył sobie tego <CHARNAME>, aby zapewniała Keldornowi lepszą ochronę. Będąc na wyposażeniu zapewnia właścicielowi premię +2 do wszystkich rzutów obronnych oraz pozwala na Swobodę działania (np. przechodzenie przez pajęczyny) oraz odporność na strach. Poza byciem niesamowicie silną, zbroja prawie nic nie waży.
 
 PARAMETRY:
 
@@ -314,7 +314,7 @@ Może używać:
  Keldorn~
 
 @146 = ~Ulepszona zbroja płytowa z ankhega~
-@147 = ~Ta zbroja płytowa to istne cacko. Powleczona chitynową łuską ankhega zapewnia lepszą ochronę niż pancerz wykonany z metalu i nie jest podatna na rdzę. Jednakże, jak powie ci to każdy doświadczony poszukiwacz przygód, jej największą zaletą jest niewielka waga. Potwory przychodzą i odchodzą, wyczerpanie natomiast jest stałym zagrożeniem. 
+@147 = ~Ta zbroja płytowa to istne cacko. Powleczona chitynową łuską ankhega zapewnia lepszą ochronę niż pancerz wykonany z metalu i nie jest podatna na rdzę. Jednakże, jak powie ci to każdy doświadczony poszukiwacz przygód, jej największą zaletą jest niewielka waga. Potwory przychodzą i odchodzą, wyczerpanie natomiast jest stałym zagrożeniem.
 Ta szczególna zbroja została przekuta na twoją prośbę. Zapewnia ona teraz dodatkową ochronę i pozwala noszącemu ją na naśladowanie ataków plującego kwasem ankhega.
 
 PARAMETRY:
@@ -333,9 +333,9 @@ Nie może używać:
 
 @148 = ~Tarcza harmonii +3~
 @149 = ~Audn z Pola, rycerz i czempion czarodzieja Kekkima, nosił tę tarczę przez większość swojego życia. Chroni ona nosiciela przed większością form kontroli umysłu, co jest zaletą dla czarodzieja, który potrzebował przyjaznych mu wojowników, aby stali wiernie po jego stronie. Zarówno Kekkim, jak i Audn dawno już gryzą ziemię, pozostawiwszy tarczę temu, kto wydostanie ją z wieży czarodzieja.
-Niedawno tarcza ta została dodatkowo umagiczniona przez ciebie. Zapewnia teraz dodatkową fizyczną ochronę i sprawia, że noszący ją jest odporny na psionikę (ale nie przed wysysającymi inteligencję atakami illithidów). 
+Niedawno tarcza ta została dodatkowo umagiczniona przez ciebie. Zapewnia teraz dodatkową fizyczną ochronę i sprawia, że noszący ją jest odporny na psionikę (ale nie przed wysysającymi inteligencję atakami illithidów).
 
-PARAMETRY: 
+PARAMETRY:
 
 Klasa Pancerza: +4
 Specjalne:
@@ -350,7 +350,7 @@ Nie może używać:
 
 @150 = ~Rzucana włócznia +3~
 @151 = ~Włócznia to jeden z najwcześniejszych rodzajów broni, którymi zaczął posługiwać się człowiek. Pierwsze egzemplarze tej broni były wykonane z drewna i zaostrzone na końcu. Kiedy człowiek nauczył się wytapiać metale, groty włóczni były wytwarzane z żelaza i stali. Ta włócznia drży od potężnej magii wykorzystanej do jej stworzenia.
-W przeciwieństwie do niemal wszystkich włóczni, które znasz, tą można rzucać. Została wykuta dla ciebie przy użyciu kamienia łotrzyków. Kiedy jest rzucana, włócznia natychmiast wraca do rąk właściciela. (Włócznia może być wykorzystywana jako broń ręczna: wybierz wtedy drugą zdolność broni, aby tak zrobić.) 
+W przeciwieństwie do niemal wszystkich włóczni, które znasz, tą można rzucać. Została wykuta dla ciebie przy użyciu kamienia łotrzyków. Kiedy jest rzucana, włócznia natychmiast wraca do rąk właściciela. (Włócznia może być wykorzystywana jako broń ręczna: wybierz wtedy drugą zdolność broni, aby tak zrobić.)
 
 PARAMETRY:
 
@@ -372,7 +372,7 @@ Nie może używać:
 
 @152 = ~Rzucana Włócznia jednorożca +3~
 @153 = ~Ta zgrabna włócznia kształtem przypomina róg jednorożca. Władający ta bronią jest niewrażliwy na czary Unieruchomienie i Zauroczenie, tak samo jak jednorożec. Nie wiadomo czy ten róg jest prawdziwym rogiem jednorożca.
-Oryginalna Włócznia jednorożca została przekuta tak, by można jej używać jako broni dystansowej. Kiedy jest rzucana, włócznia natychmiast wraca do rąk właściciela. (Włócznia może być wykorzystywana jako broń ręczna: wybierz wtedy drugą zdolność broni, aby tak zrobić.) 
+Oryginalna Włócznia jednorożca została przekuta tak, by można jej używać jako broni dystansowej. Kiedy jest rzucana, włócznia natychmiast wraca do rąk właściciela. (Włócznia może być wykorzystywana jako broń ręczna: wybierz wtedy drugą zdolność broni, aby tak zrobić.)
 
 PARAMETRY:
 
@@ -419,7 +419,7 @@ Nie może używać:
 @156 = ~Kostur Lasów +5~
 @157 = ~Kostur Lasów
 Człowiek, który go posiadał, znany jako "Dziki mąż z lasu", był w okolicach Targowa postacią legendarną do chwili, kiedy umarł i powrócił do ziemi. Ci, którzy go widzieli pamiętają jego ciemną, podobną do kory skórę, która znikała, gdy odkładał swój kostur. Osobnik ten nękał nieodpowiedzialnych drwali i przechodniów, a starcy opowiadają, jak kiedyś wybrali się na niego najemnicy z tuzinem psów myśliwskich. Zwierzęta były gotowe rozerwać biednego druida na strzępy, ale on szybko zwrócił je przeciwko ich własnym panom. Ruszywszy do przodu w nadziei przerwania tego wpływu, zbrojni ujrzeli ostatnią moc kostura, gdy roślinność zadrżała od magicznego wezwania "Dzikiego męża". Uformowała się zielona, gnijąca mieszanina życia i śmierci, która opadła na przerażonych żołnierzy, zabijając ich wszystkich.
-Niedawno <CHARNAME> zlecił<PRO_HESHE> ulepszenie kostura, dzięki czemu można skorzystać z nowych zdolności. 
+Niedawno <CHARNAME> zlecił<PRO_HESHE> ulepszenie kostura, dzięki czemu można skorzystać z nowych zdolności.
 
 PARAMETRY:
 
@@ -430,7 +430,7 @@ Specjalne:
  +3 do Klasy Pancerza
  Korowa skóra (KP 3) (gdy używany)
  Sześć razy dziennie pozwala rzucać Przyzwanie pokracznego kopca na okres 100 sekund
- Sześć razy dziennie pozwala rzucać Wzmocnione zauroczenie zwierząt na okres 5 tur (bez możliwości wykonania rzutu obronnego) 
+ Sześć razy dziennie pozwala rzucać Wzmocnione zauroczenie zwierząt na okres 5 tur (bez możliwości wykonania rzutu obronnego)
  5% szansa, że cel (i jego sojusznicy) zostaną dotknięci plagą Pełzającej zagłady przy trafieniu
 Waga: 2
 Opóźnienie: 0
@@ -444,11 +444,11 @@ Może używać
 @158 = ~Dzienna Gwiazda +4~
 @159 = ~Słoneczne ostrze: Dzienna Gwiazda +4
 Niezależnie od tego czy miecz został stworzony specjalnie by służyć Tormowi, czy też zaczęto wykorzystywać go w tym celu później, to Paladyni Lojalnej Furii dobrze używali go w swej walce z nieumarłymi. Dzięki magii, bądź błogosławieństwu obdarzony jest Promieniem słońca, energią czystej siły życiowej tak potężną, że niszczy zarówno żywych jak i nieumarłych.
-<CHARNAME> odzyskał<PRO_HESHE> ten miecz z rąk lisza niedaleko bram miasta Athkatli i zlecił<PRO_HESHE> jego przekucie tworząc jeszcze bardziej potężną broń w rękach sprawiedliwości. 
+<CHARNAME> odzyskał<PRO_HESHE> ten miecz z rąk lisza niedaleko bram miasta Athkatli i zlecił<PRO_HESHE> jego przekucie tworząc jeszcze bardziej potężną broń w rękach sprawiedliwości.
 
 PARAMETRY:
 
-Obrażenia: 1K8 +4, +8 przeciwko złym istotom, zadaje podwójne obrażenia nieumarłym 
+Obrażenia: 1K8 +4, +8 przeciwko złym istotom, zadaje podwójne obrażenia nieumarłym
 TraK0: +4, +8 przeciwko złym istotom
 Typ obrażeń: sieczne
 Specjalne:
@@ -467,7 +467,7 @@ Nie może używać:
 @160 = ~Furia Niebios +5~
 @161 = ~Katana +5: Furia Niebios
 Umagicznienie katany nie jest proste, a przynajmniej nie tak, jak <CHARNAME> sądził<PRO_HESHE>, nim zlecił<PRO_HESHE> innym to zadanie. Okazało się, że najtrudniejszą rzeczą w całym procesie przekuwania posiadającej niemal boskie moce katany, zwanej Furią Niebios, było zebranie niezliczonej ilości niezbędnych do tego składników. Odkąd <CHARNAME> zabrał<PRO_HESHE> ją z martwych rąk Koshiego w Dzielnicy Świątynnej, w Athkatli, Furia Niebios nie raz sprawdziła się w boju. Nim to jednak nastąpiło, jej historia przedstawiała się następująco:
-Wiele lat temu, prowincję zarządzaną przez daimyo Hoshiego Katahiroi nawiedziły gwałtowne burze i pożary, wywołane przez błyskawice. Doradcy daimyo, będąc szanowanymi czarodziejami, wkrótce wywróżyli, iż katastrofa nie była dziełem Natury, lecz potężnego smoka o nieznanym pochodzeniu. Niektórzy z owych mędrców spekulowali, że istota ta była wynaturzeniem, inni zaś wierzyli, iż narodziła się z Pierwotnego Chaosu, jeszcze przed narodzinami Kara-Tur. Wszyscy zgodzili się, by nazywać ją Furią Niebios. 
+Wiele lat temu, prowincję zarządzaną przez daimyo Hoshiego Katahiroi nawiedziły gwałtowne burze i pożary, wywołane przez błyskawice. Doradcy daimyo, będąc szanowanymi czarodziejami, wkrótce wywróżyli, iż katastrofa nie była dziełem Natury, lecz potężnego smoka o nieznanym pochodzeniu. Niektórzy z owych mędrców spekulowali, że istota ta była wynaturzeniem, inni zaś wierzyli, iż narodziła się z Pierwotnego Chaosu, jeszcze przed narodzinami Kara-Tur. Wszyscy zgodzili się, by nazywać ją Furią Niebios.
 Daimyo Hoshi nie chciał jednak klasyfikować plagi nękającej jego prowincję, chciał ją zniszczyć. Zlecił więc osławionemu Chigaccie (mieszkającemu na odludziu rzemieślnikowi i mistrzowi sztuk mistycznych) stworzenie broni mogącej strzaskać duszę i łuskowate cielsko smoka. Wysiłki Chigatty zaowocowały powstaniem najwspanialszej z katan, nazwanej Furią Niebios od imienia bestii, którą miała zniszczyć. Broń nasycono mocą obdarzającą jej właściciela zdolnością latania.
 Dzierżąc ową broń, Hoshi rozpoczął, w kłębach burzowych chmur, poszukiwania nękającej jego prowincję bestii. Przez wiele dni krzyki i ryki walczących rozdzierały przestworza, noce zaś rozświetlane były przez jęzory ognia. Wreszcie nadeszła długo oczekiwana chwila, gdy Hoshi zniszczył ciało smoka, więżąc we wnętrzu miecza duszę stworzenia. Dwie Furie Niebios połączyły się w jedność, przywracając porządek nad panującym chaosem. By zwieńczyć to zwycięstwo, Hoshi i Chigatta wykonali pochwę ze smoczej skóry, zaś w rękojeści katany umieścili magiczną perłę.
 Smok dokonał jednak swej zemsty. Hoshi zginął w bitwie, a zgubiła go osłabiona wola. Duch uwięziony w Furii Niebios przejął bowiem kontrolę nad Hoshim, zmuszając go do zabicia Chigatty, a następnie samego siebie. Po tym zdarzeniu katana zniknęła (opłakująca Hoshiego rodzina pozbyła się najpewniej zdradzieckiej broni), zmieniając od tego czasu wielokrotnie właściciela.
@@ -475,7 +475,7 @@ Furia Niebios to katana o wyjątkowej konstrukcji. Jej giętka lecz niezniszczal
 
 PARAMETRY:
 
-Obrażenia: 1K10 +5 
+Obrażenia: 1K10 +5
 TraK0: +5
 Typ obrażeń: sieczne
 Specjalne:
@@ -496,7 +496,7 @@ Nie może używać:
 @162 = ~Miecz Arvoreen +5~
 @163 = ~Miecz Arvoreen +5
 Oręż ten jest kolejnym darem Arvoreen dla Mazzy, dlatego mogą go używać wyłącznie niziołki. Dzięki magii, którą w nim zawarto, miecz ten potrafi zwolnić ruchy każdego przeciwnika, którego dosięgnie.
-Z twoją pomocą i błogosławieństwem Arvoreen, miecz ten stał się jeszcze silniejszy. 
+Z twoją pomocą i błogosławieństwem Arvoreen, miecz ten stał się jeszcze silniejszy.
 
 PARAMETRY:
 
@@ -581,7 +581,7 @@ TraK0: +6
 Typ obrażeń: sieczne
 Specjalne:
  Rozprasza magię za każdym trafieniem przeciwnika
- +50% do odporności na magię 
+ +50% do odporności na magię
  Każde trafienie powoduje, że cel otrzymuje kumulatywny modyfikator -2 do TraK0, efekt działa przez 20 rund
 Waga: 10
 Opóźnienie: 4
@@ -597,7 +597,7 @@ Nie może używać:
 
 @172 = ~Punkt podparcia +4~
 @173 = ~Maczuga +4: Punkt podparcia
-Wykuta na twoją prośbę, stanowi połączenie Kościanej maczugi i Zgniatacza. Duchy zmarłych wojowników prowadzą rękę tego, kto ją dzierży zwiększając celność, a każde trafienie zsyła ból w kościach. W dodatku maczuga zadaje dodatkowe obrażenia, dla nie-neutralnych istot. 
+Wykuta na twoją prośbę, stanowi połączenie Kościanej maczugi i Zgniatacza. Duchy zmarłych wojowników prowadzą rękę tego, kto ją dzierży zwiększając celność, a każde trafienie zsyła ból w kościach. W dodatku maczuga zadaje dodatkowe obrażenia, dla nie-neutralnych istot.
 
 Obrażenia: 1K6 + 4, +4 jeśli cel jest dobry lub zły, a przy tym praworządny lub chaotyczny
 TraK0: +4
@@ -606,7 +606,7 @@ Specjalne:
  Władający nią otrzymuje status wielkiego mistrza w maczugach
  Kościane ostrza zadają dodatkowe 2 pkt. obrażeń co rundę przez 4 rundy
 Waga: 3
-Opóźnienie: 1 
+Opóźnienie: 1
 Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagana siła: 5
@@ -623,7 +623,7 @@ Specjalne:
  Dodaje +1 do mnożnika ciosu w plecy
  Cel musi wykonać rzut obronny przeciwko truciźnie z modyfikatorem -2 albo zostanie oślepiony lub uśpiony na 2 rundy
 Waga: 3
-Opóźnienie: 0 
+Opóźnienie: 0
 Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagana siła: 3
@@ -632,22 +632,22 @@ Nie może używać:
 
 @176 = ~Święty Puklerz Amaunatora +2~
 @177 = ~Święty Puklerz Amaunatora +2
-<CHARNAME> mając święty symbol Amaunatora, dawno umarłego Boga Słońca, wkuł<PRO_HESHE> go do swego puklerza. Jest on teraz potencjalną barierą przeciwko tym, którzy podkradają się w nocy i wysysają życie z żywych. 
+<CHARNAME> mając święty symbol Amaunatora, dawno umarłego Boga Słońca, wkuł<PRO_HESHE> go do swego puklerza. Jest on teraz potencjalną barierą przeciwko tym, którzy podkradają się w nocy i wysysają życie z żywych.
 
 PARAMETRY:
-  
+
 Klasa Pancerza: +3
 Specjalne:
  Raz dziennie pozwala rzucać Fałszywy Świt
  Odporność na wyssanie poziomów
-Waga: 2 
+Waga: 2
 Wymagana siła: 4
 Nie może używać:
  Mag~
 
 @178 = ~Rękawice mistrza złodziei~
 @179 = ~Rękawice mistrza złodziei: Dwunastopalcy
-<CHARNAME> uformował<PRO_HESHE> te rękawice z rozlicznych przydających rozmaitych premii złodziejom i rozsianych po całym świecie przedmiotów. Kiedy założy je złodziej, na każdej rękawicy pojawia się dodatkowy magiczny palec wspierający tego kochanka fortuny w jego unikalnych zdolnościach. W dodatku są bardzo gustowne, aczkolwiek ich deseń wygląda niemal na ... gnomi. 
+<CHARNAME> uformował<PRO_HESHE> te rękawice z rozlicznych przydających rozmaitych premii złodziejom i rozsianych po całym świecie przedmiotów. Kiedy założy je złodziej, na każdej rękawicy pojawia się dodatkowy magiczny palec wspierający tego kochanka fortuny w jego unikalnych zdolnościach. W dodatku są bardzo gustowne, aczkolwiek ich deseń wygląda niemal na ... gnomi.
 
 PARAMETRY:
 
@@ -663,7 +663,7 @@ Może używać:
 
 @180 = ~Amulet Ilmatera~
 @181 = ~Amulet Ilmatera
-Ten amulet łączy w sobie defensywne właściwości Amuletu ochrony, Amuletu ochrony przed trucizną i Naszyjnika stabilności kształtu, a także Amuletu blokowania czarów, aby zapewnić temu kto go nosi jak najlepszą ochronę. W dodatku amulet zawiera w sobie pomniejsze błogosławieństwo wiecznie cierpiącego Ilmatera. Amulet wyprodukował<PRO_HESHE> <CHARNAME>. 
+Ten amulet łączy w sobie defensywne właściwości Amuletu ochrony, Amuletu ochrony przed trucizną i Naszyjnika stabilności kształtu, a także Amuletu blokowania czarów, aby zapewnić temu kto go nosi jak najlepszą ochronę. W dodatku amulet zawiera w sobie pomniejsze błogosławieństwo wiecznie cierpiącego Ilmatera. Amulet wyprodukował<PRO_HESHE> <CHARNAME>.
 
 PARAMETRY:
 
@@ -687,7 +687,7 @@ Specjalne:
  Zwiększony zasięg uderzenia
 Waga: 3
 Opóźnienie: 1
-Rodzaj biegłości: sejmitar/wakizashi/ninja-to 
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagana siła: 8
 Nie może używać:
@@ -697,7 +697,7 @@ Nie może używać:
 
 @184 = ~Lazurowe ostrze +4~
 @185 = ~Lazurowe ostrze +4
-<CHARNAME> ulepszył<PRO_HESHE> tę potężną zgubę nieumarłych, zwaną Lazurowym ostrzem, każąc pokryć je czystym ilitem. Wykuty pierwotnie przez Gulena Skaly Ogień topór wciąż potrafi wracać do ręki właściciela, gdy zostanie rzucony, i nadal niszczy nieumarłych z gorliwością godną świętego. Teraz jednak, chroni również przed wysysającymi poziomy atakami co potężniejszych umarlaków. Z dekoracyjnego punktu widzenia warto zauważyć, iż dodatek ilitu zmienił nieco barwę ostrza, oddalając ją lekko od tej, którą sugeruje nazwa broni. 
+<CHARNAME> ulepszył<PRO_HESHE> tę potężną zgubę nieumarłych, zwaną Lazurowym ostrzem, każąc pokryć je czystym ilitem. Wykuty pierwotnie przez Gulena Skaly Ogień topór wciąż potrafi wracać do ręki właściciela, gdy zostanie rzucony, i nadal niszczy nieumarłych z gorliwością godną świętego. Teraz jednak, chroni również przed wysysającymi poziomy atakami co potężniejszych umarlaków. Z dekoracyjnego punktu widzenia warto zauważyć, iż dodatek ilitu zmienił nieco barwę ostrza, oddalając ją lekko od tej, którą sugeruje nazwa broni.
 
 PARAMETRY:
 
@@ -735,7 +735,7 @@ Specjalne:
  Pozwala zapamiętać po 1 dodatkowym zaklęciu z poziomów 1, 2, 3, 4, 5, 6 i 7~
 
 @188 = ~Pas chwały~
-@189 = ~Stworzony przez ciebie, w celu ochrony noszącej go osoby przed obrażeniami siecznymi, kłutymi i obuchowymi, pas ten jest całkiem użyteczny w starciach wręcz. Jego potężna magia paruje wszelkie typy ciosów, a wąski kształt nie krępuje ruchów. W dodatku pas ten jest wykonany zgodnie z obowiązującą modą. 
+@189 = ~Stworzony przez ciebie, w celu ochrony noszącej go osoby przed obrażeniami siecznymi, kłutymi i obuchowymi, pas ten jest całkiem użyteczny w starciach wręcz. Jego potężna magia paruje wszelkie typy ciosów, a wąski kształt nie krępuje ruchów. W dodatku pas ten jest wykonany zgodnie z obowiązującą modą.
 
 PARAMETRY:
 
@@ -759,7 +759,7 @@ To zielone ostrze zostało ulepszone według wskazówek, jakie zaproponował<PRO
 
 PARAMETRY:
 
-Obrażenia: 1K6 +3, +1 pkt. obrażeń od trucizny co sekundę przez okres 1 rundy 
+Obrażenia: 1K6 +3, +1 pkt. obrażeń od trucizny co sekundę przez okres 1 rundy
 TraK0: +3
 Typ obrażeń: kłute
 Specjalne:
@@ -777,7 +777,7 @@ Ostrze Chaosu to krótki miecz, którego używać mogą tylko diabelstwa. Za ka�
 
 PARAMETRY:
 
-Obrażenia: 1K6 +3 
+Obrażenia: 1K6 +3
 TraK0: +3
 Typ obrażeń: kłute
 Specjalne:

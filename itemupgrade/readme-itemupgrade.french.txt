@@ -6,7 +6,7 @@
                    http://www.weidu.org/item.html
 
 Francais ? Lisez "c2\readme-itemupgrades.french.txt" !
-Polski ? Lisez "c2\readme-itemupgrades.polski.html" ! 
+Polski ? Lisez "c2\readme-itemupgrades.polski.html" !
 
 		Sommaire
 		~~~~~~~~
@@ -18,7 +18,7 @@ V.	Remerciements
 VI. 	FAQ (Spoilers)
 VII.	Modifications
 
-NdT: des erreurs à signaler? des suggestions pour la traduction?
+NdT: des erreurs ï¿½ signaler? des suggestions pour la traduction?
 artemidore@caramail.com
 http://www.baldursgateworld.fr/lacouronne/
 
@@ -27,9 +27,9 @@ http://www.baldursgateworld.fr/lacouronne/
 
 		Section I. A propos
 		~~~~~~~~~~~~~~~~~~~
-Le Mod Pack Item Upgrade permet à Cromwell et à Cespenar d'améliorer plus 
-d'objets pour vous. La moitié rend la vie plus facile, l'autre moitié 
-essaye de rendre utile des catégories d'armes qui sont "faibles" par 
+Le Mod Pack Item Upgrade permet ï¿½ Cromwell et ï¿½ Cespenar d'amï¿½liorer plus
+d'objets pour vous. La moitiï¿½ rend la vie plus facile, l'autre moitiï¿½
+essaye de rendre utile des catï¿½gories d'armes qui sont "faibles" par
 comparaison (par ex. les masses ou les gourdins).
 
 Voir la Section III. pour une liste des objets.
@@ -41,42 +41,42 @@ Voir la Section III. pour une liste des objets.
 
 		Section II. Installation
 		~~~~~~~~~~~~~~~~~~~~~~~~
-BGII est requis. ToB est optionnel mais recommandé. Le Mod Item Upgrade 
-s'installera correctement avec (ou sans) le Mod Ascension. Il devrait 
-fonctionner avec les mods en WeiDU. Voir la page web pour les détails.
+BGII est requis. ToB est optionnel mais recommandï¿½. Le Mod Item Upgrade
+s'installera correctement avec (ou sans) le Mod Ascension. Il devrait
+fonctionner avec les mods en WeiDU. Voir la page web pour les dï¿½tails.
 
-Dézipez le fichier ZIP vers le répertoire principal BGII. C'est normalement:
+Dï¿½zipez le fichier ZIP vers le rï¿½pertoire principal BGII. C'est normalement:
 
         C:\Program Files\Black Isle\BGII - SoA\
 
-Lancez (double cliquez sur): "Setup-ItemUpgrade.exe". 
+Lancez (double cliquez sur): "Setup-ItemUpgrade.exe".
 
 D'abord, choisissez votre langue. Disponible :
 
-  Anglais américain
-  Français par Artemidore (artemidore@caramail.com)
+  Anglais amï¿½ricain
+  Franï¿½ais par Artemidore (artemidore@caramail.com)
             &  Cocobard (bardbards@planetis.com)
             &  les D'Oghmatiques (http://www.baldursgateworld.fr/lacouronne/)
   Allemand par Maus (maus@fphfslinux.physik.uni-karlsruhe.de)
             &  Norbert Frishcauf
             &  Patrick Lainer
   Espagnol par Clan DLAN ( http://www.clandlan.cjb.net )
-             & Bhasbuto 
+             & Bhasbuto
              & Immortality
              & Neil Sharp (FWP)
   Polonais par Damian Staniszewski
-  Russe par Iogan 
+  Russe par Iogan
           & AERIE.RU
-  Coréen par web2air
+  Corï¿½en par web2air
 
-Ensuite choisissez les composantes à installer. Vous pouvez toujours les 
-désinstaller par la suite en lançant à nouveau "Setup-ItemUpgrade.exe".
+Ensuite choisissez les composantes ï¿½ installer. Vous pouvez toujours les
+dï¿½sinstaller par la suite en lanï¿½ant ï¿½ nouveau "Setup-ItemUpgrade.exe".
 
-Il n'est *pas* nécessaire de commencer un nouveau jeu pour profiter de ce
-que vous avez installé.
+Il n'est *pas* nï¿½cessaire de commencer un nouveau jeu pour profiter de ce
+que vous avez installï¿½.
 
-Les composantes devraient s'installer normalement pour les joueurs non 
-anglophones qui ont à la fois un DIALOG.TLK et un DIALOGF.TLK. 
+Les composantes devraient s'installer normalement pour les joueurs non
+anglophones qui ont ï¿½ la fois un DIALOG.TLK et un DIALOGF.TLK.
 
 
 
@@ -87,128 +87,128 @@ anglophones qui ont à la fois un DIALOG.TLK et un DIALOGF.TLK.
 		Section III. Objets
 		~~~~~~~~~~~~~~~~~~~
 
-Les objets sont énumérés ici avec les composantes à gauche et le résultat à 
+Les objets sont ï¿½numï¿½rï¿½s ici avec les composantes ï¿½ gauche et le rï¿½sultat ï¿½
 droite. Ainsi, le premier groupe signifie que vous pouvez forger un anneau
-de Préservation +1 à l'aide d'un anneau de Protection +1, d'un anneau de 
-Régénération, d'un Diamant et de 10.000 pièces d'or.
+de Prï¿½servation +1 ï¿½ l'aide d'un anneau de Protection +1, d'un anneau de
+Rï¿½gï¿½nï¿½ration, d'un Diamant et de 10.000 piï¿½ces d'or.
 
-[ Ce mod remplace également Carsomy +5 et +6 afin qu'elles utilisent le 
-même code pour la dissipation de la magie que le Bâton de Mage. C'est à 
+[ Ce mod remplace ï¿½galement Carsomy +5 et +6 afin qu'elles utilisent le
+mï¿½me code pour la dissipation de la magie que le Bï¿½ton de Mage. C'est ï¿½
 dire qu'elles dissiperont effectivement des choses. ]
 
 ---------------------------------------------------------------------------
 Anneau de Protection +1
-Anneau de Régénération
+Anneau de Rï¿½gï¿½nï¿½ration
 Diamant
 10,000 Or
-                        Anneau de Préservation +1
-                        +1 AC, +1 jets de sauvegarde, Régénération 1 hp/6 
-                        secondes. 
+                        Anneau de Prï¿½servation +1
+                        +1 AC, +1 jets de sauvegarde, Rï¿½gï¿½nï¿½ration 1 hp/6
+                        secondes.
 ---------------------------------------------------------------------------
 Anneau de Protection +2
-Anneau de Régénération
+Anneau de Rï¿½gï¿½nï¿½ration
 Diamant
 20,000 Or
-                        Anneau de Préservation +2
-                        +2 AC, +2 jets de sauvegarde, Régénération 1 hp/6  
-                        secondes. 
+                        Anneau de Prï¿½servation +2
+                        +2 AC, +2 jets de sauvegarde, Rï¿½gï¿½nï¿½ration 1 hp/6
+                        secondes.
 ---------------------------------------------------------------------------
 2 Amulettes de Protection +1
-Fétiche de protection contre les poisons
-Collier de stabilité de forme
+Fï¿½tiche de protection contre les poisons
+Collier de stabilitï¿½ de forme
 Amulette de protection contre les sorts (Pare-Sorts)
 10,000 or
                         Amulette d'Ilmater
-                        +1 AC, +3 jets de sauvegarde, Immunité aux poisons, 
-                        Guérison (1/jour)
+                        +1 AC, +3 jets de sauvegarde, Immunitï¿½ aux poisons,
+                        Guï¿½rison (1/jour)
 ---------------------------------------------------------------------------
-Anneau de Contrôle de l'Air
-Anneau de Contrôle de la Terre
-Anneau de Contrôle du Feu
-Parchemin de Protection contre la Pétrification (vert)
+Anneau de Contrï¿½le de l'Air
+Anneau de Contrï¿½le de la Terre
+Anneau de Contrï¿½le du Feu
+Parchemin de Protection contre la Pï¿½trification (vert)
 Parchemin de Protection contre le Feu (vert)
-Parchemin de Protection contre l'Électricité (vert)
+Parchemin de Protection contre l'ï¿½lectricitï¿½ (vert)
 20,000 Or
-                        Anneau de Maîtrise Élémentaire
-                        +1 AC, 50% rés. feu, 50% rés. élec.
-                        Charme Élémentaire (3x/jour, pas de JS)
-                        Convoque Élémentaire (1 chacun, 1/jour, amical)
-                        Invisibilité Améliorée (1/jour)
+                        Anneau de Maï¿½trise ï¿½lï¿½mentaire
+                        +1 AC, 50% rï¿½s. feu, 50% rï¿½s. ï¿½lec.
+                        Charme ï¿½lï¿½mentaire (3x/jour, pas de JS)
+                        Convoque ï¿½lï¿½mentaire (1 chacun, 1/jour, amical)
+                        Invisibilitï¿½ Amï¿½liorï¿½e (1/jour)
 ---------------------------------------------------------------------------
-Bâton de l'Air
-Bâton de la Terre
-Bâton du Feu
+Bï¿½ton de l'Air
+Bï¿½ton de la Terre
+Bï¿½ton du Feu
 20,000 Or
-                        Bâton de Maîtrise Élémentaire +5
-                        Les Elémentaires touchés sont détruits
-                        Convoque Elémentaires (1 chacun, 1/jour, amical)
+                        Bï¿½ton de Maï¿½trise ï¿½lï¿½mentaire +5
+                        Les Elï¿½mentaires touchï¿½s sont dï¿½truits
+                        Convoque Elï¿½mentaires (1 chacun, 1/jour, amical)
                         Bouclier de feu: rouge (2/jour)
                         Nuage de Sommeil (2/jour)
 ---------------------------------------------------------------------------
-Carquois/Étui/Sac d'Abondance +2 
-40 Flèches/Carreaux/Billes +3
+Carquois/ï¿½tui/Sac d'Abondance +2
+40 Flï¿½ches/Carreaux/Billes +3
 40,000 Or
-                        Carquois/Étui/Sac d'Abondance +3
+                        Carquois/ï¿½tui/Sac d'Abondance +3
 ---------------------------------------------------------------------------
-Bottes de Rapidité
-Bottes de Furtivité
+Bottes de Rapiditï¿½
+Bottes de Furtivitï¿½
 Esseulite
 10,000 Or
-                        Bottes lestes de Furtivité
-                        Hâte & Furtivité
+                        Bottes lestes de Furtivitï¿½
+                        Hï¿½te & Furtivitï¿½
 ---------------------------------------------------------------------------
-Bottes de Rapidité
+Bottes de Rapiditï¿½
 Bottes Nordiques
 Esseulite
 10,000 Or
                         Bottes du Blizzard
-                        Hâte & 50% rés. froid
+                        Hï¿½te & 50% rï¿½s. froid
 ---------------------------------------------------------------------------
-Bottes de Rapidité
+Bottes de Rapiditï¿½
 Bottes d'Aterrissage
 Esseulite
 10,000 Or
-                        Talons du Seigneur des Tempêtes 
-                        Hâte & 50% elec resistance
+                        Talons du Seigneur des Tempï¿½tes
+                        Hï¿½te & 50% elec resistance
 ---------------------------------------------------------------------------
-Bottes de Rapidité
-Boots d'Évitement
+Bottes de Rapiditï¿½
+Boots d'ï¿½vitement
 Esseulite
 20,000 Or
                         Bottes du Frelon
-                        Hâte & AC bonus vs. missiles
+                        Hï¿½te & AC bonus vs. missiles
 ---------------------------------------------------------------------------
 Noirsang
-Mâchouilleuse
+Mï¿½chouilleuse
 15,000 Or
                         Poisseuse +5
-                        +5 dommages acides, échardes: 3/round pendant 4
+                        +5 dommages acides, ï¿½chardes: 3/round pendant 4
                         rounds,
                         25% acide resistance
 ---------------------------------------------------------------------------
 Gourdin d'Os
-Mâchouilleuse
+Mï¿½chouilleuse
 15,000 Or
                         Fulcrum +4
-                        +4 dommages aux alignements Bons/Mauvais 
+                        +4 dommages aux alignements Bons/Mauvais
                         et Loyaux/Chaotiques (cumulatif)
-                        Piquants: 2/round pendant 4 rounds, Grande Maîtrise 
+                        Piquants: 2/round pendant 4 rounds, Grande Maï¿½trise
                         pour les Gourdins
 ---------------------------------------------------------------------------
-Écrase-Crânes
+ï¿½crase-Crï¿½nes
 Parchemin de doigt de Mort
-Potion de Guérison Maudite
+Potion de Guï¿½rison Maudite
 15,000 Or
-                        Ecrase-Crânes +5
-                        +6 extra dommages aux humanoïdes, réduit le nombre 
+                        Ecrase-Crï¿½nes +5
+                        +6 extra dommages aux humanoï¿½des, rï¿½duit le nombre
                         d'HP max de la cible par 2 pendant 10 rounds
 ---------------------------------------------------------------------------
 Cherchecoeur
 Corde de Gesen ou de Gond
-4 Larmes de Laérale (et pas d'or)
+4 Larmes de Laï¿½rale (et pas d'or)
 Potion de Pouvoir
                         Teleomortis +4 (Arc Long)
-                        Pas de munitions, 5% de chances que la cible soit 
+                        Pas de munitions, 5% de chances que la cible soit
                         confuse (sans JS)
 ---------------------------------------------------------------------------
 Armure de la famille Corthala
@@ -216,19 +216,19 @@ Parchemin de Protection contre la Magie
 Ecaille de Dragon noir (l'armure)
 10,000 Or
                         Armure de la famille Corthala
-                        50% rés aux dommages de feu/acide/magie, immunité 
-                        au charme, non-détection, AC 0. 
+                        50% rï¿½s aux dommages de feu/acide/magie, immunitï¿½
+                        au charme, non-dï¿½tection, AC 0.
 ---------------------------------------------------------------------------
 Robe du Bon/Neutre/Mauvais Archimage
 Cape de Protection +1
 Parchemin d'Armure Spirituelle
 Parchemin de Contingence
 20,000 Or
-                        Robe de l'Archimage améliorée
-                        AC 3, 10% MR, +2 JS, mémorisation d'un sort  
-                        supplémentaire niveau 1-4
+                        Robe de l'Archimage amï¿½liorï¿½e
+                        AC 3, 10% MR, +2 JS, mï¿½morisation d'un sort
+                        supplï¿½mentaire niveau 1-4
 ---------------------------------------------------------------------------
-Heaume de défense
+Heaume de dï¿½fense
 Casque anti-charmes
 4 Perles
 10,000 Or
@@ -237,54 +237,54 @@ Casque anti-charmes
                         froid et elec
 ---------------------------------------------------------------------------
 Casque anti-charmes
-2 Potions salées (Illithid)
+2 Potions salï¿½es (Illithid)
 10,000 Or
-                        Tour de la Volonté de Fer
+                        Tour de la Volontï¿½ de Fer
                         Protection contre le Charme et les Psioniques
 ---------------------------------------------------------------------------
 Cuirasse d'Aeger +3
-Parchemin de Protection contre les éléments
+Parchemin de Protection contre les ï¿½lï¿½ments
 15,000 Or
                         Cuirasse d'Aeger +5
-                        AC 1, Immunité à la Confusion, 25% résistance au
-                        feu, froid, acide. 
+                        AC 1, Immunitï¿½ ï¿½ la Confusion, 25% rï¿½sistance au
+                        feu, froid, acide.
 ---------------------------------------------------------------------------
 Chair humaine +5
-Pierre de l'âme de Malla
+Pierre de l'ï¿½me de Malla
 Parchemin de Protection contre la Magie
 20,000 Or
                         Chair humaine
                         AC 0, Protection contre le bien, +1 DEX, +1 CON,
-                        immunité au poison
+                        immunitï¿½ au poison
 ---------------------------------------------------------------------------
-Armure de Plates complète Firecam
+Armure de Plates complï¿½te Firecam
 Armure du Cerf
 20,000 Or
-                        Armure de Plates complète Firecam
-                        AC -2, +2 JS, "Action libre Firecam", immunité à la
-                        peur, encombrement léger.
+                        Armure de Plates complï¿½te Firecam
+                        AC -2, +2 JS, "Action libre Firecam", immunitï¿½ ï¿½ la
+                        peur, encombrement lï¿½ger.
 ---------------------------------------------------------------------------
 Armure de plates d'ankheg
 Parchemin de  Protection contre l'acide (vert)
 Parchemin de  Protection contre l'acide (bleu)
 5,000 Or
                         Armure de plates d'ankheg
-                        AC -1, 50% rés acide, lance flèche acide 3x/jour. 
+                        AC -1, 50% rï¿½s acide, lance flï¿½che acide 3x/jour.
 ---------------------------------------------------------------------------
 Bouclier de l'Harmonie +2
-2 Potions salées (Illithid)
-2 Colliers de contrôle Illithid
+2 Potions salï¿½es (Illithid)
+2 Colliers de contrï¿½le Illithid
 Beljuril
 10,000 Or
                         Bouclier de l'Harmonie +3
-                        Anciennes immunités + Immunité aux Psioniques.
+                        Anciennes immunitï¿½s + Immunitï¿½ aux Psioniques.
 ---------------------------------------------------------------------------
 Targe + 1
 Symbole d'Amaunator
 5 gemmes Pierre de Soleil
 10,000 Or
-                        Targe Sacrée d'Amaunator +2
-                        Protection c. l'Énergie négative. Aube illusoire 2x/jour 
+                        Targe Sacrï¿½e d'Amaunator +2
+                        Protection c. l'ï¿½nergie nï¿½gative. Aube illusoire 2x/jour
 ---------------------------------------------------------------------------
 Lance +3
 Esseulite
@@ -295,56 +295,56 @@ Lance de la Licorne
 Esseulite
 10,000 Or
                         Javelot de la Licorne +3
-                        1d6+3, +2 dégâts de feu
-                        immunité à l'immobilisation et au charme
+                        1d6+3, +2 dï¿½gï¿½ts de feu
+                        immunitï¿½ ï¿½ l'immobilisation et au charme
                         +3 JS vs mort
 ---------------------------------------------------------------------------
 Empaleur
 Esseulite
 15,000 Or
-                        Empaleur +4 (javelot, vitesse de tir de l'Arc long) 
+                        Empaleur +4 (javelot, vitesse de tir de l'Arc long)
                         1d6+4 + 10
 ---------------------------------------------------------------------------
-Bâton des Bois
+Bï¿½ton des Bois
 Anneau de Protection +1
-Anneau d'amitié avec les animaux
+Anneau d'amitiï¿½ avec les animaux
 20,000 Or
-                        Bâton des Bois +5
-                        Anciennes capacités. 5% chance de Mort rampante
-                        quand la cible est touchée, le bâton se recharge
-                        chaque nuit. 
+                        Bï¿½ton des Bois +5
+                        Anciennes capacitï¿½s. 5% chance de Mort rampante
+                        quand la cible est touchï¿½e, le bï¿½ton se recharge
+                        chaque nuit.
 ---------------------------------------------------------------------------
 Bordazur +3
 Illithium
 20,000 Or
                         Bordazur +4
-                        Anciennes capacités. Immunité au drainage de
+                        Anciennes capacitï¿½s. Immunitï¿½ au drainage de
                         niveau.
 ---------------------------------------------------------------------------
 Etoile du jour
 4 parchemins de protection contre les morts-vivants
-2 Flacons d'Eau bénite elfique
-2 Saphirs étoilés
+2 Flacons d'Eau bï¿½nite elfique
+2 Saphirs ï¿½toilï¿½s
 15,000 or
                         Etoile du jour +4
-                        1d8+4, +8 vs. créatures mauvaises, doublés contre
+                        1d8+4, +8 vs. crï¿½atures mauvaises, doublï¿½s contre
                         les morts-vivants
                         Protection contre le mal en permanence
-                        Rayon de Soleil 2x/jout. 
+                        Rayon de Soleil 2x/jout.
 ---------------------------------------------------------------------------
-Furie Céleste
-Coeur de Démon
+Furie Cï¿½leste
+Coeur de Dï¿½mon
 Baguette de foudre
 20,000 Or
-                        Furie Céleste +5
-                        Anciennes capacités. 
+                        Furie Cï¿½leste +5
+                        Anciennes capacitï¿½s.
 ---------------------------------------------------------------------------
-Epée d'Arvoreen +2
-Réputation 20
+Epï¿½e d'Arvoreen +2
+Rï¿½putation 20
 15,000 Or
-                        Epée d'Arvoreen +5
-                        Action libre. La cible doit faire un JS contre les 
-                        baguettes ou être ralentie. Accorde +1 FOR (+75 
+                        Epï¿½e d'Arvoreen +5
+                        Action libre. La cible doit faire un JS contre les
+                        baguettes ou ï¿½tre ralentie. Accorde +1 FOR (+75
                         force exceptionelle)
 ---------------------------------------------------------------------------
 Bord de l'eau +3
@@ -352,117 +352,117 @@ Adjatha la buveuse +2
 Serre de Rashad +2
 15,000 or
                         Serre de l'eau +4
-                        1d8+4, +2 max hp, poison 2hp/seconde, portée 
-                        étendue.
-                        Immunité au Charme, à la Flétrissure Abominable . 
+                        1d8+4, +2 max hp, poison 2hp/seconde, portï¿½e
+                        ï¿½tendue.
+                        Immunitï¿½ au Charme, ï¿½ la Flï¿½trissure Abominable .
 ---------------------------------------------------------------------------
-Rédempteur sanctifié
-Réputation 20
-Coeur de Démon
+Rï¿½dempteur sanctifiï¿½
+Rï¿½putation 20
+Coeur de Dï¿½mon
 5 parchemins de dissipation de la magie
 15,000 or
-                        Rédempteur sanctifié +5
-                        Anciens effets. Dissipation de la magie à chaque 
-                        coup. Silence sur la cible pour 2 rounds. 
+                        Rï¿½dempteur sanctifiï¿½ +5
+                        Anciens effets. Dissipation de la magie ï¿½ chaque
+                        coup. Silence sur la cible pour 2 rounds.
 ---------------------------------------------------------------------------
 Bouclier de la famille Delryn
-Grâce salvatrice
+Grï¿½ce salvatrice
 15,000 or
                         Bouclier de la famille Delryn +4
-                        Anciennes capacités. 
+                        Anciennes capacitï¿½s.
 ---------------------------------------------------------------------------
 Lilarcor
-Collier de contrôle Illithid
+Collier de contrï¿½le Illithid
 20,000 or
                         Lilarcor +5
-                        Anciennes capacités, immunité à la modification de 
-                        l'INT 
+                        Anciennes capacitï¿½s, immunitï¿½ ï¿½ la modification de
+                        l'INT
 ---------------------------------------------------------------------------
-Voleuse d'âmes +4
-Coeur du Damné
+Voleuse d'ï¿½mes +4
+Coeur du Damnï¿½
 Carsomyr
 20,000 Or
-                        Voleuse d'âmes +6
-                        1d12 +6, +1d6 dégâts magiques. 50% MR, 
-                        dissipation de la magie à chaque coup,
-                        la cible recoit -2 au TACO pour 120 secondes. 
+                        Voleuse d'ï¿½mes +6
+                        1d12 +6, +1d6 dï¿½gï¿½ts magiques. 50% MR,
+                        dissipation de la magie ï¿½ chaque coup,
+                        la cible recoit -2 au TACO pour 120 secondes.
 ---------------------------------------------------------------------------
 Lame d'os
 Aiguillon de Pixie
-4 Potions de maître voleur
+4 Potions de maï¿½tre voleur
 15,000 or
                         Quietus +4 (Dague)
-                        Augmente le multiplicateur d'attaque sournoise par 
-                        1. La cible doit réussir un JS contre le poison à 
-                        -2 ou être soit aveuglée soit endormie pendant  
-                        12 secondes. 
+                        Augmente le multiplicateur d'attaque sournoise par
+                        1. La cible doit rï¿½ussir un JS contre le poison ï¿½
+                        -2 ou ï¿½tre soit aveuglï¿½e soit endormie pendant
+                        12 secondes.
 ---------------------------------------------------------------------------
 Gants de Pickpocket
-Bracelets de Défense AC 4
+Bracelets de Dï¿½fense AC 4
 Anneau de perception du danger
 Anneau de Crochetage de serrures
 2 Anneaux de Protection +1
 5,000 or
-                        Gants du maître voleur
-                        +25% pièges, +25% serrures, +20% pickpocket, 
+                        Gants du maï¿½tre voleur
+                        +25% piï¿½ges, +25% serrures, +20% pickpocket,
                         AC 3, +1 JdS
 ---------------------------------------------------------------------------
 Anneau des arcanes
-Anneau de précision
-Amulette d'influence sur les méta-sorts
+Anneau de prï¿½cision
+Amulette d'influence sur les mï¿½ta-sorts
 Anneau de Protection +1
 20,000 or
                         Anneau ensorceleur
-                        +1 AC, +1 JS, memorisation d'un sort supplémentaire 
+                        +1 AC, +1 JS, memorisation d'un sort supplï¿½mentaire
                         du niveau 1 au niveau 7.
 ---------------------------------------------------------------------------
-Ceinturon doré
+Ceinturon dorï¿½
 Ceinturon de franchise
 Ceinturon perceur
-3 Gemmes héliotropes
+3 Gemmes hï¿½liotropes
 10,000 or
                         Ceinturon de Gloire
                         +3 AC
 ---------------------------------------------------------------------------
-Figurine d'araignée noire
-Parchemin de progéniture d'araignée
-Parchemin de toile d'araignée
-5 dagues de jet empoisonnées
+Figurine d'araignï¿½e noire
+Parchemin de progï¿½niture d'araignï¿½e
+Parchemin de toile d'araignï¿½e
+5 dagues de jet empoisonnï¿½es
 5,000 or
                         Figurine de Kitthix
-                        (invoque Kitthix améliorée 1/jour, voir FAQ pour ses stats)
+                        (invoque Kitthix amï¿½liorï¿½e 1/jour, voir FAQ pour ses stats)
 ---------------------------------------------------------------------------
 Chaos
 Entropie
 Parchemin de Chaos
-Parchemin de Grande Malédiction
+Parchemin de Grande Malï¿½diction
 Ilbratha
 Arabane
 Esseulite
 25,000 or
                         Chaos Rampant
-                        (arme +3, 5% de chance cible confuse, draine 2 pt de DEX) 
-                        Inévitable Entropie
+                        (arme +3, 5% de chance cible confuse, draine 2 pt de DEX)
+                        Inï¿½vitable Entropie
                         (arme +3, 5% de chance cible maudite, 6 pts de poison)
 ---------------------------------------------------------------------------
-Écailles de dragon rouge (l'objet pas l'armure)
-Cotte de mailles sylvestre 
+ï¿½cailles de dragon rouge (l'objet pas l'armure)
+Cotte de mailles sylvestre
 3 gemmes andar
 3 agates de feu
 25,000 or
-                        Cotte de Mailles Elfique Écarlate
-                        (AC 0, 25 % Res feu, permet de lancer des sorts 
+                        Cotte de Mailles Elfique ï¿½carlate
+                        (AC 0, 25 % Res feu, permet de lancer des sorts
                          et d'utiliser les capac. de voleur)
 ---------------------------------------------------------------------------
 
-AVERTISSEMENT ! N'utilisez pas Shadowkeeper pour ajouter à votre inventaire
-les éléments nécessaires à une amélioration pour ensuite vous plaindre que
-Cromwell ou Cespy ne veulent pas lancer l'amélioration. Shadowkeeper liste 
-souvent plusieurs entrées pour un même objet (par exemple, il y a deux "perle" 
+AVERTISSEMENT ! N'utilisez pas Shadowkeeper pour ajouter ï¿½ votre inventaire
+les ï¿½lï¿½ments nï¿½cessaires ï¿½ une amï¿½lioration pour ensuite vous plaindre que
+Cromwell ou Cespy ne veulent pas lancer l'amï¿½lioration. Shadowkeeper liste
+souvent plusieurs entrï¿½es pour un mï¿½me objet (par exemple, il y a deux "perle"
 et deux "baguette de foudre" dans la liste d'objets de Shadowkeeper) mais un
-seul est réellement rencontré en jeu, et un seul marchera pour lancer une
-amélioration avec ce mod. Si vous vous donnez le mauvais (ce qui est facile,
-puisqu'ils ont le même nom), vous ne pourrez pas améliorer l'objet.
+seul est rï¿½ellement rencontrï¿½ en jeu, et un seul marchera pour lancer une
+amï¿½lioration avec ce mod. Si vous vous donnez le mauvais (ce qui est facile,
+puisqu'ils ont le mï¿½me nom), vous ne pourrez pas amï¿½liorer l'objet.
 
 
 
@@ -472,8 +472,8 @@ puisqu'ils ont le même nom), vous ne pourrez pas améliorer l'objet.
 
 		Section IV. Bugs connus
 		~~~~~~~~~~~~~~~~~~~~~~~
-Cespenar peut parfois "laisser tomber des réactifs". Vous obtiendrez quand
-même votre objet amélioré, mais recevoir aussi quelques gemmes ou réactifs
+Cespenar peut parfois "laisser tomber des rï¿½actifs". Vous obtiendrez quand
+mï¿½me votre objet amï¿½liorï¿½, mais recevoir aussi quelques gemmes ou rï¿½actifs
 de retour.
 
 
@@ -485,13 +485,13 @@ de retour.
 
 		Section V. Remerciements
 		~~~~~~~~~~~~~~~~~~~~~~~~
-Remerciements spéciaux à Jason Compton pour les dialogues de Cespenar. Merci
-à GB pour avoir testé les fichiers ITM.
+Remerciements spï¿½ciaux ï¿½ Jason Compton pour les dialogues de Cespenar. Merci
+ï¿½ GB pour avoir testï¿½ les fichiers ITM.
 
-Et un grand merci à tous ceux sur alt.games.baldurs-gate qui ont répondu à 
-ma requête. Les objets ont été conçus selon vos recommandations.
+Et un grand merci ï¿½ tous ceux sur alt.games.baldurs-gate qui ont rï¿½pondu ï¿½
+ma requï¿½te. Les objets ont ï¿½tï¿½ conï¿½us selon vos recommandations.
 
-[ WW : Artemidore, je vous remercie pour avoir traduit mes mots! ]  
+[ WW : Artemidore, je vous remercie pour avoir traduit mes mots! ]
 
 
 
@@ -502,56 +502,56 @@ ma requête. Les objets ont été conçus selon vos recommandations.
 
 		Section V. FAQ (Spoilers)
 		~~~~~~~~~~~~~~~~~~~~~~~~~
-Q : Pourquoi est-ce que je ne peux pas parler à Lilarcor?
+Q : Pourquoi est-ce que je ne peux pas parler ï¿½ Lilarcor?
 
-R : Lilarcor +5 est contrôlée par le collier des Flagelleurs mentaux et il
-ne peut plus parler. Il aura toujours des choses à dire (par ex.
-"On s'ennuye!" ou "Lance une pièce dans la fontaine!") lorsque vous restez 
+R : Lilarcor +5 est contrï¿½lï¿½e par le collier des Flagelleurs mentaux et il
+ne peut plus parler. Il aura toujours des choses ï¿½ dire (par ex.
+"On s'ennuye!" ou "Lance une piï¿½ce dans la fontaine!") lorsque vous restez
 sur place.
 
 
-Q : L'Anneau de Maîtrise élémentaire inclut-il le bonus caché de +1 aux JS 
-que possède l'Anneau de la Terre? 
+Q : L'Anneau de Maï¿½trise ï¿½lï¿½mentaire inclut-il le bonus cachï¿½ de +1 aux JS
+que possï¿½de l'Anneau de la Terre?
 
-R : Oui. Que ce bonus caché soit ou non un bug du jeu, beaucoup de joueurs
+R : Oui. Que ce bonus cachï¿½ soit ou non un bug du jeu, beaucoup de joueurs
 souhaitaient le garder.
 
 
-Q : Je fais comment pour avoir autant de coeurs de démon?
+Q : Je fais comment pour avoir autant de coeurs de dï¿½mon?
 
-R : Il y en a trois dans la Sphère planaire, et vous n'en avez besoin que
+R : Il y en a trois dans la Sphï¿½re planaire, et vous n'en avez besoin que
 d'un pour sortir. Ca vous en laisse deux. Vous pouvez aussi utiliser les
-coeurs des démons du labyrinthe dans la Tour de Garde. Ca vous en laisse 
+coeurs des dï¿½mons du labyrinthe dans la Tour de Garde. Ca vous en laisse
 entre 0 et 2.
 
 
-Q : Où puis-je trouver une potion de soins maudite ?
+Q : Oï¿½ puis-je trouver une potion de soins maudite ?
 
-R : A peu près tous les marchands à Athkatla vendent ça. Cherchez une potion
-de guérison qui ne soit pas bleue. La description dit généralement quelque 
-chose du genre "étrangement trouble".
+R : A peu prï¿½s tous les marchands ï¿½ Athkatla vendent ï¿½a. Cherchez une potion
+de guï¿½rison qui ne soit pas bleue. La description dit gï¿½nï¿½ralement quelque
+chose du genre "ï¿½trangement trouble".
 
 
 Q : Quelles sont les stats de la version originale de Kitthix ?
 
-R : 44 PdV, CA 4, 3/2 att. p. round, JdS 12/14/13/14/14, rés. mag. 10 %, 2 dés de vie,
-14 FOR, 9 aux autres carac. 
-Attaques : arme +0, 1d8 points de dégâts perforants, jds contre poison à +1 ou subir 
-perte de 3 pdv par sec. pdt 14 sec. Immunisée aux toiles d'araignée. 
+R : 44 PdV, CA 4, 3/2 att. p. round, JdS 12/14/13/14/14, rï¿½s. mag. 10 %, 2 dï¿½s de vie,
+14 FOR, 9 aux autres carac.
+Attaques : arme +0, 1d8 points de dï¿½gï¿½ts perforants, jds contre poison ï¿½ +1 ou subir
+perte de 3 pdv par sec. pdt 14 sec. Immunisï¿½e aux toiles d'araignï¿½e.
 
 
-Q : Quelles sont les stats de la version améliorée de Kitthix ?
+Q : Quelles sont les stats de la version amï¿½liorï¿½e de Kitthix ?
 
-R : 80 PdV, CA -2, 4 att. p. round, Jds 6, rés. mag. 25 %, 10 dés de vie, 18 DEX.
-Attaques : arme +3, 2d4 points de dégâts perforants, jds contre poison à -3 ou subir 
-perte de 5 pdv par sec. pdt 12 sec., jds contre sorts à -2 ou immob. par toile pdt
-7 sec.Immunisée aux toiles d'araignée, 50% de rés. aux dégâts, régénération.
+R : 80 PdV, CA -2, 4 att. p. round, Jds 6, rï¿½s. mag. 25 %, 10 dï¿½s de vie, 18 DEX.
+Attaques : arme +3, 2d4 points de dï¿½gï¿½ts perforants, jds contre poison ï¿½ -3 ou subir
+perte de 5 pdv par sec. pdt 12 sec., jds contre sorts ï¿½ -2 ou immob. par toile pdt
+7 sec.Immunisï¿½e aux toiles d'araignï¿½e, 50% de rï¿½s. aux dï¿½gï¿½ts, rï¿½gï¿½nï¿½ration.
 
 
-Q : Où se trouve le cimeterre Bord de l'Eau ?
+Q : Oï¿½ se trouve le cimeterre Bord de l'Eau ?
 
-R : Il appartient à un noble elfe noir d'Ust Natha. Faires toutes les quêtes
-annexes de cette ville. 
+R : Il appartient ï¿½ un noble elfe noir d'Ust Natha. Faires toutes les quï¿½tes
+annexes de cette ville.
 
 
 
@@ -563,9 +563,9 @@ annexes de cette ville.
 		~~~~~~~~~~~~~~~~~~~~~
 
 Version 3 BETA:
-        * Initial public release. 
+        * Initial public release.
 Version 4 BETA:
-        * Quiver typo fixed. Thanks Jason Whittaker. 
+        * Quiver typo fixed. Thanks Jason Whittaker.
 Version 5:
         * Big Cespy dialogue from Jason Compton, master of BGII humor.
         * Require Contingency scrolls instead of Chain Contingency (forum
@@ -573,121 +573,121 @@ Version 5:
         * Require 2 elven holy water instead of 3 (you can still use one on
           Bodhi, even though you don't really need it).
         * Fixed Ring-Mastery fire-res bug.
-        * Fixed a bug where you'd get the wrong boots back. 
+        * Fixed a bug where you'd get the wrong boots back.
         * OK, talking Lilarcor by popular demand. You can't "converse" with
-          him, but he'll still banter every once in a while. 
+          him, but he'll still banter every once in a while.
         * Daystar upgrade now really only takes 2 vials of holy water.
           Thanks to Jason Whittaker.
-        * Cromwell spelling fixes by Necardan. 
+        * Cromwell spelling fixes by Necardan.
         * The lovely CF description from Homunculus has been included.
-        * Hallowed Redeemer +5 is now +5 (not +2). Thanks, Kreese. 
+        * Hallowed Redeemer +5 is now +5 (not +2). Thanks, Kreese.
 Version 6:
         * Celestial Fury demon heart requirement can now be satisfied by
-          those demon hearts from the Watcher's Keep. 
+          those demon hearts from the Watcher's Keep.
         * Ammo of Plenty +3 - Arrows. Fixed a typo that would prevent you
           from ever  getting it. Thanks to Reiella Darksythe for
-          identifying this problem. 
+          identifying this problem.
 Version 7:
         * Added the Holy Buckler and Thief Glove upgrades based on user
           suggestions.
 Version 8:
         * Fixed a typo in the Cespy dialogue that was preventing ToB
           installation. Thanks, John Aprile.
-        * Jason Compton Deity fix. 
+        * Jason Compton Deity fix.
 Version 9:
-        * Pitchwife now actually gives 25% MR. Thanks, Bengtson. 
+        * Pitchwife now actually gives 25% MR. Thanks, Bengtson.
 Version 10:
-        * Added Amulet of Ilmater. Thanks, Mike Barnes. 
-        * Fixed a bug with the thief gauntlets. 
+        * Added Amulet of Ilmater. Thanks, Mike Barnes.
+        * Fixed a bug with the thief gauntlets.
 Version 11:
-        * Added Water's Talon, Azuredge +4. 
+        * Added Water's Talon, Azuredge +4.
         * Also included: Fix to the monster weapon "P3-12M4" to make it +4
           (as it should be, see other ?X-YM4.ITM files) instead of +1.
           This might actually make it worthwhile to cast the Gate spell,
-          for instance. 
+          for instance.
 Version 12:
-        * Changed the throwing spear animation. 
-        * Added Sorcerian Ring, Girdle of Glory. 
+        * Changed the throwing spear animation.
+        * Added Sorcerian Ring, Girdle of Glory.
 Version 13:
         * Amaunator Avatar now gives 3 Sunstone gems as well as Saving
           Grace. :-)
-        * Fixed Girdle-Cromwell bug and Cespy typo. Thanks, Kish. 
+        * Fixed Girdle-Cromwell bug and Cespy typo. Thanks, Kish.
 Version 14:
         * Fixed Girdle bug (again!?).
 Version 15:
-        * Upgraded to the newer WeiDU. 
+        * Upgraded to the newer WeiDU.
 Version 16:
         * Fixed typo in README about Girdle of Glory!
-        * Upgraded Corthala Family armor now disables spellcasting. 
+        * Upgraded Corthala Family armor now disables spellcasting.
 Version 17:
         * Fixed a bug where Cespy would talk about flaming swords even if
-          you didn't have them. Thanks, Reiella. 
+          you didn't have them. Thanks, Reiella.
 Version 18:
-        * Fixed "recity" typo, thanks Artemidore. 
-        * Folk README fixes. 
-        * Fixed more typos, thanks to Azaelus. 
+        * Fixed "recity" typo, thanks Artemidore.
+        * Folk README fixes.
+        * Fixed more typos, thanks to Azaelus.
 Version 19:
-        * French translation of the README, etc. No new items. 
+        * French translation of the README, etc. No new items.
 Version 20:
         * Fixed a bug with the French installation (caused by missing
-          translations). 
+          translations).
 Version 21:
         * Fixed a bug with Upgraded Firecam Armor usability. Thanks to
           Andrew Wong.
         * Added a German Translation by Maus. Thanks!
         * Added Kitthix Upgrade (it was a forum suggestion). Please let me
-          know if you find it well-balanced or not. 
+          know if you find it well-balanced or not.
         * You can now say "goodbye" to Cespy and Crom after looking at Item
           Upgrade Mod upgrades if you don't want to sit through their
-          normal offerings. 
+          normal offerings.
         * Fixed some typos mentioned by Michel. Thanks!
-        * Added some missing information to item descriptions. Thanks Maus! 
+        * Added some missing information to item descriptions. Thanks Maus!
 Version 22:
-        * Fixed some typos. Thanks, Tyrus. 
-        * Fixed some more typos. Thanks, forum members. 
+        * Fixed some typos. Thanks, Tyrus.
+        * Fixed some more typos. Thanks, forum members.
         * Fixed a typo in a setup file that was causing the items to appear
           in French when you picked the German translation. Thanks to
-          Rebecca for pointing this out. 
+          Rebecca for pointing this out.
         * Updated german translation. Thanks, Maus!
 Version 23:
-        * Minor typos fixed, thanks forum members. 
-        * Azuredge icon fix for second ability. 
-        * Daystar no-charge bug fixed. Thanks Gorrister. 
-        * Added Haer'Dalis upgrades. Special thanks to Jeanne Burch. 
-        * Added Incarnadine Chain. Thanks to Renmauzo and Renegade. 
+        * Minor typos fixed, thanks forum members.
+        * Azuredge icon fix for second ability.
+        * Daystar no-charge bug fixed. Thanks Gorrister.
+        * Added Haer'Dalis upgrades. Special thanks to Jeanne Burch.
+        * Added Incarnadine Chain. Thanks to Renmauzo and Renegade.
 Version 24:
         * Installing the mod now changes the Mace of Disruption +2 icon so
-          that it looks like the MoD+1 icon. Thanks, Moonfruit. 
-        * Fixed a bug in the Ilmater Amulet's heal power. Thanks, Dashael. 
+          that it looks like the MoD+1 icon. Thanks, Moonfruit.
+        * Fixed a bug in the Ilmater Amulet's heal power. Thanks, Dashael.
         * Fixed a possible bug in Chaos that was causing it to not confuse
           things. Now it behaves just like the wizard spell (except only 5%
-          of the time). 
-        * Added Cocobard's French translation. 
+          of the time).
+        * Added Cocobard's French translation.
 Version 25:
-        * More French translations from Cocobard. 
-        * More German translations from Norbert Frischauf. 
+        * More French translations from Cocobard.
+        * More German translations from Norbert Frischauf.
         * Azuredge now really does have different icons for ranged and
-          melee modes. Also, this includes the Carso "add 50% MR" fix. 
-          Thanks, Mike Barnes. 
+          melee modes. Also, this includes the Carso "add 50% MR" fix.
+          Thanks, Mike Barnes.
 Version 26:
-        * More German translations from Norbert Frischauf. 
+        * More German translations from Norbert Frischauf.
         * Fulcrum: fixed a bug where the extra damage wasn't actually
-          working correctly. 
-        * Arvoreen: No longer blocks Haste. 
-        * Upgrade to a newer WeiDU. Hopefully this will help out Mac users. 
+          working correctly.
+        * Arvoreen: No longer blocks Haste.
+        * Upgrade to a newer WeiDU. Hopefully this will help out Mac users.
 Version 27:
-        * Fixed that Azuredge icon (really this time). 
+        * Fixed that Azuredge icon (really this time).
         * Included Spanish Translation by Clan DLAN & friends. Thanks!
 Version 28:
         * Updated Spanish Translation.
-        * Rassadihn fixes: 
-          * Woodlands saving throw fix. 
-          * Massive typo fixes for American, French and German. 
+        * Rassadihn fixes:
+          * Woodlands saving throw fix.
+          * Massive typo fixes for American, French and German.
           * Girdle of Glory can now be made with 3 bloodstone gems or 3
             bloodstone rings or 3 bloodstone amulets. No mix-and-match,
-            though. 
+            though.
           * Archmagi robes now require a *cloak* or protection not a *ring*
-            of protection. 
+            of protection.
 Version 29:
         * Fixed a bug in the Holy Buckler involving magic resistance.
           Thanks, SixofSpades.
@@ -698,7 +698,7 @@ Version 31:
         * Russian Translation by Iogan & AERIE.RU. Thanks!
         * Updated German translation by Patrick Lainer. Thanks!
 Version 33 (updated by CamDawg):
-        * Cromwell and Cespenar dialogues no longer replace critical states, 
+        * Cromwell and Cespenar dialogues no longer replace critical states,
 	  making it much easier for other mods to interact with IU
         * Fixed broken index for c2blun02.itm. On OS X, a bad index causes
           BG2 to crash to desktop. Additionally, the indexing error can
@@ -711,7 +711,7 @@ Version 33 (updated by CamDawg):
 	  Fixpack.
 	* Severl items had minor effects (such as a color set) failing due
 	  to incorrect timings and magic resistance checks
-	* Closed usability loopholes on Entropy, Chaos, Hallowed Redeemer +5 
+	* Closed usability loopholes on Entropy, Chaos, Hallowed Redeemer +5
 	  and Sword of Arvoreen +5
 	* Upgraded Corthala Family Armor now displays Mind Shield icon
 Version 34 (updated by CamDawg):
@@ -737,7 +737,7 @@ Version 38:	created by Lollorian
 Version 39: (updated by Lollorian)
 	* repairs ( http://forums.pocketplane.net/index.php/topic,27176.msg327010.html#msg327010 )
 	  ( http://forums.pocketplane.net/index.php/topic,27541.msg326886.html#msg326886 )
-	* French translation repairs from Sanctifer of the d'Oghmatiques 
+	* French translation repairs from Sanctifer of the d'Oghmatiques
 	* WeiDU update to v231
 Version 40: (updated by CamDawg)
         * Items were run through the immunity effect batch fixes from the BG2 Fixpack since
@@ -748,15 +748,15 @@ Version 40: (updated by CamDawg)
           i.e. new projectiles from 1PP and elsewhere
         * Azuredge copied over the same bug as the original Azuredge in that its 'Undead Destroyed'
           message would never be seen due to effect misordering
-        * Closed exploit where Daystar, Azuredge and Skullcrusher's specific bonuses would apply 
-          to the other equipped weapon if dual-wielded. This also addresses a bug where these 
+        * Closed exploit where Daystar, Azuredge and Skullcrusher's specific bonuses would apply
+          to the other equipped weapon if dual-wielded. This also addresses a bug where these
           items would hurt the wielder when equipped if the BG2 Fixpack was installed
         * Daystar's damage was incorrect vs. evil undead
         * Blizzard Boots were using the Resist Fire/Cold portrait icon instead of Protection from
           Cold
         * Redundant AC bonus from Gloves of the Master Thief removed
         * Quietus could cause blindness AND sleep on 1% of hits
-        * Elves and half-elves will now have their regular sleep/charm immunity from the 
+        * Elves and half-elves will now have their regular sleep/charm immunity from the
           upgraded items if BG2 Fixpack is installed
         * Improved Kitthix's web and poison attacks had an incorrect duration
         * Ring of Elemental Control now casts Improved Invisibility directly instead of simulating
@@ -772,7 +772,7 @@ Version 40: (updated by CamDawg)
         * The dispel-on-hit abilities of the Hallowed Redeemer and Unholy Reaver weren't fully
           dispelling all effects
         * The branches for the Shield of Harmony update (in the compatibility version of both
-          components) were reversed, preventing upgrades when you had all components and 
+          components) were reversed, preventing upgrades when you had all components and
           allowing them with only the shield
         * All upgrades now account for the 'alternate' versions of items created by the P&P
           Protection Items and Two-Handed Katana components of BG2 Tweaks
@@ -780,7 +780,7 @@ Version 40: (updated by CamDawg)
         * The new magical armor and protection items can no longer be worn together
         * The item icon for Teleomortis had a pink shadow when moved
         * The Bag of Plenty icon was not transparent when in inventory
-        * The existing Quiver of Plenty now uses the restored icon found by Unfinished Business; 
+        * The existing Quiver of Plenty now uses the restored icon found by Unfinished Business;
           the upgraded version now uses a variant of the restored icon
         * Quiver of Plenty, Case of Plenty, and Bag of Plenty upgrades were allowing use
           without non-proficiency penalties

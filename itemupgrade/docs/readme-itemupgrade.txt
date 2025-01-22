@@ -31,58 +31,58 @@ See Section III for an item list.
 
 
     Section II. Installation
-    ~~~~~~~~~~~~~~~~~~~~~~~~    
-Item Upgrade is a mod for Baldur's Gate II, with or without the Throne of Bhaal 
-expansion. The Enhanced Edition, along with the conversion projects Baldur's 
-Gate Trilogy and Enhanced Edition Trilogy, are also supported. 
+    ~~~~~~~~~~~~~~~~~~~~~~~~
+Item Upgrade is a mod for Baldur's Gate II, with or without the Throne of Bhaal
+expansion. The Enhanced Edition, along with the conversion projects Baldur's
+Gate Trilogy and Enhanced Edition Trilogy, are also supported.
 
-First time installing a mod? Check out G3's comprehensive tutorial: A New 
+First time installing a mod? Check out G3's comprehensive tutorial: A New
 Player's Guide to Installing and Playing Mods:
 
 https://www.gibberlings3.net/forums/topic/33164-install
 
 Enhanced Editions Note
 
-The Enhanced Editions are actively supported games. Please note that every 
-patch update will wipe your current mod setup! If in the middle of a modded 
-game you might want to delay the patch update (if possible) as even after 
-reinstalling the mods, you might not be able to continue with your old 
-savegames. Alternatively, copy the whole game's folder into a new one that can 
-be modded and will stay untouched by game patches. It is important that you 
-install the mod to the language version you are playing the game in. Otherwise, 
+The Enhanced Editions are actively supported games. Please note that every
+patch update will wipe your current mod setup! If in the middle of a modded
+game you might want to delay the patch update (if possible) as even after
+reinstalling the mods, you might not be able to continue with your old
+savegames. Alternatively, copy the whole game's folder into a new one that can
+be modded and will stay untouched by game patches. It is important that you
+install the mod to the language version you are playing the game in. Otherwise,
 the dialogues of the mod will not show but give error messages.
 
 Windows
 
-Item Upgrade for Windows is distributed as a self-extracting archive and 
-includes a WeiDU installer. To install, simply double-click the archive and 
+Item Upgrade for Windows is distributed as a self-extracting archive and
+includes a WeiDU installer. To install, simply double-click the archive and
 follow the instructions on screen.
 
-Alternatively, the files can be extracted into your game directory using 7zip 
-or WinRAR. When properly extracted, your game directory will contain 
-setup-itemupgrade.exe and the folder itemupgrade. To install, double-click 
+Alternatively, the files can be extracted into your game directory using 7zip
+or WinRAR. When properly extracted, your game directory will contain
+setup-itemupgrade.exe and the folder itemupgrade. To install, double-click
 setup-itemupgrade.exe and follow the instructions on screen.
 
-You can run setup-itemupgrade.exe in your game folder to reinstall, uninstall 
+You can run setup-itemupgrade.exe in your game folder to reinstall, uninstall
 or otherwise change components.
 
 macOS
 
-Item Upgrade for macOS is distributed as a compressed tarball and includes a 
+Item Upgrade for macOS is distributed as a compressed tarball and includes a
 WeiDU installer.
 
-First, extract the files from the tarball into your game directory. When 
-properly extracted, your game directory will contain setup-itemupgrade, 
-setup-itemupgrade.command, and the folder itemupgrade. To install, double-click 
+First, extract the files from the tarball into your game directory. When
+properly extracted, your game directory will contain setup-itemupgrade,
+setup-itemupgrade.command, and the folder itemupgrade. To install, double-click
 setup-itemupgrade.command and follow the instructions on screen.
 
-You can run setup-itemupgrade.command in your game folder to reinstall, 
+You can run setup-itemupgrade.command in your game folder to reinstall,
 uninstall or otherwise change components.
 
 Linux
 
-Item Upgrade for Linux is distributed as a compressed tarball and does not 
-include a WeiDU installer. Linux users will need to do a one-time install of 
+Item Upgrade for Linux is distributed as a compressed tarball and does not
+include a WeiDU installer. Linux users will need to do a one-time install of
 WeiDU (and a few other adjustments) as described in this great writeup:
 
 https://moebiusproject.gitlab.io/mods_on_linux
@@ -91,10 +91,10 @@ To install, run 'WeInstall itemupgrade in your game folder.
 
 Note for Complete Uninstallation
 
-In addition to the methods above for removing individual components, you can 
-completely uninstall the mod using setup-itemupgrade --uninstall at the command 
+In addition to the methods above for removing individual components, you can
+completely uninstall the mod using setup-itemupgrade --uninstall at the command
 line to remove all components without wading through prompts.
-    
+
 
     Section III. Options
     ~~~~~~~~~~~~~~~~~~~~
@@ -144,7 +144,7 @@ Cepsenar Audio readme:
 
 
     Section IV. Items
-    ~~~~~~~~~~~~~~~~~    
+    ~~~~~~~~~~~~~~~~~
 The items are listed here with the components on the left and the result on
 the right. For example, the first group means that you can forge a Ring of
 Protection +1, a Ring of Regeneration, a Diamond and 10,000 gold into a Ring

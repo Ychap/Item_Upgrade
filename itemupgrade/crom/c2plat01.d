@@ -6,10 +6,10 @@ APPEND WSMITH01
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @123463
 		IF ~PartyHasItem("plat06")
 			OR(2)
-				!PartyHasItem("scrl03")				
+				!PartyHasItem("scrl03")
 				!PartyHasItem("scrl6y")~ THEN GOTO XO#ItemUp01
 		IF ~PartyHasItem("plat06")
-			PartyHasItem("scrl03")				
+			PartyHasItem("scrl03")
 			PartyHasItem("scrl6y")~ THEN GOTO XO#ItemUp02
 	END
 

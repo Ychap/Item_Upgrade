@@ -4,7 +4,7 @@ EXTEND_BOTTOM WSMITH01 13
 			PartyHasItem("amul24")
 			PartyHasItem("amul25")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND WSMITH01
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @123478
 		IF ~~ THEN GOTO XO#ItemUp01
@@ -204,7 +204,7 @@ APPEND WSMITH01
     !PartyHasItem("cdpp7")
     ~ THEN GOTO XO#ItemUp22
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @1234878
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
