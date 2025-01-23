@@ -1,7 +1,7 @@
 EXTEND_BOTTOM WSMITH01 13
 	IF ~OR(3) PartyHasItem("sw1h51") PartyHasItem("cdkt23") PartyHasItem("c!kt23")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND WSMITH01
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @123470
 		IF ~~ THEN GOTO XO#ItemUp01
@@ -33,11 +33,11 @@ APPEND WSMITH01
 			PartyHasItem("wand07")
 			PartyHasItem("plot02j")~ THEN GOTO XO#ItemUp10
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @1234870
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @1234970
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",41)
@@ -52,7 +52,7 @@ APPEND WSMITH01
 													 DestroyItem("wand07")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp03 SAY @1234970
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",41)
@@ -67,7 +67,7 @@ APPEND WSMITH01
 													 DestroyItem("wand07")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp04 SAY @1234970
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",41)
@@ -82,7 +82,7 @@ APPEND WSMITH01
 													 DestroyItem("wand07")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp05 SAY @1234970
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",41)
@@ -97,7 +97,7 @@ APPEND WSMITH01
 													 DestroyItem("wand07")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp06 SAY @1234970
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",41)
@@ -112,7 +112,7 @@ APPEND WSMITH01
 													 DestroyItem("wand07")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp07 SAY @1234970
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",41)
@@ -127,7 +127,7 @@ APPEND WSMITH01
 													 DestroyItem("wand07")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp08 SAY @1234970
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",41)
@@ -142,7 +142,7 @@ APPEND WSMITH01
 													 DestroyItem("wand07")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp09 SAY @1234970
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",41)
@@ -157,7 +157,7 @@ APPEND WSMITH01
 													 DestroyItem("wand07")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp10 SAY @1234970
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",41)

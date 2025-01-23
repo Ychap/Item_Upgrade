@@ -6,7 +6,7 @@ EXTEND_BOTTOM BOTSMITH 4
         PartyHasItem("bdbelt13")
         PartyHasItem("bdbelt14")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND BOTSMITH
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @567893
   IF ~PartyHasItem("belt02")
@@ -113,11 +113,11 @@ APPEND BOTSMITH
 		IF ~!PartyHasItem("belt04")
 			  !PartyHasItem("bdbelt14")~ THEN GOTO XO#ItemUp01
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @5678993
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
   IF ~~ THEN BEGIN XO#ItemUp2 SAY @5678993
     IF ~PartyGoldLT(10000)~ THEN REPLY #66662 GOTO XO#NoItemUp
     IF ~PartyGoldGT(9999)~ THEN REPLY #66664 DO ~SetGlobal("XO#TOBItemUp","GLOBAL",42)

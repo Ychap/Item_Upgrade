@@ -117,9 +117,9 @@ From: Your pal Kelsey <kelseynpc@5678attbi.com>
 To: weimer@5678cs.berkeley.edu
 Subject: Item Upgrade: Audio-tagged TRA
 
-Can you work this into the next IU release so that people can be 
-subjected to... er, that is, enjoy my Cespenar audio without having to 
-go through a reinstall with a separate TRA? Taken from the latest 
+Can you work this into the next IU release so that people can be
+subjected to... er, that is, enjoy my Cespenar audio without having to
+go through a reinstall with a separate TRA? Taken from the latest
 version, I just added the tags, changed nothing.
 */
 
@@ -181,7 +181,7 @@ version, I just added the tags, changed nothing.
 @567841 = ~喔孩子，你确实在手指上戴了不少发亮的东西。塞斯潘纳喜欢在这种季节里看见它们。~ [FWCESP01]
 @5678941 = ~总之，我可以把再生戒指和守护之戒+2组合在一起。使手上节省一些空间。只需要20000枚金币外加熔化一颗钻石！你喜欢吗？~
 
-@56791 = ~喔，孩子，你确实在手指上戴了不少发亮的东西。塞斯佩纳认为，下一步你将在牙齿上镶上黄金。~ 
+@56791 = ~喔，孩子，你确实在手指上戴了不少发亮的东西。塞斯佩纳认为，下一步你将在牙齿上镶上黄金。~
 @56792 = ~总之，我可以把再生戒指和守护之戒+3组合在一起。使手上节省一些空间。只需要30000枚金币外加熔化一颗钻石！你喜欢吗？~
 
 @567842 = ~你不需要珠宝盒，你需要珠宝箱子！也许你喜欢在每个大脚趾上也都戴一个？！~ [FWCESP02]

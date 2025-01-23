@@ -1,15 +1,15 @@
 EXTEND_BOTTOM BOTSMITH 4
-	IF ~OR(3) 
-			PartyHasItem("ring27") 
-            PartyHasItem("ring28") 
+	IF ~OR(3)
+			PartyHasItem("ring27")
+            PartyHasItem("ring28")
             PartyHasItem("ring29")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND BOTSMITH
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @567842
 		IF ~OR(6)
-				!PartyHasItem("ring27") 
-				!PartyHasItem("ring28") 
+				!PartyHasItem("ring27")
+				!PartyHasItem("ring28")
 				!PartyHasItem("ring29")
 				!PartyHasItem("scrl05")
 				!PartyHasItem("scrl06")
@@ -21,11 +21,11 @@ APPEND BOTSMITH
 			PartyHasItem("scrl06")
 			PartyHasItem("scrl15")~ THEN GOTO XO#ItemUp02
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @5678842
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @5678942
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#TOBItemUp","GLOBAL",3)

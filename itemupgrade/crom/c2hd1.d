@@ -2,7 +2,7 @@ EXTEND_BOTTOM WSMITH01 13
 	IF ~PartyHasItem("npsw05")
 		PartyHasItem("npsw06")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND WSMITH01
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @123498
 		IF ~PartyHasItem("npsw05")
@@ -38,11 +38,11 @@ APPEND WSMITH01
 				!PartyHasItem("scrl5p")
 				!PartyHasItem("scrl5w")~ THEN GOTO XO#ItemUp01
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @1234898
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @1234998
 		IF ~PartyGoldLT(25000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(24999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",43)
@@ -57,15 +57,15 @@ APPEND WSMITH01
 													 DestroyItem("sw1h26")
 													 TakePartyItemNum("sw1h27",1)
 													 DestroyItem("sw1h27")
-													 TakePartyItemNum("misc45",1)   
+													 TakePartyItemNum("misc45",1)
 													 DestroyItem("misc45")
-													 TakePartyItemNum("scrl5p",1) 
+													 TakePartyItemNum("scrl5p",1)
 													 DestroyItem("scrl5p")
-													 TakePartyItemNum("scrl5i",1)   
+													 TakePartyItemNum("scrl5i",1)
 													 DestroyItem("scrl5i")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp03 SAY @1234998
 		IF ~PartyGoldLT(25000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(24999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",43)
@@ -80,13 +80,13 @@ APPEND WSMITH01
 													 DestroyItem("sw1h26")
 													 TakePartyItemNum("sw1h27",1)
 													 DestroyItem("sw1h27")
-													 TakePartyItemNum("misc45",1)   
+													 TakePartyItemNum("misc45",1)
 													 DestroyItem("misc45")
-													 TakePartyItemNum("scrl5p",1) 
+													 TakePartyItemNum("scrl5p",1)
 													 DestroyItem("scrl5p")
-													 TakePartyItemNum("scrl5w",1)   
+													 TakePartyItemNum("scrl5w",1)
 													 DestroyItem("scrl5w")
-													 TakePartyItemNum("dagg16",5) 
+													 TakePartyItemNum("dagg16",5)
 													 DestroyItem("dagg16")~ GOTO 56
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END

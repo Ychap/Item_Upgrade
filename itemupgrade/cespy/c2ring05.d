@@ -4,7 +4,7 @@ EXTEND_BOTTOM BOTSMITH 4
 			PartyHasItem("cdpp14")
 			PartyHasItem("c!pp14")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND BOTSMITH
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @567853
 		IF ~~ THEN GOTO XO#ItemUp01
@@ -18,11 +18,11 @@ APPEND BOTSMITH
 			PartyHasItem("ring31")
 			PartyHasItem("misc42")~ THEN GOTO XO#ItemUp04
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @5678853
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @5678953
 		IF ~PartyGoldLT(30000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(29999)~ THEN REPLY #66664 DO ~SetGlobal("XO#TOBItemUp","GLOBAL",49)
@@ -38,7 +38,7 @@ APPEND BOTSMITH
 													 DestroyItem("misc42")~ GOTO 11
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp03 SAY @5678953
 		IF ~PartyGoldLT(30000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(29999)~ THEN REPLY #66664 DO ~SetGlobal("XO#TOBItemUp","GLOBAL",49)
@@ -54,7 +54,7 @@ APPEND BOTSMITH
 													 DestroyItem("misc42")~ GOTO 11
     IF ~~ THEN REPLY #66770 GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp04 SAY @5678953
 		IF ~PartyGoldLT(30000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(29999)~ THEN REPLY #66664 DO ~SetGlobal("XO#TOBItemUp","GLOBAL",49)

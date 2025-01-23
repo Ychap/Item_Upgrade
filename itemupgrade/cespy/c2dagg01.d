@@ -3,7 +3,7 @@ EXTEND_BOTTOM BOTSMITH 4
 			PartyHasItem("dagg14")
 			PartyHasItem("dagg13")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND BOTSMITH
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @567875
 		IF ~OR(3)
@@ -14,11 +14,11 @@ APPEND BOTSMITH
 			PartyHasItem("dagg13")
 			NumItemsPartyGT("potn36",3)~ THEN GOTO XO#ItemUp02
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @5678875
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @5678975
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#TOBItemUp","GLOBAL",32)

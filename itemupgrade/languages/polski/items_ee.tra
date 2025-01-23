@@ -40,7 +40,7 @@ Specjalne:
 Waga: 0~
 
 @104 = ~Pierścień kontroli nad żywiołami~
-@105 = ~Pierścień ten łączy w sobie potęgę żywiołów ziemi, powietrza i ognia i zezwala użytkownikowi dominować nad istotami pochodzącymi z tych sfer. Pierścień został stworzony dla ciebie i jego sława będzie niewątpliwie rosnąć z twoją. 
+@105 = ~Pierścień ten łączy w sobie potęgę żywiołów ziemi, powietrza i ognia i zezwala użytkownikowi dominować nad istotami pochodzącymi z tych sfer. Pierścień został stworzony dla ciebie i jego sława będzie niewątpliwie rosnąć z twoją.
 
 PARAMETRY:
 
@@ -52,17 +52,17 @@ Specjalne:
 
 Właściwości ładunków:
 – Zauroczenie żywiołaka, trzy razy dziennie (bez rzutu obronnego)
-Zasięg: dotyk 
-Czas działania: 45 sekund 
+Zasięg: dotyk
+Czas działania: 45 sekund
 Obszar działania: dotknięty żywiołak
 
 – Sprowadzenie żywiołaka ziemi, powietrza i ognia, raz dziennie (przyzwany żywiołak jest przyjazny)
 Zasięg: pole widzenia
-Czas działania: 5 tur 
+Czas działania: 5 tur
 
-– Ulepszona niewidzialność, raz dziennie 
-Zasięg: dotyk 
-Czas działania: 1 tura 
+– Ulepszona niewidzialność, raz dziennie
+Zasięg: dotyk
+Czas działania: 1 tura
 Obszar działania: dotknięta istota
 
 Waga: 0~
@@ -81,9 +81,9 @@ Zasięg: pole widzenia
 Czas działania: 5 tur
 
 – Ognista tarcza (czerwona), dwa razy dziennie
-Odporność na ogień: +50% 
-Specjalne: Każdy, kto trafi użytkownika będąc w promieniu 1,5 metra od niego, otrzyma 1k8 +2 obrażeń od ognia 
-Czas działania: 13 rund 
+Odporność na ogień: +50%
+Specjalne: Każdy, kto trafi użytkownika będąc w promieniu 1,5 metra od niego, otrzyma 1k8 +2 obrażeń od ognia
+Czas działania: 13 rund
 Obszar działania: użytkownik
 
 – Usypiająca chmura, dwa razy dziennie (rzut obronny przeciw truciznom neguje)
@@ -103,37 +103,37 @@ Wymagania:
 Waga: 3~
 
 @108 = ~Kołczan obfitości +3~
-@109 = ~Pieniądze i surowce zainwestowane w Kołczan obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości. 
- 
+@109 = ~Pieniądze i surowce zainwestowane w Kołczan obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości.
+
 PARAMETRY:
- 
+
 Specjalne:
 – Nieograniczona liczba strzał +3
 
 Waga: 0~
 
 @110 = ~Futerał obfitości +3~
-@111 = ~Pieniądze i surowce zainwestowane w Futerał obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości. 
- 
+@111 = ~Pieniądze i surowce zainwestowane w Futerał obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości.
+
 PARAMETRY:
- 
+
 Specjalne:
 – Nieograniczona liczba bełtów +3
 
 Waga: 0~
 
 @112 = ~Torba obfitości +3~
-@113 = ~Pieniądze i surowce zainwestowane w Torbę obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości. Aczolwiek jakoś nie są one zadowalające. Czy kiedykolwiek zainwestowałeś pieniądze i surowce w magiczny objekt tylko po to, by przekonać się, że jest on bezużyteczny? To znaczy, z wyjątkiem Wyrównywacza i Fali. Myślę, że nie. 
+@113 = ~Pieniądze i surowce zainwestowane w Torbę obfitości sprawiły, że przedmiot ten zyskał zadziwiające magiczne właściwości. Aczolwiek jakoś nie są one zadowalające. Czy kiedykolwiek zainwestowałeś pieniądze i surowce w magiczny objekt tylko po to, by przekonać się, że jest on bezużyteczny? To znaczy, z wyjątkiem Wyrównywacza i Fali. Myślę, że nie.
 
 PARAMETRY:
- 
+
 Specjalne:
 – Nieograniczona liczba pocisków do procy +3
 
 Waga: 0~
 
 @114 = ~Buty przyspieszonego ukrycia~
-@115 = ~Doskonałe dla zwiadowców, którzy pragną zostać niewykryci, Buty przyspieszonego ukrycia łączą w sobie moce Butów szybkości i Butów ukrycia. Zostały zrobione na twoje zamówienie. 
+@115 = ~Doskonałe dla zwiadowców, którzy pragną zostać niewykryci, Buty przyspieszonego ukrycia łączą w sobie moce Butów szybkości i Butów ukrycia. Zostały zrobione na twoje zamówienie.
 
 PARAMETRY:
 
@@ -145,7 +145,7 @@ Specjalne:
 Waga: 4~
 
 @116 = ~Buty zamieci~
-@117 = ~Doskonałe dla poszukiwacza przygód podróżującego po jaskini lodowych trollów lub innym chłodnym obszarze, Buty zamieci łączą w sobie moce Butów szybkości i Butów Północy, które zostały połączone specjalnie dla ciebie. 
+@117 = ~Doskonałe dla poszukiwacza przygód podróżującego po jaskini lodowych trollów lub innym chłodnym obszarze, Buty zamieci łączą w sobie moce Butów szybkości i Butów Północy, które zostały połączone specjalnie dla ciebie.
 
 PARAMETRY:
 
@@ -178,7 +178,7 @@ Specjalne:
 Waga: 4~
 
 @122 = ~Niewierna żona +5~
-@123 = ~Stworzona na twoje zamówienie poprzez połączenie maczug: Czarnej krwi i Zgniatacza, Niewierna żona pulsuje destrukcyjną mocą. Pokryta jest substancją podobną do kwasu, która pali ciało przy zetknięciu. Niewierna żona zadaje potężne rany także miażdząc kręgosłup. 
+@123 = ~Stworzona na twoje zamówienie poprzez połączenie maczug: Czarnej krwi i Zgniatacza, Niewierna żona pulsuje destrukcyjną mocą. Pokryta jest substancją podobną do kwasu, która pali ciało przy zetknięciu. Niewierna żona zadaje potężne rany także miażdząc kręgosłup.
 
 PARAMETRY:
 
@@ -188,7 +188,7 @@ Specjalne:
 Obrażenia: 1k6 +5, +5 obrażeń od kwasu, drzazgi zadają 3 obrażenia co rundę przez cztery rundy
 Trak0: +5
 Typ obrażeń: obuchowe
-Opóźnienie: 1 
+Opóźnienie: 1
 Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 
@@ -198,7 +198,7 @@ Wymagania:
 Waga: 3~
 
 @124 = ~Rozłupywacz czaszek +5~
-@125 = ~Ta wekiera jest na stałe splamiona krwią, znak wielu lat poświęconych na rozłupywanie głów. Broń ta mogła w przeszłości przynosić zagładę humanoidom, ale jej właściciele zostali prawdopodobnie celowo usunięci ze źródeł historycznych. Ostatnio za twoim pośrednictwem została przemieniona w jeszcze bardziej budzącą grozę broń. 
+@125 = ~Ta wekiera jest na stałe splamiona krwią, znak wielu lat poświęconych na rozłupywanie głów. Broń ta mogła w przeszłości przynosić zagładę humanoidom, ale jej właściciele zostali prawdopodobnie celowo usunięci ze źródeł historycznych. Ostatnio za twoim pośrednictwem została przemieniona w jeszcze bardziej budzącą grozę broń.
 
 PARAMETRY:
 
@@ -217,12 +217,12 @@ Wymagania:
 Waga: 6~
 
 @126 = ~Teleomortis +4~
-@127 = ~Stworzony w twoim imieniu używając mrocznych i strasznych rytuałów, Teleomortis jest długim łukiem o niezrównanej potędze. Kiedy cięciwa jest naciągana formuje się duchowa strzała, zdająca się migotać i kręcić w świetle. Łuk nie wymaga żadnej dodatkowej amunicji (chociaż może on używać również innych strzał). Duchowe strzały powstają z niewiadomych przyczyn, pozostając tajemnicą tego łuku. 
+@127 = ~Stworzony w twoim imieniu używając mrocznych i strasznych rytuałów, Teleomortis jest długim łukiem o niezrównanej potędze. Kiedy cięciwa jest naciągana formuje się duchowa strzała, zdająca się migotać i kręcić w świetle. Łuk nie wymaga żadnej dodatkowej amunicji (chociaż może on używać również innych strzał). Duchowe strzały powstają z niewiadomych przyczyn, pozostając tajemnicą tego łuku.
 
 PARAMETRY:
 
 Specjalne:
-– Tworzy własne upiorne strzały +4, w związku z czym nie potrzebuje amunicji 
+– Tworzy własne upiorne strzały +4, w związku z czym nie potrzebuje amunicji
 – 5% szans, że cel znajdzie się pod wpływem Zamętu, po trafieniu
 
 Obrażenia: 1k6 +4
@@ -231,7 +231,7 @@ Opóźnienie: 1
 Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 
-Wymagania: 
+Wymagania:
 – Siła: 18
 
 Waga: 7~
@@ -295,11 +295,11 @@ Klasa Pancerza: 3
 Waga: 6~
 
 @136 = ~Hełm Cytadeli~
-@137 = ~Wykuty na twoje życzenie, Hełm Cytadeli chroni noszącą go osobę przed fizycznymi, magicznymi i umysłowymi atakami. Łączy on w sobie defensywną moc Hełmu ochrony i Hełmu ochrony przed urokami. W dodatku wygląda wyzywająco. 
+@137 = ~Wykuty na twoje życzenie, Hełm Cytadeli chroni noszącą go osobę przed fizycznymi, magicznymi i umysłowymi atakami. Łączy on w sobie defensywną moc Hełmu ochrony i Hełmu ochrony przed urokami. W dodatku wygląda wyzywająco.
 
 PARAMETRY:
 
-Specjalne: 
+Specjalne:
 – Rzuty obronne: +1
 – Odporność na elektryczność: +20%
 – Odporność na zimno: +20%
@@ -335,7 +335,7 @@ Specjalne:
 
 Klasa Pancerza: 1 (3 przeciw broniom kłutym i pociskom)
 
-Wymagania: 
+Wymagania:
 - Siła: 6
 
 Waga: 35~
@@ -355,13 +355,13 @@ Specjalne:
 
 Klasa Pancerza: 0 (2 przeciw broniom kłutym i pociskom)
 
-Wymagania: 
+Wymagania:
 - Siła: 3
 
 Waga: 5~
 
 @144 = ~Ulepszona pełna zbroja płytowa Firecama~
-@145 = ~Ta zbroja została zaprojektowana specjalnie dla Keldorna. Zbroja została później umagiczniona, gdy zażyczył sobie tego <CHARNAME>, aby zapewniała Keldornowi lepszą ochronę. Będąc na wyposażeniu zapewnia właścicielowi premię +2 do wszystkich rzutów obronnych oraz pozwala na Swobodę działania (np. przechodzenie przez pajęczyny) oraz odporność na strach. Poza byciem niesamowicie silną, zbroja prawie nic nie waży. 
+@145 = ~Ta zbroja została zaprojektowana specjalnie dla Keldorna. Zbroja została później umagiczniona, gdy zażyczył sobie tego <CHARNAME>, aby zapewniała Keldornowi lepszą ochronę. Będąc na wyposażeniu zapewnia właścicielowi premię +2 do wszystkich rzutów obronnych oraz pozwala na Swobodę działania (np. przechodzenie przez pajęczyny) oraz odporność na strach. Poza byciem niesamowicie silną, zbroja prawie nic nie waży.
 
 PARAMETRY:
 
@@ -376,7 +376,7 @@ Waga: 10~
 
 @146 = ~Zbroja płytowa z ankhega~
 @147 = ~Ta zbroja płytowa to istne cacko. Powleczona chitynową łuską ankhega zapewnia lepszą ochronę niż pancerz wykonany z metalu i nie jest podatna na rdzę. Jednakże, jak powie ci to każdy doświadczony poszukiwacz przygód, jej największą zaletą jest niewielka waga. Potwory przychodzą i odchodzą, wyczerpanie natomiast jest stałym zagrożeniem.
- 
+
 Ta szczególna zbroja została przekuta na twoją prośbę. Zapewnia ona teraz dodatkową ochronę i pozwala noszącemu ją na naśladowanie ataków plującego kwasem ankhega.
 
 PARAMETRY:
@@ -399,9 +399,9 @@ Waga: 25~
 @148 = ~Tarcza harmonii +3~
 @149 = ~Audn z Pola, rycerz i czempion czarodzieja Kekkima, nosił tę tarczę przez większość swojego życia. Chroni ona nosiciela przed większością form kontroli umysłu, co jest zaletą dla czarodzieja, który potrzebował przyjaznych mu wojowników, aby stali wiernie po jego stronie. Zarówno Kekkim, jak i Audn dawno już gryzą ziemię, pozostawiwszy tarczę temu, kto wydostanie ją z wieży czarodzieja.
 
-Niedawno tarcza ta została dodatkowo umagiczniona przez ciebie. Zapewnia teraz dodatkową fizyczną ochronę i sprawia, że noszący ją jest odporny na psionikę (ale nie przed wysysającymi inteligencję atakami illithidów). 
+Niedawno tarcza ta została dodatkowo umagiczniona przez ciebie. Zapewnia teraz dodatkową fizyczną ochronę i sprawia, że noszący ją jest odporny na psionikę (ale nie przed wysysającymi inteligencję atakami illithidów).
 
-PARAMETRY: 
+PARAMETRY:
 
 Specjalne:
 - Niewrażliwość na Zauroczenie, Zamęt, Dominację, Unieruchomienie osoby i psionikę
@@ -416,7 +416,7 @@ Waga: 2~
 @150 = ~Rzucana włócznia +3~
 @151 = ~Włócznia to jeden z najwcześniejszych rodzajów broni, którymi zaczął posługiwać się człowiek. Pierwsze egzemplarze tej broni były wykonane z drewna i zaostrzone na końcu. Kiedy człowiek nauczył się wytapiać metale, groty włóczni były wytwarzane z żelaza i stali. Ta włócznia drży od potężnej magii wykorzystanej do jej stworzenia.
 
-W przeciwieństwie do prawie wszystkich włóczni, które znasz, tą można rzucać. Została wykuta dla ciebie przy użyciu kamienia łotrzyków. Kiedy jest rzucana, włócznia natychmiast wraca do rąk właściciela. (Włócznia może być wykorzystywana jako broń ręczna: wybierz wtedy drugą zdolność broni, aby tak zrobić.) 
+W przeciwieństwie do prawie wszystkich włóczni, które znasz, tą można rzucać. Została wykuta dla ciebie przy użyciu kamienia łotrzyków. Kiedy jest rzucana, włócznia natychmiast wraca do rąk właściciela. (Włócznia może być wykorzystywana jako broń ręczna: wybierz wtedy drugą zdolność broni, aby tak zrobić.)
 
 PARAMETRY:
 
@@ -439,7 +439,7 @@ Waga: 3~
 @152 = ~Rzucana włócznia jednorożca +3~
 @153 = ~Ta zgrabna włócznia kształtem przypomina róg jednorożca. Władający ta bronią jest niewrażliwy na czary Unieruchomienie i Zauroczenie, tak samo jak jednorożec. Nie wiadomo czy ten róg jest prawdziwym rogiem jednorożca.
 
-Oryginalna Włócznia jednorożca została przekuta tak, by można jej używać jako broni dystansowej. Kiedy jest rzucana, włócznia natychmiast wraca do rąk właściciela. (Włócznia może być wykorzystywana jako broń ręczna: wybierz wtedy drugą zdolność broni, aby tak zrobić.) 
+Oryginalna Włócznia jednorożca została przekuta tak, by można jej używać jako broni dystansowej. Kiedy jest rzucana, włócznia natychmiast wraca do rąk właściciela. (Włócznia może być wykorzystywana jako broń ręczna: wybierz wtedy drugą zdolność broni, aby tak zrobić.)
 
 PARAMETRY:
 
@@ -455,7 +455,7 @@ Opóźnienie: 3
 Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 
-Wymagania: 
+Wymagania:
 - Siła: 5
 
 Waga: 3~
@@ -486,12 +486,12 @@ Waga: 3~
 @156 = ~Kostur Lasów +5~
 @157 = ~Człowiek, który go posiadał, znany jako „Dziki mąż z lasu”, był w okolicach Targowa postacią legendarną do chwili, kiedy umarł i powrócił do ziemi. Ci, którzy go widzieli pamiętają jego ciemną, podobną do kory skórę, która znikała, gdy odkładał swój kostur. Osobnik ten nękał nieodpowiedzialnych drwali i przechodniów, a starcy opowiadają, jak kiedyś wybrali się na niego najemnicy z tuzinem psów myśliwskich. Zwierzęta były gotowe rozerwać biednego druida na strzępy, ale on szybko zwrócił je przeciwko ich własnym panom. Ruszywszy do przodu w nadziei przerwania tego wpływu, zbrojni ujrzeli ostatnią moc kostura, gdy roślinność zadrżała od magicznego wezwania „Dzikiego męża”. Uformowała się zielona, gnijąca mieszanina życia i śmierci, która opadła na przerażonych żołnierzy, zabijając ich wszystkich.
 
-Niedawno <CHARNAME> zlecił<PRO_HESHE> ulepszenie kostura, dzięki czemu można skorzystać z nowych zdolności. 
+Niedawno <CHARNAME> zlecił<PRO_HESHE> ulepszenie kostura, dzięki czemu można skorzystać z nowych zdolności.
 
 PARAMETRY:
 
 Specjalne:
-- Korowa skóra: Klasa Pancerza: 3 
+- Korowa skóra: Klasa Pancerza: 3
 - Klasa Pancerza: +3
 - 5% szans, że cel, oraz jego sojusznicy, znajdą się pod wpływem czaru Pełzająca zagłada, po trafieniu
 
@@ -500,7 +500,7 @@ Właściwości ładunków:
 Zasięg: 13 metrów
 Czas działania: 100 sekund
 
-– Wzmocnione zauroczenie zwierząt, sześć razy dziennie (bez rzutu obronnego) 
+– Wzmocnione zauroczenie zwierząt, sześć razy dziennie (bez rzutu obronnego)
 Zasięg: 13 metrów
 Czas działania: 300 sekund
 
@@ -519,7 +519,7 @@ Waga: 2~
 @158 = ~Dzienna gwiazda +4~
 @159 = ~Niezależnie od tego czy miecz został stworzony specjalnie by służyć Tormowi, czy też zaczęto wykorzystywać go w tym celu później, to Paladyni Lojalnej Furii dobrze używali go w swej walce z nieumarłymi. Dzięki magii, bądź błogosławieństwu obdarzony jest Promieniem słońca, energią czystej siły życiowej tak potężną, że niszczy zarówno żywych jak i nieumarłych.
 
-<CHARNAME> odzyskał<PRO_HESHE> ten miecz z rąk lisza niedaleko bram miasta Athkatli i zlecił<PRO_HESHE> jego przekucie tworząc jeszcze bardziej potężną broń w rękach sprawiedliwości. 
+<CHARNAME> odzyskał<PRO_HESHE> ten miecz z rąk lisza niedaleko bram miasta Athkatli i zlecił<PRO_HESHE> jego przekucie tworząc jeszcze bardziej potężną broń w rękach sprawiedliwości.
 
 PARAMETRY:
 
@@ -533,7 +533,7 @@ Nieumarli: zniszczenie (rzut obronny przeciw czarom neguje)
 Zasięg: 6 metrów
 Obszar działania: w promieniu 6 metrów
 
-Obrażenia: 1k8 +4, +8 przeciw złym istotom, podwójne obrażenia przeciw nieumarłym 
+Obrażenia: 1k8 +4, +8 przeciw złym istotom, podwójne obrażenia przeciw nieumarłym
 TraK0: +4, +8 przeciw złym istotom
 Typ obrażeń: sieczne
 Opóźnienie: 3
@@ -553,21 +553,21 @@ Umagicznienie katany nie jest prostą sprawą. Tak przynajmniej myślał<PRO_HES
 PARAMETRY:
 
 Specjalne:
-- Huk gromu: Ogłuszenie na jedną rundę, po trafieniu (rzut obronny przeciw czarom neguje) 
+- Huk gromu: Ogłuszenie na jedną rundę, po trafieniu (rzut obronny przeciw czarom neguje)
 – Porażające uderzenie: 5% szans na dodatkowe 20 obrażeń od elektryczności, po trafieniu
 
 Właściwości ładunków:
-– Uderzenie błyskawicy, raz dziennie 
-Obrażenia: 10k6 obrażeń od elektryczności (połowa po rzucie obronnym przeciw czarom) 
-Zasięg: 16 metrów 
+– Uderzenie błyskawicy, raz dziennie
+Obrażenia: 10k6 obrażeń od elektryczności (połowa po rzucie obronnym przeciw czarom)
+Zasięg: 16 metrów
 Obszar działania: 1 istota
 
-– Ociemniałość, raz dziennie (rzut obronny przeciw czarom neguje) 
-Zasięg: 13 metrów 
-Czas działania: 2 rundy 
+– Ociemniałość, raz dziennie (rzut obronny przeciw czarom neguje)
+Zasięg: 13 metrów
+Czas działania: 2 rundy
 Obszar działania: 1 istota
 
-Obrażenia: 1k10 +5 
+Obrażenia: 1k10 +5
 TraK0: +5
 Typ obrażeń: sieczne
 Opóźnienie: 1
@@ -582,7 +582,7 @@ Waga: 3~
 @162 = ~Miecz Arvoreena +5~
 @163 = ~Oręż ten jest kolejnym darem Arvoreena dla Mazzy, dlatego mogą go używać wyłącznie niziołki. Dzięki magii, którą w nim zawarto, miecz ten potrafi zwolnić ruchy każdego przeciwnika, którego dosięgnie.
 
-Z twoją pomocą i błogosławieństwem Arvoreena, miecz ten stał się jeszcze silniejszy. 
+Z twoją pomocą i błogosławieństwem Arvoreena, miecz ten stał się jeszcze silniejszy.
 
 PARAMETRY:
 
@@ -633,9 +633,9 @@ Specjalne:
 – Odporność na ogień: +30%
 – Odporność na zimno: +30%
 
-Właściwości ładunków: 
-– Ochrona przed pociskami, trzy razy dziennie 
-Czas działania: 1 godzina 
+Właściwości ładunków:
+– Ochrona przed pociskami, trzy razy dziennie
+Czas działania: 1 godzina
 Obszar działania: użytkownik
 
 Waga: 7~
@@ -647,7 +647,7 @@ Nie wiadomo, czy ta magiczna broń to sam Lilarcor, być może uwięziony przez 
 
 Jako broń, Lilarcor ma swoje zastosowania, ale wielu wojowników zrezygnowało z niego. Komentarze takie jak „Auć, to musiało boleć”, „O tak! Rany, ale dobry jestem” i „Uważaj bo moje ukąszenie może... może... może zranić albo coś” są udręką dla umysłu wojownika.
 
-Teraz, gdy <CHARNAME> go ulepszył<PRO_HESHE> (a raczej go uciszył<PRO_HESHE>), ten kto dzierży ten miecz w dłoni nie może utracić swej inteligencji z jakiegokolwiek powodu. Broń ta chroni przed wysysaniem inteligencji przez illithidów, lecz także dobroczynnymi skutkami wypicia mikstury geniuszu. 
+Teraz, gdy <CHARNAME> go ulepszył<PRO_HESHE> (a raczej go uciszył<PRO_HESHE>), ten kto dzierży ten miecz w dłoni nie może utracić swej inteligencji z jakiegokolwiek powodu. Broń ta chroni przed wysysaniem inteligencji przez illithidów, lecz także dobroczynnymi skutkami wypicia mikstury geniuszu.
 
 PARAMETRY:
 
@@ -667,7 +667,7 @@ Wymagania:
 Waga: 10~
 
 @170 = ~Rozpruwacz dusz +6~
-@171 = ~Potężne ostrze Rozpruwacza dusz zostało przekute pod twoim mrocznym przewodnictwem. Święta esencja Karsomira została wchłonięta by pomóc stworzyć tę odrażającą potworność. Rozpruwacz dusz jest narzędziem niewyobrażalnej potęgi i niewyobrażalnego zła. 
+@171 = ~Potężne ostrze Rozpruwacza dusz zostało przekute pod twoim mrocznym przewodnictwem. Święta esencja Karsomira została wchłonięta by pomóc stworzyć tę odrażającą potworność. Rozpruwacz dusz jest narzędziem niewyobrażalnej potęgi i niewyobrażalnego zła.
 
 PARAMETRY:
 
@@ -683,13 +683,13 @@ Opóźnienie: 4
 Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 
-Wymagania: 
+Wymagania:
 – Siła: 14
 
 Waga: 10~
 
 @172 = ~Punkt podparcia +4~
-@173 = ~Wykuta na twoją prośbę, stanowi połączenie Kościanej maczugi i Zgniatacza. Duchy zmarłych wojowników prowadzą rękę tego, kto ją dzierży zwiększając celność, a każde trafienie zsyła ból w kościach. W dodatku maczuga zadaje dodatkowe obrażenia, dla nie-neutralnych istot. 
+@173 = ~Wykuta na twoją prośbę, stanowi połączenie Kościanej maczugi i Zgniatacza. Duchy zmarłych wojowników prowadzą rękę tego, kto ją dzierży zwiększając celność, a każde trafienie zsyła ból w kościach. W dodatku maczuga zadaje dodatkowe obrażenia, dla nie-neutralnych istot.
 
 PARAMETRY:
 
@@ -699,7 +699,7 @@ Specjalne:
 Obrażenia: 1k6 +4, +4 przeciw istotom dobrym, złym, praworządnym lub chaotycznym (kumulatywne), kościane ostrza zadają 2 obrażenia co rundę przez cztery rundy
 TraK0: +4
 Typ obrażeń: obuchowe
-Opóźnienie: 1 
+Opóźnienie: 1
 Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 
@@ -718,7 +718,7 @@ Specjalne:
 Obrażenia: 2k3 +4
 TraK0: +4
 Typ obrażeń: sieczne
-Opóźnienie: 0 
+Opóźnienie: 0
 Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 
@@ -728,19 +728,19 @@ Wymagania:
 Waga: 3~
 
 @176 = ~Święty puklerz Amaunatora +2~
-@177 = ~<CHARNAME> mając święty symbol Amaunatora, dawno umarłego Boga Słońca, wkuł<PRO_HESHE> go do swego puklerza. Jest on teraz potencjalną barierą przeciwko tym, którzy podkradają się w nocy i wysysają życie z żywych. 
+@177 = ~<CHARNAME> mając święty symbol Amaunatora, dawno umarłego Boga Słońca, wkuł<PRO_HESHE> go do swego puklerza. Jest on teraz potencjalną barierą przeciwko tym, którzy podkradają się w nocy i wysysają życie z żywych.
 
 PARAMETRY:
-  
+
 Specjalne:
 – Klasa Pancerza: +3
 – Niewrażliwość na wyssanie poziomów
- 
+
 Właściwości ładunków:
 – Fałszywy świt, dwa razy dziennie (bez rzutu obronnego)
 Czas działania: 5 rund
 Obszar działania: w promieniu 10 metrów
- 
+
 Wymagania:
 – Siła: 4
 
@@ -748,7 +748,7 @@ Waga: 2~
 
 @178 = ~Rękawice mistrza złodziei~
 @179 = ~Dwunastopalcy
-<CHARNAME> uformował<PRO_HESHE> te rękawice z rozlicznych przydających rozmaitych premii złodziejom i rozsianych po całym świecie przedmiotów. Kiedy założy je złodziej, na każdej rękawicy pojawia się dodatkowy magiczny palec wspierający tego kochanka fortuny w jego unikalnych zdolnościach. W dodatku są bardzo gustowne, aczkolwiek ich deseń wygląda niemal na... gnomi. 
+<CHARNAME> uformował<PRO_HESHE> te rękawice z rozlicznych przydających rozmaitych premii złodziejom i rozsianych po całym świecie przedmiotów. Kiedy założy je złodziej, na każdej rękawicy pojawia się dodatkowy magiczny palec wspierający tego kochanka fortuny w jego unikalnych zdolnościach. W dodatku są bardzo gustowne, aczkolwiek ich deseń wygląda niemal na... gnomi.
 
 PARAMETRY:
 
@@ -763,7 +763,7 @@ Klasa Pancerza: 3
 Waga: 2~
 
 @180 = ~Amulet Ilmatera~
-@181 = ~Ten amulet łączy w sobie defensywne właściwości Amuletu ochrony, Amuletu ochrony przed trucizną i Naszyjnika stabilności kształtu, a także Amuletu blokowania czarów, aby zapewnić temu kto go nosi jak najlepszą ochronę. W dodatku amulet zawiera w sobie pomniejsze błogosławieństwo wiecznie cierpiącego Ilmatera. Amulet wyprodukował<PRO_HESHE> <CHARNAME>. 
+@181 = ~Ten amulet łączy w sobie defensywne właściwości Amuletu ochrony, Amuletu ochrony przed trucizną i Naszyjnika stabilności kształtu, a także Amuletu blokowania czarów, aby zapewnić temu kto go nosi jak najlepszą ochronę. W dodatku amulet zawiera w sobie pomniejsze błogosławieństwo wiecznie cierpiącego Ilmatera. Amulet wyprodukował<PRO_HESHE> <CHARNAME>.
 
 PARAMETRY:
 
@@ -791,7 +791,7 @@ Obrażenia: 1k8 +4, +2 obrażenia od trucizny na sekundę (kumulatywne)
 TraK0: +4
 Typ obrażeń: sieczne
 Opóźnienie: 1
-Rodzaj biegłości: sejmitar/wakizashi/ninja-to 
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 
 Wymagania:
@@ -839,7 +839,7 @@ Specjalne:
 Waga: 0~
 
 @188 = ~Pas chwały~
-@189 = ~Stworzony przez ciebie, w celu ochrony noszącej go osoby przed obrażeniami siecznymi, kłutymi i obuchowymi, pas ten jest całkiem użyteczny w starciach wręcz. Jego potężna magia paruje wszelkie typy ciosów, a wąski kształt nie krępuje ruchów. W dodatku pas ten jest wykonany zgodnie z obowiązującą modą. 
+@189 = ~Stworzony przez ciebie, w celu ochrony noszącej go osoby przed obrażeniami siecznymi, kłutymi i obuchowymi, pas ten jest całkiem użyteczny w starciach wręcz. Jego potężna magia paruje wszelkie typy ciosów, a wąski kształt nie krępuje ruchów. W dodatku pas ten jest wykonany zgodnie z obowiązującą modą.
 
 PARAMETRY:
 
@@ -857,7 +857,7 @@ Specjalne:
 – Przyzwanie ulepszonego Kitthix'a, raz dziennie
 Zasięg: 6 metrów
 Czas działania: 40 tur
-Pająk potrafi w trakcie walki pojawiać się i znikać. Posiada także umiejętność Zaplątanie w Pajęczynę, dzięki której może wystrzelić strumień sieci w stronę jednego celu, więżąc go na dwie rundy (rzut obronny przeciw czarom z modyfikatorem -2 neguje). Atak Kitthixa zadaje 2k4 +2 obrażenia kłute, liczba ataków wynosi 4 na rundę i są one trujące (rzut obronny przeciw truciznom z modyfikatorem -3 neguje) oraz powodują paraliż przez dwie rundy (rzut obronny przeciw czarom z modyfikatorem -2 neguje). 
+Pająk potrafi w trakcie walki pojawiać się i znikać. Posiada także umiejętność Zaplątanie w Pajęczynę, dzięki której może wystrzelić strumień sieci w stronę jednego celu, więżąc go na dwie rundy (rzut obronny przeciw czarom z modyfikatorem -2 neguje). Atak Kitthixa zadaje 2k4 +2 obrażenia kłute, liczba ataków wynosi 4 na rundę i są one trujące (rzut obronny przeciw truciznom z modyfikatorem -3 neguje) oraz powodują paraliż przez dwie rundy (rzut obronny przeciw czarom z modyfikatorem -2 neguje).
 
 Waga: 0~
 
@@ -889,7 +889,7 @@ Specjalne:
 – 5% szans na to, że cel znajdzie się pod wpływem Zamętu na okres ośmiu rund, po trafieniu (rzut obronny przeciw czarom z modyfikatorem -4 neguje)
 – Cel traci 2 punkty Zręczności na okres pięciu rund, po trafieniu (bez rzutu obronnego)
 
-Obrażenia: 1k6 +3 
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: kłute
 Opóźnienie: 0
@@ -940,7 +940,7 @@ Waga: 15~
 @12348 = ~Jest jakaś szansa na ulepszenie moich Butów uziemienia?~
 @12349 = ~Czy możesz stworzyć coś z tych Butów uników?~
 @123410 = ~Czy jesteś w stanie ulepszyć Czarną krew?~
-@123411 = ~Czy możesz uczynić tę Kościaną maczugę potężniejszą?~ 
+@123411 = ~Czy możesz uczynić tę Kościaną maczugę potężniejszą?~
 @123412 = ~Chciałbym uczynić mój Rozłupywacz czaszek potężniejszym. Możesz mi w tym pomóc?~ ~Chciałabym uczynić mój Rozłupywacz czaszek potężniejszym. Możesz mi w tym pomóc?~
 @123413 = ~Co możesz zrobić, by ulepszyć Poszukiwacza serc?~
 @123414 = ~Czy możesz przekuć rodową zbroję mego przyjaciela Valygara?~
@@ -1053,9 +1053,9 @@ From: Your pal Kelsey <kelseynpc@5678attbi.com>
 To: weimer@5678cs.berkeley.edu
 Subject: Item Upgrade: Audio-tagged TRA
 
-Can you work this into the next IU release so that people can be 
-subjected to... er, that is, enjoy my Cespenar audio without having to 
-go through a reinstall with a separate TRA? Taken from the latest 
+Can you work this into the next IU release so that people can be
+subjected to... er, that is, enjoy my Cespenar audio without having to
+go through a reinstall with a separate TRA? Taken from the latest
 version, I just added the tags, changed nothing.
 */
 
@@ -1071,7 +1071,7 @@ version, I just added the tags, changed nothing.
 @56788 = ~Jest jakaś szansa na ulepszenie tych Butów uziemienia?~
 @56789 = ~Czy możesz stworzyć coś z tych Butów uników?~
 @567810 = ~Czy jesteś w stanie ulepszyć Czarną krew?~
-@567811 = ~Czy możesz uczynić tę Kościaną maczugę potężniejszą?~ 
+@567811 = ~Czy możesz uczynić tę Kościaną maczugę potężniejszą?~
 @567812 = ~Chciałbym uczynić mój Rozłupywacz czaszek potężniejszym. Czy możesz mi pomóc?~ ~Chciałabym uczynić mój Rozłupywacz czaszek potężniejszym. Czy możesz mi pomóc?~
 @567813 = ~Co możesz zrobić, by ulepszyć Poszukiwacza serc?~
 @567814 = ~Czy możesz przekuć rodową zbroję mojego przyjaciela Valygara?~

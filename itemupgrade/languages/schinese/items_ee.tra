@@ -426,7 +426,7 @@ This file is also formatted in utf-8 since it's only used on BGIIEE games. setup
 
 数据资料：
 
-装备能力： 
+装备能力：
     - 免疫魅惑和定身
     - 对死亡的豁免检定+3
 
@@ -542,7 +542,7 @@ This file is also formatted in utf-8 since it's only used on BGIIEE games. setup
 
 数据资料：
 
-战斗能力： 
+战斗能力：
     - 雷鸣，必须通过对法术的豁免检定，否则使目标震慑1轮
     - 闪电，有5%几率造成额外20点电击伤害
 
@@ -933,7 +933,7 @@ This file is also formatted in utf-8 since it's only used on BGIIEE games. setup
 @202 = ~伤害 （投掷）：1d6+\1
 伤害（近战）：1d8~
 @203 = ~抗酸：\+50%~
-@204 = ~免疫等级吸取~ 
+@204 = ~免疫等级吸取~
 @205 = ~– 偷窃：~
 @206 = ~– 免疫背刺：~
 @207 = ~数据资料：~

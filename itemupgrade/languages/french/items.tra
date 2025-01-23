@@ -4,7 +4,7 @@ Cet anneau a été forgé magiquement pour <CHARNAME>. Il combine les pouvoirs d
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Le porteur régénère 1 point de vie toutes les 6 secondes
  Classe d'Armure : bonus de 1
  Jets de sauvegarde : bonus de 1~
@@ -15,20 +15,20 @@ Cet anneau a été forgé magiquement pour <CHARNAME>. Il combine les pouvoirs d
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Le porteur régénère 1 point de vie toutes les 6 secondes
  Classe d'Armure : bonus de 2
  Jets de sauvegarde : bonus de 2~
 
 @104 = ~Anneau de Maîtrise Élémentaire~
 @105 = ~Anneau de Maîtrise Élémentaire
-Cet anneau combine la puissance des éléments de la Terre, de l'Air et du Feu et accorde à l'utilisateur la domination sur les créatures originaires de ces plans. Cet anneau a été créé pour <CHARNAME> et sa renommée grandira sans nul doute avec la sienne. 
+Cet anneau combine la puissance des éléments de la Terre, de l'Air et du Feu et accorde à l'utilisateur la domination sur les créatures originaires de ces plans. Cet anneau a été créé pour <CHARNAME> et sa renommée grandira sans nul doute avec la sienne.
 
 PARAMÈTRES :
 
 Capacités spéciales :
  Charme Élémentaire (trois fois par jour, pendant 60 secondes, pas de jet de sauvegarde)
- Convoque un Élémentaire de Terre, d'Air et de Feu (une fois par jour, 300 secondes, toujours amicaux) 
+ Convoque un Élémentaire de Terre, d'Air et de Feu (une fois par jour, 300 secondes, toujours amicaux)
  Invisibilité Majeure (une fois par jour, pendant 60 secondes)
 
 Capacités d'équipement :
@@ -39,15 +39,15 @@ Capacités d'équipement :
 
 @106 = ~Bâton de Maîtrise Élémentaire~
 @107 = ~Bâton de Maîtrise Élémentaire +5
-Connecté à trois des Plans élémentaires, ce puissant bâton a été fabriqué à la demande de <CHARNAME>. C'est déjà une arme puissante en soi, mais il possède également le pouvoir de vie et de mort sur les créatures élémentaires. Ce bâton est froid au toucher, et est couvert de marques de brûlure et de petites entailles. Des rumeurs disent que le secret pour fabriquer ce genre d'objet a d'abord été découvert par les Rakshasas, qui l'ont utilisé pour créer le Fléau de l'Éternité. 
+Connecté à trois des Plans élémentaires, ce puissant bâton a été fabriqué à la demande de <CHARNAME>. C'est déjà une arme puissante en soi, mais il possède également le pouvoir de vie et de mort sur les créatures élémentaires. Ce bâton est froid au toucher, et est couvert de marques de brûlure et de petites entailles. Des rumeurs disent que le secret pour fabriquer ce genre d'objet a d'abord été découvert par les Rakshasas, qui l'ont utilisé pour créer le Fléau de l'Éternité.
 
 PARAMÈTRES :
 
-Capacités de combat : 
+Capacités de combat :
  Si un élémentaire de Feu, d'Air ou de Terre est touché, il sera détruit
 
 Capacités spéciales :
- Convoque un Élémentaire de Terre, d'Air et de Feu (une fois par jour, 300 secondes, toujours amicaux) 
+ Convoque un Élémentaire de Terre, d'Air et de Feu (une fois par jour, 300 secondes, toujours amicaux)
  Bouclier de Feu Rouge (deux fois par jour, 78 secondes)
  Nuage de Sommeil (deux fois par jour, portée 40, jds contre le poison ou sommeil pendant 18 secondes)
 
@@ -59,38 +59,38 @@ Facteur de vitesse : 0
 Type de compétence : Bâton
 Type : arme à deux mains
 Force nécessaire : 5
-Inutilisable par : 
+Inutilisable par :
  Moine~
 
 @108 = ~Carquois d'Abondance +3~
 @109 = ~Carquois d'Abondance +3
 L'argent et les ressources que vous avez investis dans le Carquois d'Abondance ont abouti à un objet aux propriétés magiques vraiment étonnantes. Vous pourriez même toucher quelque chose avec ces flèches.
- 
+
 PARAMÈTRES :
- 
+
 Flèches +3 illimitées~
 
 @110 = ~Étui d'Abondance +3~
 @111 = ~Étui d'Abondance +3
-L'argent et les ressources que vous avez investis dans l'Étui d'Abondance ont abouti à un objet aux propriétés magiques vraiment étonnantes. 
- 
+L'argent et les ressources que vous avez investis dans l'Étui d'Abondance ont abouti à un objet aux propriétés magiques vraiment étonnantes.
+
 PARAMÈTRES :
- 
+
 Carreaux +3 illimités~
 
 @112 = ~Sac d'Abondance +3~
 @113 = ~Sac d'Abondance +3
-L'argent et les ressources que vous avez investis dans le Sac d'Abondance ont abouti à un objet aux propriétés magiques vraiment étonnantes. D'une certaine manière, ça n'est pas très surprenant. Avez-vous déjà investi de l'argent et des ressources dans un objet magique pour découvrir qu'il était inutile ? Je veux dire, à part l'Égaliseur et la Hallebarde de la Vague ? C'est bien ce que je pensais. 
+L'argent et les ressources que vous avez investis dans le Sac d'Abondance ont abouti à un objet aux propriétés magiques vraiment étonnantes. D'une certaine manière, ça n'est pas très surprenant. Avez-vous déjà investi de l'argent et des ressources dans un objet magique pour découvrir qu'il était inutile ? Je veux dire, à part l'Égaliseur et la Hallebarde de la Vague ? C'est bien ce que je pensais.
 
 PARAMÈTRES :
- 
+
 Billes +3 illimitées~
 
 @114 = ~Bottes Lestes de Furtivité~
 @115 = ~Bottes Lestes de Furtivité
-Parfaites pour l'explorateur qui veut passer inaperçu, les Bottes Lestes de Furtivité combinent tous les pouvoirs des Bottes de Rapidité et des Bottes de Furtivité. Elles ont été commandées par <CHARNAME>. 
+Parfaites pour l'explorateur qui veut passer inaperçu, les Bottes Lestes de Furtivité combinent tous les pouvoirs des Bottes de Rapidité et des Bottes de Furtivité. Elles ont été commandées par <CHARNAME>.
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Augmente la vitesse de déplacement
  Furtivité : bonus de 20 %
  Se cacher dans l'ombre : bonus de 15 %
@@ -98,11 +98,11 @@ Poids : 4~
 
 @116 = ~Bottes de Blizzard~
 @117 = ~Bottes de Blizzard
-Parfaites pour un assaut contre un repère de trolls des glaces, les Bottes de Blizzard combinent tous les pouvoirs des Bottes de Rapidité et des Bottes Nordiques. Elles ont été commandées par <CHARNAME>. 
+Parfaites pour un assaut contre un repère de trolls des glaces, les Bottes de Blizzard combinent tous les pouvoirs des Bottes de Rapidité et des Bottes Nordiques. Elles ont été commandées par <CHARNAME>.
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Augmente la vitesse de déplacement
  Résistance au Froid : bonus de 50 %
 Poids : 4~
@@ -120,11 +120,11 @@ Poids : 4~
 
 @120 = ~Talons du Seigneur des Tempêtes~
 @121 = ~Talons du Seigneur des Tempêtes
-Parfaits pour une journée reposante passée à lancer un raid contre un temple de Talos ou à combattre des élémentaires d'Air, les Talons du Seigneur des Tempêtes combinent tous les pouvoirs des Bottes de Rapidité et des Bottes d'Atterrissage. Ils ont été commandés par <CHARNAME>. 
+Parfaits pour une journée reposante passée à lancer un raid contre un temple de Talos ou à combattre des élémentaires d'Air, les Talons du Seigneur des Tempêtes combinent tous les pouvoirs des Bottes de Rapidité et des Bottes d'Atterrissage. Ils ont été commandés par <CHARNAME>.
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Augmente la vitesse de déplacement
  Résistance à l'Électricité : bonus de 50 %
 Poids : 4~
@@ -133,14 +133,14 @@ Poids : 4~
 @123 = ~Gourdin +5 : Poisseuse
 Forgée pour <CHARNAME> en fusionnant le gourdin acide Noirsang et l'épineuse Mâchouilleuse, Poisseuse vibre d'un pouvoir destructeur. Couverte d'une substance collante qui brûle la chair au contact, Poisseuse répand également des échardes pointues dans la blessure.
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Résistance à l'Acide : bonus de 25 %
 
 TAC0 : +5
 Dégâts : 1D6 +5, +5 points de dégâts d'acide, et 3 points de dégâts supplémentaires dus aux échardes chaque round pendant quatre rounds
 Type de dégâts : contondant
 Poids : 3
-Facteur de vitesse : 1 
+Facteur de vitesse : 1
 Type de compétence : Gourdin
 Type : arme à une main
 Force nécessaire : 5
@@ -171,7 +171,7 @@ Inutilisable par :
 
 PARAMÈTRES :
 
-Capacités de combat : 
+Capacités de combat :
  Crée ses propres flèches +4. Une cible touchée par ces flèches a 5 % de chance d'être confuse pendant 30 secondes
 
 TAC0 : +4
@@ -194,14 +194,14 @@ Cette armure, dans la famille Corthala depuis des générations, protège son po
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Immunité au charme
  Non-Détection
  Résistance au Feu, à l'Acide et aux dégâts magiques : bonus de 50 %
 
 Classe d'Armure : 0
 Poids : 9
-Utilisable uniquement par : 
+Utilisable uniquement par :
  Valygar~
 
 @130 = ~Robe Améliorée de l'Archimage Bon~
@@ -210,13 +210,13 @@ Cette robe puissante offre une protection contre toutes les formes d'attaques ph
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Mémorisation d'un sort profane supplémentaire pour les niveaux un à quatre
  Résistance à la magie : bonus de 10 %
  Jets de sauvegarde : bonus de 2
 
 Classe d'Armure : 3
-Poids : 6 
+Poids : 6
 Utilisable uniquement par :
  Mage (monoclassé, multiclassé ou jumelé)
  Personnage d'alignement bon~
@@ -227,13 +227,13 @@ Cette robe puissante offre une protection contre toutes les formes d'attaques ph
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Mémorisation d'un sort profane supplémentaire pour les niveaux un à quatre
  Résistance à la magie : bonus de 10 %
  Jets de sauvegarde : bonus de 2
 
 Classe d'Armure : 3
-Poids : 6 
+Poids : 6
 Utilisable uniquement par :
  Mage (monoclassé, multiclassé ou jumelé)
  Personnage d'alignement neutre~
@@ -244,15 +244,15 @@ Cette robe puissante offre une protection contre toutes les formes d'attaques ph
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Mémorisation d'un sort profane supplémentaire pour les niveaux un à quatre
  Résistance à la magie : bonus de 10 %
  Jets de sauvegarde : bonus de 2
 
 Classe d'Armure : 3
-Poids : 6 
+Poids : 6
 Utilisable uniquement par :
- Mage (monoclassé, multiclassé ou jumelé) 
+ Mage (monoclassé, multiclassé ou jumelé)
  Personnage d'alignement mauvais~
 
 @136 = ~Casque Citadelle~
@@ -261,7 +261,7 @@ Forgé à la demande de <CHARNAME>, le Casque Citadelle protège son porteur des
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Classe d'Armure : aucun bonus
  Protège contre les coups critiques
  Immunité au charme
@@ -282,7 +282,7 @@ Forgée à la demande de <CHARNAME>, la Tour de la Volonté de Fer protège son 
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Classe d'Armure : aucun bonus
  Protège contre les coups critiques
  Immunité au charme et aux pouvoirs psioniques
@@ -334,11 +334,11 @@ Inutilisable par :
 
 @144 = ~Armure de Plates Complète Firecam Améliorée~
 @145 = ~Armure de Plates Complète Firecam Améliorée
-Cette armure a été faite pour Keldorn et peu d'autres personnes peuvent la porter. Elle a ensuite été enchantée à nouveau à la demande de <CHARNAME> et elle offre encore plus de protections à Keldorn à présent. Son porteur gagne un bonus de +2 aux jets de sauvegarde et bénéficie des effets d'Action Libre (peut traverser les toiles d'araignées et autres) et de l'Immunité à la Peur. Bien qu'étant très robuste, cette armure est extrèmement légère. 
+Cette armure a été faite pour Keldorn et peu d'autres personnes peuvent la porter. Elle a ensuite été enchantée à nouveau à la demande de <CHARNAME> et elle offre encore plus de protections à Keldorn à présent. Son porteur gagne un bonus de +2 aux jets de sauvegarde et bénéficie des effets d'Action Libre (peut traverser les toiles d'araignées et autres) et de l'Immunité à la Peur. Bien qu'étant très robuste, cette armure est extrèmement légère.
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Jets de sauvegarde : bonus de 2
  Action Libre
  Immunité à la Peur
@@ -357,10 +357,10 @@ Cette armure-ci a été reforgée pour <CHARNAME>. Elle offre à présent des pr
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Résistance à l'Acide : bonus de 50 %
 
-Capacités spéciales : 
+Capacités spéciales :
  Flèche Acide de Melf (trois fois par jour)
 
 Classe d'Armure : -1
@@ -378,9 +378,9 @@ Audn du Pré, chevalier et champion du mage Kekkim, a porté ce bouclier pendant
 
 Plus récemment, le bouclier a été ré-enchanté par <CHARNAME>. Il offre maintenant de nouvelles défenses physiques et il rend le porteur immunisé aux pouvoirs psioniques (mais pas à l'absorption de points d'intelligence causée par les attaques des Illithids).
 
-PARAMÈTRES : 
+PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Immunité au charme, aux pouvoirs psioniques, à la confusion, à la domination, et à l'immobilisation
  Classe d'Armure : bonus de 4
 
@@ -400,7 +400,7 @@ Contrairement à la plupart des lances dont vous ayez eu connaissance, celle-ci 
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  1 attaque supplémentaire par round (même cadence de tir qu'un arc long)
 
 Capacités de combat :
@@ -427,7 +427,7 @@ La lance originelle a été reforgée par <CHARNAME> pour être utilisée à dis
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Immunité au charme et à l'immobilisation
  Jets de sauvegarde : bonus de 3 contre la mort
 
@@ -455,7 +455,7 @@ Après avoir "libéré" l'Empaleur de la Cité Sahuagin, <CHARNAME> le fit refor
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  1 attaque supplémentaire par round (même cadence de tir que l'arc long)
 
 Capacités de combat :
@@ -482,7 +482,7 @@ Récemment, le bâton a été réenchanté par <CHARNAME> pour lui donner des ca
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Classe d'Armure : bonus de 3
  Peau d'Écorce (CA 3)
 
@@ -490,7 +490,7 @@ Capacités spéciales :
  Convocation d'un Tertre Errant (six fois par jour, pendant 100 secondes)
  Charme-Animal amélioré (six fois par jour, pendant 5 minutes, pas de jet de sauvegarde)
 
-Capacités de combat : 
+Capacités de combat :
  lorsque le bâton touche une cible, il y a 5 % de chance pour que celle-ci (et ses alliés) soit affectée d'un sort de Fatalité Rampante.
 
 TAC0 : +5
@@ -513,7 +513,7 @@ Qu'elle ait été créée spécialement pour servir Torm ou qu'elle ait été ac
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Protection contre le Mal
 
 Capacités spéciales :
@@ -523,11 +523,11 @@ Capacités spéciales :
   Portée : 6 mètres
   Zone d'effet : rayon de 6 mètres
 
-Capacités de combat : 
+Capacités de combat :
  Les morts-vivants touchés par l'Étoile du Jour subissent le double des dégâts
 
 TAC0: +4, +8 contre les créatures mauvaises
-Dégâts: 1D8 +4, +8 contre les créatures mauvaises 
+Dégâts: 1D8 +4, +8 contre les créatures mauvaises
 Type de dégâts : tranchant
 Poids : 2
 Facteur de vitesse : 3
@@ -553,13 +553,13 @@ Cependant, le dragon eut sa revanche. Hoshi était talentueux au combat, mais fa
 
 Furie Céleste est un katana d'une facture admirable ; une lame souple mais inaltérable, aussi aiguisée que celle d'un rasoir, une garde recouverte d'un cuir agréable au toucher, avec une énorme perle attachée à son extrémité. Les idéogrammes magiques "Furie Céleste" sont inscrits sur la lame, qui émet une pale lueur violette et qui crépite d'électricité lorsqu'on la dégaine. L'épée est rangée dans un fourreau en peau de dragon dont les écailles grises imbriquées étincellent de reflets bleus, violets et argentés.
 
-PARAMÈTRES : 
+PARAMÈTRES :
 
 Capacités spéciales :
   Foudre (1 fois par jour)
   Cécité (1 fois par jour)
 
-Capacités de combat : 
+Capacités de combat :
   Grondement du Tonnerre, à chaque coup réussi (étourdissement, jet de sauvegarde contre les sorts)
   Électrocution, à chaque coup réussi (5 % de chance d'infliger 20 points de dégâts électriques supplémentaires)
 
@@ -584,11 +584,11 @@ Avec l'aide de <CHARNAME> et la bénédiction d'Arvoreen, l'épée a récemment 
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Action Libre
  Force : bonus de 1 (bonus de force exceptionnelle +75)
 
-Capacités de combat : 
+Capacités de combat :
  La victime doit réussir un jet de sauvegarde contre les baguettes ou être ralentie pendant 45 secondes
 
 TAC0 : +5
@@ -609,13 +609,13 @@ Avec l'aide de <CHARNAME> et la bénédiction de Torm, l'épée a récemment ét
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  5 points de dégâts magiques à quiconque inflige des dégâts au porteur
 
-Capacités de combat : 
+Capacités de combat :
  Dissipation de la Magie à chaque coup
  Silence sur la cible pendant deux rounds
-  
+
 TAC0 : +5
 Dégâts : 1D12 +5
 Type de dégâts : tranchant
@@ -639,10 +639,10 @@ Capacités d'équipement :
  Résistance au Feu : bonus de 30 %
  Résistance au Froid : bonus de 30 %
 
-Capacités spéciales : 
+Capacités spéciales :
  Protection contre les Projectiles sur le porteur (3 fois par jour)
 
-Utilisable uniquement par : 
+Utilisable uniquement par :
  Anomen~
 
 @168 = ~Lilarcor +5~
@@ -651,7 +651,7 @@ Lilarcor n'est plus aussi aimable (ou aussi ennuyeux, selon votre point de vue) 
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Immunité au charme, à la confusion et aux modifications du score d'intelligence
 
 TAC0 : +5
@@ -674,12 +674,12 @@ La puissante Voleuse d'Âmes a été reforgée selon le noir dessein de <CHARNAM
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Résistance à la Magie : bonus de 50 %
 
-Capacités de combat : 
- Dissipation de la Magie à chaque coup. 
- La cible subit une pénalité au TAC0 de -2 pendant 120 secondes. 
+Capacités de combat :
+ Dissipation de la Magie à chaque coup.
+ La cible subit une pénalité au TAC0 de -2 pendant 120 secondes.
 
 TAC0 : +6
 Dégâts : 1D12 +6, +1D6 points de dégâts magiques
@@ -702,14 +702,14 @@ Forgé pour <CHARNAME> en fusionnant le Gourdin d'Os et l'épineuse Mâchouilleu
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Le porteur atteint la Grande Maîtrise pour les gourdins.
 
 TAC0 : +4
 Dégâts : 1D6 +4, +4 si la cible est bonne, mauvaise, loyale ou chaotique (cumulatif), et 2 points de dégâts supplémentaires dus aux éclats d'os chaque round pendant quatre rounds
 Type de dégâts : contondant
 Poids : 3
-Facteur de vitesse : 1 
+Facteur de vitesse : 1
 Type de compétence : Gourdin
 Type : arme à une main
 Force nécessaire : 5
@@ -722,17 +722,17 @@ Inutilisable par :
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Multiplicateur d'attaque sournoise augmenté de 1
 
-Capacités de combat : 
+Capacités de combat :
  La cible est soit aveuglée, soit endormie pendant 12 secondes. Un jds contre le poison à -2 annule les deux effets. (Les créatures aveuglées ont un malus de -10 au TAC0)
 
 TAC0 : +4
 Dégâts : 2D3 +4
 Type de dégâts : tranchant
 Poids : 3
-Facteur de vitesse : 0 
+Facteur de vitesse : 0
 Type de compétence : Dague
 Type : arme à une main
 Force nécessaire : 3
@@ -745,14 +745,14 @@ Inutilisable par :
 
 PARAMÈTRES :
 
-Capacités d'équipement :  
+Capacités d'équipement :
  Classe d'Armure : bonus de 3
  Le porteur est immunisé à l'absorption de niveau
 
-Capacités spéciales : 
+Capacités spéciales :
  Aube Illusoire (deux fois par jour)
 
-Poids :  2 
+Poids :  2
 Force nécessaire : 4
 Inutilisable par :
  Mage~
@@ -785,7 +785,7 @@ Capacités d'équipement :
  Classe d'Armure : bonus de 1
  Jets de sauvegarde : bonus de 3
 
-Capacités spéciales : 
+Capacités spéciales :
  Lance le sort de Guérison (une fois par jour)~
 
 @182 = ~Serre de l'Eau +4~
@@ -806,7 +806,7 @@ Dégâts :  1D8 +4, +2 points de dégâts du poison par seconde (cumulatif)
 Type de dégâts : tranchant
 Poids : 3
 Facteur de vitesse : 1
-Type de compétence : Cimeterre/Wakizashi/Ninja-To 
+Type de compétence : Cimeterre/Wakizashi/Ninja-To
 Type : arme à une main
 Force nécessaire : 8
 Inutilisable par :
@@ -820,10 +820,10 @@ Bordazur, le fléau des morts-vivants déjà extrèmement puissant, a été enco
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Immunité à l'absorption de niveau
 
-Capacités de combat : 
+Capacités de combat :
  +4 points de dégâts supplémentaires aux morts-vivants, qui doivent de plus réussir un jds à -4 contre la mort ou être complètement détruits
  Revient dans la main du lanceur immédiatement après avoir été lancée
 
@@ -850,7 +850,7 @@ Cet anneau est sans aucun doute le sommet de l'aide à la mémorisation. Forgé 
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Mémorisation d'un sort profane supplémentaire pour les niveaux un à sept
  Classe d'Armure : bonus de 1
  Jets de sauvegarde : bonus de 1~
@@ -861,7 +861,7 @@ Créée par <CHARNAME> pour protéger le porteur contre les armes tranchantes, p
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Classe d'Armure : bonus de 3
 
 Poids : 2~
@@ -873,54 +873,54 @@ Reforgée par <CHARNAME> pour invoquer une araignée beaucoup plus puissante, la
 PARAMÈTRES :
 
 Capacités spéciales :
- Invoque une araignée sabre de phase nommée Kitthix pendant 2400 secondes, une fois par jour. 
- L'araignée peut se téléporter vers les ennemis éloignés. 
+ Invoque une araignée sabre de phase nommée Kitthix pendant 2400 secondes, une fois par jour.
+ L'araignée peut se téléporter vers les ennemis éloignés.
  Les attaques de Kitthix emprisonneront les ennemis dans sa toile et les empoisonneront, à moins qu'ils ne réussissent divers jets de sauvegarde.~
 @192 = ~Kitthix améliorée~
 
 @193 = ~Inévitable Entropie~
-@194 = ~Cette lame d'acier vert abyssale a été améliorée sur la demande de <CHARNAME>. Cette épée inflige des dommages de poison et ses victimes semblent perdre leur faculté à lutter contre la magie quand ils sont blessés par la lame. 
+@194 = ~Cette lame d'acier vert abyssale a été améliorée sur la demande de <CHARNAME>. Cette épée inflige des dommages de poison et ses victimes semblent perdre leur faculté à lutter contre la magie quand ils sont blessés par la lame.
 
 PARAMÈTRES :
 
-Capacités de combat : 
- Un coup réussi a 5 % de chance de lancer une Grande Malédiction sur la cible. 
+Capacités de combat :
+ Un coup réussi a 5 % de chance de lancer une Grande Malédiction sur la cible.
 
 TAC0 : +3
-Dégâts : 1D6 +3, +1 de dégâts du poison par seconde, pendant un round 
+Dégâts : 1D6 +3, +1 de dégâts du poison par seconde, pendant un round
 Type de dégâts : perforant
 Poids : 2
 Facteur de vitesse : 0
 Type de compétence : Épée courte
 Type : arme à une main
-Utilisable uniquement par : 
+Utilisable uniquement par :
  Tieffelin~
 
 @195 = ~Chaos Rampant~
-@196 = ~Le Chaos Rampant est une épée courte que seuls les Tieffelins peuvent utiliser. À chaque fois qu'elle touche un adversaire, celui-ci perd 2 points de dextérité (pendant 30 secondes). Améliorée à la demande de <CHARNAME>, cette nouvelle lame a une chance de soumettre au chaos quiconque en est victime. 
+@196 = ~Le Chaos Rampant est une épée courte que seuls les Tieffelins peuvent utiliser. À chaque fois qu'elle touche un adversaire, celui-ci perd 2 points de dextérité (pendant 30 secondes). Améliorée à la demande de <CHARNAME>, cette nouvelle lame a une chance de soumettre au chaos quiconque en est victime.
 
 PARAMÈTRES :
 
-Capacités de combat : 
- Un coup réussi a 5 % de chance de provoquer la Confusion chez la cible pendant 48 secondes à moins de réussir un jet de sauvegarde contre les sorts à -4. 
- De plus, chaque coup draine 2 points de Dextérité à la victime pendant 30 secondes. 
+Capacités de combat :
+ Un coup réussi a 5 % de chance de provoquer la Confusion chez la cible pendant 48 secondes à moins de réussir un jet de sauvegarde contre les sorts à -4.
+ De plus, chaque coup draine 2 points de Dextérité à la victime pendant 30 secondes.
 
 TAC0 : +3
-Dégâts : 1D6 +3 
+Dégâts : 1D6 +3
 Type de dégâts : perforant
 Poids : 2
 Facteur de vitesse : 0
 Type de compétence : Épée courte
 Type : arme à une main
-Utilisable uniquement par : 
+Utilisable uniquement par :
  Tieffelin~
 
 @197 = ~Cotte de Mailles Elfique Écarlate~
-@198 = ~Forgée à la demande de <CHARNAME> en associant des écailles de dragon rouge à une cotte de mailles elfique enchantée, la Cotte de Mailles Elfique Écarlate offre une incomparable combinaison de protection et de liberté de mouvement. Les roublards et les mages peuvent toujours exercer leurs talents quand ils portent cette armure légère. 
+@198 = ~Forgée à la demande de <CHARNAME> en associant des écailles de dragon rouge à une cotte de mailles elfique enchantée, la Cotte de Mailles Elfique Écarlate offre une incomparable combinaison de protection et de liberté de mouvement. Les roublards et les mages peuvent toujours exercer leurs talents quand ils portent cette armure légère.
 
 PARAMÈTRES :
 
-Capacités d'équipement : 
+Capacités d'équipement :
  Résistance au Feu : bonus de 25 %
  Furtivité : malus de 10 %
  Crochetage : malus de 5 %

@@ -1,611 +1,611 @@
                     Baldur's Gate II - Item Upgrade Pack
                            Ulepszone Przedmioty
 	  	Westley Weimer		<weimer@cs.berkeley.edu>
-               
 
 
-		 Tabela Zawartoœci
+
+		 Tabela Zawartoï¿½ci
 		~~~~~~~~~~~~~~~~~
-I. 	Ogólnie
+I. 	Ogï¿½lnie
 II. 	Instalacja
 III.   	Przedmioty
-IV.	Znane b³êdy
-V.	Podziêkowania
+IV.	Znane bï¿½ï¿½dy
+V.	Podziï¿½kowania
 VI. 	FAQ (Pytania)
 VII.	Zmiany
 
 
-		Rozdzia³ I. Ogólnie
+		Rozdziaï¿½ I. Ogï¿½lnie
 		~~~~~~~~~~~~~~~~
-Item Upgrade Mod Pack umo¿liwia Cromwellowi i Cespenarowi ulepszyæ dla ciebie
-wiêcej przedmiotów. Jedne z nich s¹ oczywiste, a inne maj¹ za zadanie ulepszyæ
-przedmioty z kategorii, które s¹ "s³abe" (tj. maczugi i wekiery). 
+Item Upgrade Mod Pack umoï¿½liwia Cromwellowi i Cespenarowi ulepszyï¿½ dla ciebie
+wiï¿½cej przedmiotï¿½w. Jedne z nich sï¿½ oczywiste, a inne majï¿½ za zadanie ulepszyï¿½
+przedmioty z kategorii, ktï¿½re sï¿½ "sï¿½abe" (tj. maczugi i wekiery).
 
-Zobacz rozdzia³ III na listê przedmiotów.
+Zobacz rozdziaï¿½ III na listï¿½ przedmiotï¿½w.
 
 
-		Rozdzia³ II. Instalacja
+		Rozdziaï¿½ II. Instalacja
 		~~~~~~~~~~~~~~~~~~~~~~~~
 BGII jest potrzebna. ToB jest opcjonalny, ale zalecany. Item Upgrade Mod powinien
-zainstalowaæ siê poprawnie z (lub bez) modu Ascension. Powinien on dzia³aæ dobrze
-z ka¿dym innym modem WeiDU. OdwiedŸ stronê internetow¹ po szczegó³y. 
+zainstalowaï¿½ siï¿½ poprawnie z (lub bez) modu Ascension. Powinien on dziaï¿½aï¿½ dobrze
+z kaï¿½dym innym modem WeiDU. Odwiedï¿½ stronï¿½ internetowï¿½ po szczegï¿½y.
 
-Rozpakuj plik ZIP do folderu, w którym masz BGII. To jest domyœlnie:
+Rozpakuj plik ZIP do folderu, w ktï¿½rym masz BGII. To jest domyï¿½lnie:
         C:\Program Files\Black Isle\BGII - SoA\
 
-Uruchom (kliknij na) "Setup-ItemUpgrade.exe". 
+Uruchom (kliknij na) "Setup-ItemUpgrade.exe".
 
-Wpierw, wybierz swój ulubiony jêzyk. Obecnie dostêpne s¹:
-  Amerykañski Angielski (American English)
-  Francuski (French) przet³umaczone przez Artemidore (artemidore@caramail.com)
+Wpierw, wybierz swï¿½j ulubiony jï¿½zyk. Obecnie dostï¿½pne sï¿½:
+  Amerykaï¿½ski Angielski (American English)
+  Francuski (French) przetï¿½umaczone przez Artemidore (artemidore@caramail.com)
                      			&  Cocobard (bardbards@planetis.com)
-  Niemiecki (German) przet³umaczone przez Maus (maus@fphfslinux.physik.uni-karlsruhe.de)
+  Niemiecki (German) przetï¿½umaczone przez Maus (maus@fphfslinux.physik.uni-karlsruhe.de)
                      			&  Norbert Frishcauf
-  Hiszpañski (Spanish) przet³umaczone przez Clan DLAN ( http://www.clandlan.cjb.net )
-                     			& Bhasbuto 
+  Hiszpaï¿½ski (Spanish) przetï¿½umaczone przez Clan DLAN ( http://www.clandlan.cjb.net )
+                     			& Bhasbuto
                      			& Immortality
                      			& Neil Sharp (FWP)
-  Polski (Polish) t³umaczony przez Damiana Staniszewskiego
+  Polski (Polish) tï¿½umaczony przez Damiana Staniszewskiego
 
-Potem wybierz komponenty, które chcia³byœ zainstalowaæ. Mo¿esz je póŸniej zawsze
-odinstalowaæ poprzez ponowne uruchomienie "Setup-ItemUpgrade.exe". 
+Potem wybierz komponenty, ktï¿½re chciaï¿½byï¿½ zainstalowaï¿½. Moï¿½esz je pï¿½niej zawsze
+odinstalowaï¿½ poprzez ponowne uruchomienie "Setup-ItemUpgrade.exe".
 
-*NIE MUSISZ* rozpocz¹æ nowej gry, by zatwierdziæ zmiany i by odnios³y jakikolwiek skutek. 
+*NIE MUSISZ* rozpoczï¿½ï¿½ nowej gry, by zatwierdziï¿½ zmiany i by odniosï¿½y jakikolwiek skutek.
 
-Komponenty powinny zainstalowaæ siê poprawnie dla miêdzynarodowych graczy,
-którzy maj¹ zarówno DIALOG.TLK jak i DIALOGF.TLK. 
+Komponenty powinny zainstalowaï¿½ siï¿½ poprawnie dla miï¿½dzynarodowych graczy,
+ktï¿½rzy majï¿½ zarï¿½wno DIALOG.TLK jak i DIALOGF.TLK.
 
 
-		Rozdzia³ III. Przedmioty
+		Rozdziaï¿½ III. Przedmioty
 		~~~~~~~~~~~~~~~~~~~~~~~~
-Przedmioty zosta³y spisane za pomoc¹ sk³adników potrzebnych do ich zrobienia po lewej
-i rezultatem po³¹czenia po prawej. 
+Przedmioty zostaï¿½y spisane za pomocï¿½ skï¿½adnikï¿½w potrzebnych do ich zrobienia po lewej
+i rezultatem poï¿½ï¿½czenia po prawej.
 
-[ Mod ten naprawia te¿ Karsomir +5 i Karsomir +6 by u¿ywa³y tego samego czaru
-  "rozproszenia magii". ] 
+[ Mod ten naprawia teï¿½ Karsomir +5 i Karsomir +6 by uï¿½ywaï¿½y tego samego czaru
+  "rozproszenia magii". ]
 
 ---------------------------------------------------------------------------
 2 Amulety Ochrony +1
-Amulet ochrony przed trucizn¹
-Naszyjnik Stabilnoœci Kszta³tu
-Amulet blokowania czarów
-10,000 Sztuk z³ota
+Amulet ochrony przed truciznï¿½
+Naszyjnik Stabilnoï¿½ci Ksztaï¿½tu
+Amulet blokowania czarï¿½w
+10,000 Sztuk zï¿½ota
                         Amulet Ilmatera
-                        +1 KP, +3 do rzutów obronnych, Odpornoœæ na trucizny
+                        +1 KP, +3 do rzutï¿½w obronnych, Odpornoï¿½ï¿½ na trucizny
 			Leczenie (raz dziennie)
 ---------------------------------------------------------------------------
-Pierœcieñ Ochrony +1
-Pierœcieñ Regeneracji
+Pierï¿½cieï¿½ Ochrony +1
+Pierï¿½cieï¿½ Regeneracji
 Diament
-10,000 Sztuk z³ota
-                        Pierœcieñ Zachowywania +1
-                        +1 KP, +1 do rzutów obronnych, Regeneracja 1 P¯/6 sekund. 
+10,000 Sztuk zï¿½ota
+                        Pierï¿½cieï¿½ Zachowywania +1
+                        +1 KP, +1 do rzutï¿½w obronnych, Regeneracja 1 Pï¿½/6 sekund.
 ---------------------------------------------------------------------------
-Pierœcieñ Ochrony +2
-Pierœcieñ Regeneracji
+Pierï¿½cieï¿½ Ochrony +2
+Pierï¿½cieï¿½ Regeneracji
 Diament
-20,000 Sztuk Z³ota
-                        Pierœcieñ Zachowywania +2
-                        +2 KP, +2 do rzutów obronnych, Regeneracja 1 P¯/6 sekund. 
+20,000 Sztuk Zï¿½ota
+                        Pierï¿½cieï¿½ Zachowywania +2
+                        +2 KP, +2 do rzutï¿½w obronnych, Regeneracja 1 Pï¿½/6 sekund.
 ---------------------------------------------------------------------------
-Pierœcieñ kontroli nad powietrzem
-Pierœcieñ kontroli nad ziemi¹
-Pierœcieñ kontroli nad ogniem
-Zwój Ochrony przed petryfikacj¹ (zielony)
-Zwój Ochrony przed ogniem (zielony)
-Zwój Ochrony przed elektrycznoœci¹ (zielony)
-20,000 Sztuk z³ota
-                        Pierœcieñ W³adzy Nad ¯ywio³ami
-                        +1 KP, 50% odpornoœæ na ogieñ, 50% odpornoœæ na elektrycznoœæ
-                        Zauroczenie ¯ywio³aka (3x/dzieñ, bez rzutu)
-                        Przywo³anie ¯ywio³aków (1 ka¿dy, raz/dzieñ, przyjazne)
-                        Ulepszona niewidzialnoœæ (raz/dzieñ)
+Pierï¿½cieï¿½ kontroli nad powietrzem
+Pierï¿½cieï¿½ kontroli nad ziemiï¿½
+Pierï¿½cieï¿½ kontroli nad ogniem
+Zwï¿½j Ochrony przed petryfikacjï¿½ (zielony)
+Zwï¿½j Ochrony przed ogniem (zielony)
+Zwï¿½j Ochrony przed elektrycznoï¿½ciï¿½ (zielony)
+20,000 Sztuk zï¿½ota
+                        Pierï¿½cieï¿½ Wï¿½adzy Nad ï¿½ywioï¿½ami
+                        +1 KP, 50% odpornoï¿½ï¿½ na ogieï¿½, 50% odpornoï¿½ï¿½ na elektrycznoï¿½ï¿½
+                        Zauroczenie ï¿½ywioï¿½aka (3x/dzieï¿½, bez rzutu)
+                        Przywoï¿½anie ï¿½ywioï¿½akï¿½w (1 kaï¿½dy, raz/dzieï¿½, przyjazne)
+                        Ulepszona niewidzialnoï¿½ï¿½ (raz/dzieï¿½)
 ---------------------------------------------------------------------------
 Kostur Powietrza +2
 Kostur Ziemi +2
 Kostur Ognia +2
-20,000 Sztuk z³ota
-                        Kostur w³adzy nad ¿ywio³ami +5
-                        Ka¿dy trafiony ¿ywio³ak ginie
-                        Przywo³anie ¿ywio³aka (1 ka¿dy, raz/dzieñ, przyjazne)
-                        Ognista tarcza: Czerwony (dwa razy/dzieñ)
-                        Chmura snu (dwa razy/dzieñ)
+20,000 Sztuk zï¿½ota
+                        Kostur wï¿½adzy nad ï¿½ywioï¿½ami +5
+                        Kaï¿½dy trafiony ï¿½ywioï¿½ak ginie
+                        Przywoï¿½anie ï¿½ywioï¿½aka (1 kaï¿½dy, raz/dzieï¿½, przyjazne)
+                        Ognista tarcza: Czerwony (dwa razy/dzieï¿½)
+                        Chmura snu (dwa razy/dzieï¿½)
 ---------------------------------------------------------------------------
-Ko³czan/Futera³/Torba Obfitoœci +2 
-40 Be³tów/Strza³/Pocisków +3
-40,000 Sztuk z³ota
-                        Ko³czan/Futera³/Torba Obfitoœci +3
+Koï¿½czan/Futeraï¿½/Torba Obfitoï¿½ci +2
+40 Beï¿½tï¿½w/Strzaï¿½/Pociskï¿½w +3
+40,000 Sztuk zï¿½ota
+                        Koï¿½czan/Futeraï¿½/Torba Obfitoï¿½ci +3
 ---------------------------------------------------------------------------
-Buty Szybkoœci
+Buty Szybkoï¿½ci
 Buty Ukrycia
-Kamieñ £otrzyków
-10,000 Sztuk z³ota
+Kamieï¿½ ï¿½otrzykï¿½w
+10,000 Sztuk zï¿½ota
                         Buty Przyspieszonego Ukrycia
                         Przyspieszenie & Ukrycie
 ---------------------------------------------------------------------------
-Buty Szybkoœci
-Buty Pó³nocy
-Kamieñ £otrzyków
-10,000 Sztuk z³ota
+Buty Szybkoï¿½ci
+Buty Pï¿½nocy
+Kamieï¿½ ï¿½otrzykï¿½w
+10,000 Sztuk zï¿½ota
                         Buty Zamieci
-                        Przyspieszenie & 50% odpornoœæ na zimno
+                        Przyspieszenie & 50% odpornoï¿½ï¿½ na zimno
 ---------------------------------------------------------------------------
-Buty Szybkoœci
+Buty Szybkoï¿½ci
 Buty Uziemienia
-Kamieñ £otrzyków
-10,000 Sztuk z³ota
-                        Piêty Pana Burzy
-                        Przyspieszenie & 50% odpornoœæ na elektrycznoœæ
+Kamieï¿½ ï¿½otrzykï¿½w
+10,000 Sztuk zï¿½ota
+                        Piï¿½ty Pana Burzy
+                        Przyspieszenie & 50% odpornoï¿½ï¿½ na elektrycznoï¿½ï¿½
 ---------------------------------------------------------------------------
-Buty Szybkoœci
-Buty Uników
-Kamieñ £otrzyków
-10,000 Sztuk z³ota
+Buty Szybkoï¿½ci
+Buty Unikï¿½w
+Kamieï¿½ ï¿½otrzykï¿½w
+10,000 Sztuk zï¿½ota
                         Buty Szerszenia
                         Przyspieszenie & KP premia vs. pociskom
 ---------------------------------------------------------------------------
 Czarna Krew
 Zgniatacz
-15,000 Sztuk z³ota
-                        Niewierna ¯ona +5
-                        +5 obra¿eñ od kwasu, ciête: 3/rundê przez 4 rundy,
-                        25% odpornoœæ na kwas
+15,000 Sztuk zï¿½ota
+                        Niewierna ï¿½ona +5
+                        +5 obraï¿½eï¿½ od kwasu, ciï¿½te: 3/rundï¿½ przez 4 rundy,
+                        25% odpornoï¿½ï¿½ na kwas
 ---------------------------------------------------------------------------
-Koœciana Maczuga
+Koï¿½ciana Maczuga
 Zgniatacz
-15,000 Sztuk z³ota
+15,000 Sztuk zï¿½ota
                         Punkt podparcia +4
-                        +4 obra¿eñ dla dobrych/z³ych/praworz¹dnych/chaotycznych (cumulative)
+                        +4 obraï¿½eï¿½ dla dobrych/zï¿½ych/praworzï¿½dnych/chaotycznych (cumulative)
                         shards: 2/round for 4 rounds, Wielki Mistrz w maczugach
 ---------------------------------------------------------------------------
-Roz³upywacz czaszek +3
-Zwój Palca Œmierci
-Przeklêta Mikstura Leczenia
-15,000 Sztuk z³ota
-                        Roz³upywacz czaszek +5
-                        +6 dodatkowych obra¿eñ dla humanoidów, redukuje max
-                        P¯ celu o 2 na 10 rounds
+Rozï¿½upywacz czaszek +3
+Zwï¿½j Palca ï¿½mierci
+Przeklï¿½ta Mikstura Leczenia
+15,000 Sztuk zï¿½ota
+                        Rozï¿½upywacz czaszek +5
+                        +6 dodatkowych obraï¿½eï¿½ dla humanoidï¿½w, redukuje max
+                        Pï¿½ celu o 2 na 10 rounds
 ---------------------------------------------------------------------------
 Poszukiwacz Serc
-(Ciêciwa Gesena lub Ciêciwa Gonda)
-4 £zy Laeral (i zero z³ota)
+(Ciï¿½ciwa Gesena lub Ciï¿½ciwa Gonda)
+4 ï¿½zy Laeral (i zero zï¿½ota)
 Mikstura Mocy
-                        Teleomortis +4 (D³ugi £uk)
-                        nie wymaga amunicji, 5% szansa na zamêt dla celu 
+                        Teleomortis +4 (Dï¿½ugi ï¿½uk)
+                        nie wymaga amunicji, 5% szansa na zamï¿½t dla celu
                         na 30 sekund
 ---------------------------------------------------------------------------
-Rodowa zbroja Corthalów
-Zwój Ochrony przed magi¹
+Rodowa zbroja Corthalï¿½w
+Zwï¿½j Ochrony przed magiï¿½
 Zbroja Smoka Cienia
-10,000 Sztuk Z³ota
-                        Rodowa zbroja Corthalów
-                        50% odpornoœci przeciw obra¿eniom na ogieñ/kwas/magia,
-                        odpornoœæ na zauroczenie, niewykrywalnoœæ, KP 0. 
+10,000 Sztuk Zï¿½ota
+                        Rodowa zbroja Corthalï¿½w
+                        50% odpornoï¿½ci przeciw obraï¿½eniom na ogieï¿½/kwas/magia,
+                        odpornoï¿½ï¿½ na zauroczenie, niewykrywalnoï¿½ï¿½, KP 0.
 ---------------------------------------------------------------------------
-Szata dobrego/neutralnego/z³ego arcymaga
-P³aszcz Ochrony +1
-Zwój Eternalnego Pancerza
-Zwój Warunkowania
-20,000 Sztuk Z³ota
+Szata dobrego/neutralnego/zï¿½ego arcymaga
+Pï¿½aszcz Ochrony +1
+Zwï¿½j Eternalnego Pancerza
+Zwï¿½j Warunkowania
+20,000 Sztuk Zï¿½ota
                         Wzmocniona szata arcymaga
-                        KP 3, 10% MR, +2 do rzutów obronnych, Zapamiêtanie jednego
+                        KP 3, 10% MR, +2 do rzutï¿½w obronnych, Zapamiï¿½tanie jednego
 			dodatkowego czaru z 1,2,3 i 4 poziomu
 ---------------------------------------------------------------------------
-He³m Ochrony
-He³m Ochrony Przed Urokami
-4 Per³y
-10,000 Sztuk z³ota
-                        He³m Cytadeli
-                        Odpornoœæ na zauroczenia, +1 do rzutów obronnych, 20% odpornoœci,
-                        na ogieñ, zimno, elektrycznoœæ
+Heï¿½m Ochrony
+Heï¿½m Ochrony Przed Urokami
+4 Perï¿½y
+10,000 Sztuk zï¿½ota
+                        Heï¿½m Cytadeli
+                        Odpornoï¿½ï¿½ na zauroczenia, +1 do rzutï¿½w obronnych, 20% odpornoï¿½ci,
+                        na ogieï¿½, zimno, elektrycznoï¿½ï¿½
 ---------------------------------------------------------------------------
-He³m Ochrony Przed Urokami
+Heï¿½m Ochrony Przed Urokami
 2 Solne mikstury
-10,000 Sztuk z³ota
-                        Wie¿a ¯elaznej Woli
-                        Ochrona przed zauroczeniem i psionik¹
+10,000 Sztuk zï¿½ota
+                        Wieï¿½a ï¿½elaznej Woli
+                        Ochrona przed zauroczeniem i psionikï¿½
 ---------------------------------------------------------------------------
-Skóra Aegera +3
-Zwój ochrony przed ¿ywio³akami
-15,000 Sztuk z³ota
-                        Skóra Aegera +5
-                        KP 1, Odpornoœæ na zamêt, 25% odpornoœæi na ogieñ
-                        zimno i kwas. 
+Skï¿½ra Aegera +3
+Zwï¿½j ochrony przed ï¿½ywioï¿½akami
+15,000 Sztuk zï¿½ota
+                        Skï¿½ra Aegera +5
+                        KP 1, Odpornoï¿½ï¿½ na zamï¿½t, 25% odpornoï¿½ï¿½i na ogieï¿½
+                        zimno i kwas.
 ---------------------------------------------------------------------------
-Ludzka Skóra +5
+Ludzka Skï¿½ra +5
 Malla's Soulstone
-Zwój ochrony przed magi¹
-20,000 Sztuk z³ota
-                        Ludzka Skóra
-                        KP 0, Ochrona przed dobrem, +1 ZRÊ, +1 KON,
-                        odpornoœæ na trucizny
+Zwï¿½j ochrony przed magiï¿½
+20,000 Sztuk zï¿½ota
+                        Ludzka Skï¿½ra
+                        KP 0, Ochrona przed dobrem, +1 ZRï¿½, +1 KON,
+                        odpornoï¿½ï¿½ na trucizny
 ---------------------------------------------------------------------------
-Pe³na Zbroja P³ytowa Firecama
+Peï¿½na Zbroja Pï¿½ytowa Firecama
 Zbroja Jelenia
-20,000 Sztuk z³ota
-                        Pe³na Zbroja P³ytowa Firecama
-                        KP -2, +2 do rzutów obronnych, "Swoboda ruchów Firecama",
-                        odpornoœæ na strach, ma³a waga.
+20,000 Sztuk zï¿½ota
+                        Peï¿½na Zbroja Pï¿½ytowa Firecama
+                        KP -2, +2 do rzutï¿½w obronnych, "Swoboda ruchï¿½w Firecama",
+                        odpornoï¿½ï¿½ na strach, maï¿½a waga.
 ---------------------------------------------------------------------------
-Zbroja p³ytowa z ankhega
-Zwój ochrony przed kwasem (zielony)
-Zwój ochrony przed kwasem (niebieski)
-5,000 Sztuk z³ota
-                        Zbroja p³ytowa z ankhega
-                        KP -1, 50% odpornoœæ na kwas, rzuca kwasow¹ strza³ê 3x/dzieñ. 
+Zbroja pï¿½ytowa z ankhega
+Zwï¿½j ochrony przed kwasem (zielony)
+Zwï¿½j ochrony przed kwasem (niebieski)
+5,000 Sztuk zï¿½ota
+                        Zbroja pï¿½ytowa z ankhega
+                        KP -1, 50% odpornoï¿½ï¿½ na kwas, rzuca kwasowï¿½ strzaï¿½ï¿½ 3x/dzieï¿½.
 ---------------------------------------------------------------------------
 Tarcza harmonii +2
 2 Solne mikstury
-Obro¿a niewolnika
+Obroï¿½a niewolnika
 Beljuril
-10,000 Sztuk z³ota
+10,000 Sztuk zï¿½ota
                         Tarcza harmonii +3
-                        Wszystkie stare odpornoœci. Odpornoœæ na psionikê.
+                        Wszystkie stare odpornoï¿½ci. Odpornoï¿½ï¿½ na psionikï¿½.
 ---------------------------------------------------------------------------
 Puklerz +1
 Symbol Amaunatora
-5 S³onecznych Klejnotów
-10,000 Sztuk z³ota
-                        Œwiêty Puklerz Amaunatora +2
-                        Negative Plane Protection. False Dawn 2x/day. 
+5 Sï¿½onecznych Klejnotï¿½w
+10,000 Sztuk zï¿½ota
+                        ï¿½wiï¿½ty Puklerz Amaunatora +2
+                        Negative Plane Protection. False Dawn 2x/day.
 ---------------------------------------------------------------------------
-W³ócznia +3
-Kamieñ £otrzyków
-10,000 Sztuk z³ota
-                        Rzucana W³ócznia +3 (zasiêg d³ugiego ³uku)
+Wï¿½ï¿½cznia +3
+Kamieï¿½ ï¿½otrzykï¿½w
+10,000 Sztuk zï¿½ota
+                        Rzucana Wï¿½ï¿½cznia +3 (zasiï¿½g dï¿½ugiego ï¿½uku)
 ---------------------------------------------------------------------------
-W³ócznia Jednoro¿ca
-Kamieñ £otrzyków
-10,000 Sztuk z³ota
-                        Rzucana W³ócznia Jednoro¿ca +3
-                        1k6+3, +2 obra¿eñ od ognia, odpornoœæ na zauroczenia i zatrzymanie,
-                        +3 do rzutów obronnych vs. œmierci
+Wï¿½ï¿½cznia Jednoroï¿½ca
+Kamieï¿½ ï¿½otrzykï¿½w
+10,000 Sztuk zï¿½ota
+                        Rzucana Wï¿½ï¿½cznia Jednoroï¿½ca +3
+                        1k6+3, +2 obraï¿½eï¿½ od ognia, odpornoï¿½ï¿½ na zauroczenia i zatrzymanie,
+                        +3 do rzutï¿½w obronnych vs. ï¿½mierci
 ---------------------------------------------------------------------------
 Przebijacz
-Kamieñ £otrzyków
-15,000 Sztuk z³ota
-                        Przebijacz +4 (rzucana w³ócznia, zasiêg s³ugiego ³uku) 
+Kamieï¿½ ï¿½otrzykï¿½w
+15,000 Sztuk zï¿½ota
+                        Przebijacz +4 (rzucana wï¿½ï¿½cznia, zasiï¿½g sï¿½ugiego ï¿½uku)
                         1k6+4 + 10
 ---------------------------------------------------------------------------
-Kostur Lasów
-Pierœcieñ Ochrony +1
-Pierœcieñ PrzyjaŸni ze zwierzêtami
-20,000 Sztuk z³ota
-                        Kostur Lasów +5
-                        Stare w³aœciwoœci. 5% szansa na plagê pe³zaj¹cej zag³ady,
+Kostur Lasï¿½w
+Pierï¿½cieï¿½ Ochrony +1
+Pierï¿½cieï¿½ Przyjaï¿½ni ze zwierzï¿½tami
+20,000 Sztuk zï¿½ota
+                        Kostur Lasï¿½w +5
+                        Stare wï¿½aï¿½ciwoï¿½ci. 5% szansa na plagï¿½ peï¿½zajï¿½cej zagï¿½ady,
 ---------------------------------------------------------------------------
 Lazurowe Ostrze +3
 Illithium
-20,000 Sztuk z³ota
+20,000 Sztuk zï¿½ota
                         Lazurowe Ostrze +4
-                        Stare w³aœciwoœci. Odpornoœæ na wyssanie poziomu.
+                        Stare wï¿½aï¿½ciwoï¿½ci. Odpornoï¿½ï¿½ na wyssanie poziomu.
 ---------------------------------------------------------------------------
 Dzienna Gwiazda
-4 Zwoje Ochrony Przed Nieumar³ymi
-2 Fiolki Œwiêtej Wody Elfów
+4 Zwoje Ochrony Przed Nieumarï¿½ymi
+2 Fiolki ï¿½wiï¿½tej Wody Elfï¿½w
 2 Gwiezdne Szafiry
-15,000 Sztuk z³ota
+15,000 Sztuk zï¿½ota
                         Dzienna Gwiazda +4
-                        1k8+4, +8 vs. z³ym istotom, podwijone przy nieumar³ych
-                        Ochrona przed z³em, kiedy jest w u¿yciu, S³oneczny Promieñ 2x/dzieñ. 
+                        1k8+4, +8 vs. zï¿½ym istotom, podwijone przy nieumarï¿½ych
+                        Ochrona przed zï¿½em, kiedy jest w uï¿½yciu, Sï¿½oneczny Promieï¿½ 2x/dzieï¿½.
 ---------------------------------------------------------------------------
 Furia Niebios
 Serce Demona
-Ró¿d¿ka B³yskawic
-20,000 Sztuk z³ota
+Rï¿½dï¿½ka Bï¿½yskawic
+20,000 Sztuk zï¿½ota
                         Furia Niebios +5
-                        Stare w³aœciwoœci FN. 
+                        Stare wï¿½aï¿½ciwoï¿½ci FN.
 ---------------------------------------------------------------------------
 Miecz Arvoreen +2
 Reputacja 20
-15,000 Sztuk z³ota
+15,000 Sztuk zï¿½ota
                         Miecz Arvoreen +5
-                        Swoboda Ruchów. Rzut obronny vs. ró¿d¿kom albo bêdzie
-                        spowolniony. Dodaje +1 SI£, +75 dodatkowych SI£. 
+                        Swoboda Ruchï¿½w. Rzut obronny vs. rï¿½dï¿½kom albo bï¿½dzie
+                        spowolniony. Dodaje +1 SIï¿½, +75 dodatkowych SIï¿½.
 ---------------------------------------------------------------------------
 Ostrze Wody +3
 Adjatha Wysysacz +2
 Pazur Rashada +2
-15,000 Sztuk z³ota
+15,000 Sztuk zï¿½ota
                         Szpon Wody +4
-                        1k8+4, podnosi max P¯ o 2, truciŸna 2P¯/sekundê
-                        Ulepszony zasiêg uderzenia. Odpornoœæ na Zauroczenia Dominacjê. 
+                        1k8+4, podnosi max Pï¿½ o 2, truciï¿½na 2Pï¿½/sekundï¿½
+                        Ulepszony zasiï¿½g uderzenia. Odpornoï¿½ï¿½ na Zauroczenia Dominacjï¿½.
 ---------------------------------------------------------------------------
-Uœwiêcony Odkupiciel
+Uï¿½wiï¿½cony Odkupiciel
 Reputacja 20
 Serce Demona
-5 Zwojów Rozproszenia Magii
-15,000 Sztuk z³ota
-                        Uœwiêcony Odkupiciel +5
+5 Zwojï¿½w Rozproszenia Magii
+15,000 Sztuk zï¿½ota
+                        Uï¿½wiï¿½cony Odkupiciel +5
                         Stare efekty UO. Rozproszenie magii za trafieniem.
-                        Uciszenie celu na dwie rundy. 
+                        Uciszenie celu na dwie rundy.
 ---------------------------------------------------------------------------
-Tarcza Rodziny Delrynów
-£aska Ocalenia
-15,000 Sztuk z³ota
-                        Tarcza Rodziny Delrynów +4
-                        Stare w³aœciwoœci TRD. 
+Tarcza Rodziny Delrynï¿½w
+ï¿½aska Ocalenia
+15,000 Sztuk zï¿½ota
+                        Tarcza Rodziny Delrynï¿½w +4
+                        Stare wï¿½aï¿½ciwoï¿½ci TRD.
 ---------------------------------------------------------------------------
 Lilarcor
-Obro¿a Niewolnika
-20,000 Sztuk z³ota
+Obroï¿½a Niewolnika
+20,000 Sztuk zï¿½ota
                         Lilarcor +5
-                        Stare w³aœciwoœci, plus odpornoœæ na modyfikacje INT. 
+                        Stare wï¿½aï¿½ciwoï¿½ci, plus odpornoï¿½ï¿½ na modyfikacje INT.
 ---------------------------------------------------------------------------
 Rozpruwacz Dusz
-Serce Potêpionego
+Serce Potï¿½pionego
 Karsomir
-20,000 Sztuk z³ota
+20,000 Sztuk zï¿½ota
                         Rozpruwacz Dusz +6
-                        1k12 +6, +1k6 magicznych obra¿eñ. 50% MR, rozproszenie magii
-                        za trafieniem, cel dostaje karê -2 TraK0 na 120 sekund. 
+                        1k12 +6, +1k6 magicznych obraï¿½eï¿½. 50% MR, rozproszenie magii
+                        za trafieniem, cel dostaje karï¿½ -2 TraK0 na 120 sekund.
 ---------------------------------------------------------------------------
-Koœciana Klinga
+Koï¿½ciana Klinga
 Kolec Chochlika
-4 Mikstury Z³odziejskiego Mistrzowstwa
-15,000 Sztuk z³ota
+4 Mikstury Zï¿½odziejskiego Mistrzowstwa
+15,000 Sztuk zï¿½ota
                         Quietus +4 (Sztylet)
-                        Powiêkszony mno¿nik sztyletowania o 1. Cel musi mieæ rzut
-                        obronny przeciw truciŸnie z modyfikatorem -2 lub zostanie 
-                        oœlepiony b¹dŸ uœpiony na 12 sekund. 
+                        Powiï¿½kszony mnoï¿½nik sztyletowania o 1. Cel musi mieï¿½ rzut
+                        obronny przeciw truciï¿½nie z modyfikatorem -2 lub zostanie
+                        oï¿½lepiony bï¿½dï¿½ uï¿½piony na 12 sekund.
 ---------------------------------------------------------------------------
-Rêkawice kieszonkowca
+Rï¿½kawice kieszonkowca
 Bransolety Ochrony KP 4
-Pierœcieñ Wyczucia Zagro¿enia
-Pierœcieñ Otwierania Zamków
-2 Pierœcienie Ochrony +1
-5,000 Sztuk z³ota
-                        Rêkawice Mistrza Z³odzieji
-                        +25% wykrywania pu³apek, +25% otwierania zamków, +20% kieszonkowstwa, 
-                        KP 3, +1 do rzutów obronnych
+Pierï¿½cieï¿½ Wyczucia Zagroï¿½enia
+Pierï¿½cieï¿½ Otwierania Zamkï¿½w
+2 Pierï¿½cienie Ochrony +1
+5,000 Sztuk zï¿½ota
+                        Rï¿½kawice Mistrza Zï¿½odzieji
+                        +25% wykrywania puï¿½apek, +25% otwierania zamkï¿½w, +20% kieszonkowstwa,
+                        KP 3, +1 do rzutï¿½w obronnych
 ---------------------------------------------------------------------------
-Pierœcieñ Czarodziejstwa
-Pierœcieñ Ostroœci
-Amulet Metaczarów
-Pierœcieñ Ochrony +1
-20,000 Sztuk z³ota
-                        Pierœcieñ Czarownika 
-                        +1 KP, +1 do rzutów obronnych, zapamiêtanie jednego dodatkowego 
-                        zaklêcia z ka¿dego poziomu od pierwszego do siódmego.
+Pierï¿½cieï¿½ Czarodziejstwa
+Pierï¿½cieï¿½ Ostroï¿½ci
+Amulet Metaczarï¿½w
+Pierï¿½cieï¿½ Ochrony +1
+20,000 Sztuk zï¿½ota
+                        Pierï¿½cieï¿½ Czarownika
+                        +1 KP, +1 do rzutï¿½w obronnych, zapamiï¿½tanie jednego dodatkowego
+                        zaklï¿½cia z kaï¿½dego poziomu od pierwszego do siï¿½dmego.
 ---------------------------------------------------------------------------
-Z³oty Pas
-Pas T³umienia
-Pas Przebiæ
+Zï¿½oty Pas
+Pas Tï¿½umienia
+Pas Przebiï¿½
 3 Krwawniki
-10,000 Sztuk z³ota
-                        Pas Chwa³y
+10,000 Sztuk zï¿½ota
+                        Pas Chwaï¿½y
                         +3 KP
 ---------------------------------------------------------------------------
-Figurka Czarnego Paj¹ka
-Zwój Pajêczego Pomiotu
-Zwój Pajêczyny
-5 Zatrutych Rzucanych Sztyletów
-5,000 Sztuk z³ota
+Figurka Czarnego Pajï¿½ka
+Zwï¿½j Pajï¿½czego Pomiotu
+Zwï¿½j Pajï¿½czyny
+5 Zatrutych Rzucanych Sztyletï¿½w
+5,000 Sztuk zï¿½ota
                         Ulepszona Figurka Kitthixa
-                        (przyzywa ulepszonego Kitthix 1/dzieñ, zobacz FAQ po statystyki)
+                        (przyzywa ulepszonego Kitthix 1/dzieï¿½, zobacz FAQ po statystyki)
 ---------------------------------------------------------------------------
 Chaos
 Entropia
-Zwój Chaosu
-Zwój Wielkiego Os³abienia
+Zwï¿½j Chaosu
+Zwï¿½j Wielkiego Osï¿½abienia
 Ilbratha
 Arbane
-Kamieñ £otrzyków
-25,000 Sztuk z³ota
+Kamieï¿½ ï¿½otrzykï¿½w
+25,000 Sztuk zï¿½ota
                         Upiorne Ostrze Chaosu
-                        (+3 broñ, 5% na Zamêt, wysysanie 2 zrêcznoœci) 
+                        (+3 broï¿½, 5% na Zamï¿½t, wysysanie 2 zrï¿½cznoï¿½ci)
                         Ulepszona Entropia
-                        (+3 broñ, 5% rzucenie Os³abienia na cel, 6 punktów obra¿eñ od trucizny)
+                        (+3 broï¿½, 5% rzucenie Osï¿½abienia na cel, 6 punktï¿½w obraï¿½eï¿½ od trucizny)
 ---------------------------------------------------------------------------
-£uski Czerwonego Smoka
-Sylvañska Kolczuga 
+ï¿½uski Czerwonego Smoka
+Sylvaï¿½ska Kolczuga
 3 Klejnoty Andaru
 3 Ogniste Agaty
-25,000 Sztuk z³ota
-                        Niesamowita Zbroja Elfów
-                        (KP 0, 25% odpornoœæ ogniowa, mo¿na rzucaæ zaklêcia & u¿ywaæ z³odziejstwa)
+25,000 Sztuk zï¿½ota
+                        Niesamowita Zbroja Elfï¿½w
+                        (KP 0, 25% odpornoï¿½ï¿½ ogniowa, moï¿½na rzucaï¿½ zaklï¿½cia & uï¿½ywaï¿½ zï¿½odziejstwa)
 ---------------------------------------------------------------------------
 
-OSTRZE¯ENIE! Nie u¿ywaj edytora ShadowKeeper by daæ swej postaci potrzebne
-komponenty, a potem nie narzekaj, ¿e Cromwell lub Cespy nie bêd¹ chcieli
-ulepszyæ przedmiotów. ShadowKeeper czêsto stwarza kilka przedmiotów z listy
-(np. s¹ dwie per³y i dwie ró¿d¿ki b³yskawic w liœcie ShadowKeepera) -- ale
-tylko jeden z nich mo¿esz znaleŸæ w grze, i tylko jeden bêdzie naprawdê
-dzia³a³ z modem "Item Upgrade". Jeœli dasz sobie z³y przedmiot (o co jest
-³atwo, bo oba maj¹ tê sam¹ nazwê) nie bêdziesz móg³ ich ulepszyæ. 
+OSTRZEï¿½ENIE! Nie uï¿½ywaj edytora ShadowKeeper by daï¿½ swej postaci potrzebne
+komponenty, a potem nie narzekaj, ï¿½e Cromwell lub Cespy nie bï¿½dï¿½ chcieli
+ulepszyï¿½ przedmiotï¿½w. ShadowKeeper czï¿½sto stwarza kilka przedmiotï¿½w z listy
+(np. sï¿½ dwie perï¿½y i dwie rï¿½dï¿½ki bï¿½yskawic w liï¿½cie ShadowKeepera) -- ale
+tylko jeden z nich moï¿½esz znaleï¿½ï¿½ w grze, i tylko jeden bï¿½dzie naprawdï¿½
+dziaï¿½aï¿½ z modem "Item Upgrade". Jeï¿½li dasz sobie zï¿½y przedmiot (o co jest
+ï¿½atwo, bo oba majï¿½ tï¿½ samï¿½ nazwï¿½) nie bï¿½dziesz mï¿½gï¿½ ich ulepszyï¿½.
 
 
-		Rozdzia³ IV. Znane b³êdy
+		Rozdziaï¿½ IV. Znane bï¿½ï¿½dy
 		~~~~~~~~~~~~~~~~~~~~~~~~
-Obecnie, ¿aden przedmiot nie jest zaliczany do "magicznych Przedmiotów" lub
-"Magicznej Zbroji" dlatego mo¿esz je nosiæ razem z pierœcieniami ochronnymi
-w tym samym czasie. 
+Obecnie, ï¿½aden przedmiot nie jest zaliczany do "magicznych Przedmiotï¿½w" lub
+"Magicznej Zbroji" dlatego moï¿½esz je nosiï¿½ razem z pierï¿½cieniami ochronnymi
+w tym samym czasie.
 
-Cespenar czasami rzuca na ziemiê reagenty. Mimo to ulepsza przedmioty, ale
-mo¿esz otrzymaæ z powrotem jakieœ kamienie szlachetne lub coœ innego. 
+Cespenar czasami rzuca na ziemiï¿½ reagenty. Mimo to ulepsza przedmioty, ale
+moï¿½esz otrzymaï¿½ z powrotem jakieï¿½ kamienie szlachetne lub coï¿½ innego.
 
 
-		Rozdzia³ V. Podziêkowania
+		Rozdziaï¿½ V. Podziï¿½kowania
 		~~~~~~~~~~~~~~~~~~~~~~~~~
-Specjalne podziêkowania dla Jasona Comptona za dialogi Cespenara. Dziêki GB za
-testowanie plików ITM. 
+Specjalne podziï¿½kowania dla Jasona Comptona za dialogi Cespenara. Dziï¿½ki GB za
+testowanie plikï¿½w ITM.
 
-Dziêki Artemidore za francuskie t³umaczenie!
+Dziï¿½ki Artemidore za francuskie tï¿½umaczenie!
 
-Dziêki Maus za niemieckie t³umaczenie!
+Dziï¿½ki Maus za niemieckie tï¿½umaczenie!
 
-I wielkie "dziêkujê" dla wszystkich ludzi z alt.games.baldurs-gate, którzy
-odpowiedzieli na moje proœby. Przedmioty zosta³y skoordynowane z ich pomoc¹. 
+I wielkie "dziï¿½kujï¿½" dla wszystkich ludzi z alt.games.baldurs-gate, ktï¿½rzy
+odpowiedzieli na moje proï¿½by. Przedmioty zostaï¿½y skoordynowane z ich pomocï¿½.
 
 
-		Rozdzia³ V. FAQ (Spoilery)
+		Rozdziaï¿½ V. FAQ (Spoilery)
 		~~~~~~~~~~~~~~~~~~~~~~~~~
-P: Dlaczego nie mogê rozmawiaæ z Lilarcorem?
+P: Dlaczego nie mogï¿½ rozmawiaï¿½ z Lilarcorem?
 
-O: Lilarcor +5 jest kontrolowany przez Obro¿ê £upie¿cy Umys³u, która zapobiega
-pe³nym konwersacjom. Wci¹¿ jednak bêdzie mówi³ co mu najdzie na myœl (np. "Nudno!"
-lub "Wrzuæ monetê do fontanny!") kiedy stoisz w miejscu. 
-
-
-P: Czy Pierœcieñ W³adzy Nad ¯ywio³ami zawiera "ukryty" +1 bonus z Pierœcienia
-W³adzy Nad Ziemi¹?
-
-O: Tak. "Ukryty" +1 bonus w tym pierœcieniu mo¿e byæ lub te¿ nie b³êdem w BG2, ale
-wielu u¿ytkowników zag³osowa³o by zatrzymaæ ten bonus. 
+O: Lilarcor +5 jest kontrolowany przez Obroï¿½ï¿½ ï¿½upieï¿½cy Umysï¿½u, ktï¿½ra zapobiega
+peï¿½nym konwersacjom. Wciï¿½ï¿½ jednak bï¿½dzie mï¿½wiï¿½ co mu najdzie na myï¿½l (np. "Nudno!"
+lub "Wrzuï¿½ monetï¿½ do fontanny!") kiedy stoisz w miejscu.
 
 
-P: Jak mogê zdobyæ serce demona?
+P: Czy Pierï¿½cieï¿½ Wï¿½adzy Nad ï¿½ywioï¿½ami zawiera "ukryty" +1 bonus z Pierï¿½cienia
+Wï¿½adzy Nad Ziemiï¿½?
 
-O: S¹ trzy w Twierdzy Maga (Kula Sfer), a tobie wystarczy wynieœæ tylko jedno.
-Mo¿esz równie¿ u¿yæ serce demona z labiryntowego poziomu Twierdzy Stra¿nika.
-
-
-P: Gdzie mogê otrzymaæ przeklêt¹ miksturê uzdrowienia?
-
-O: Prawie ka¿dy kupiec w Athkatli sprzedaje te rzeczy. Szukaj butelki z mikstur¹
-uzdrowienia, która nie jest niebieska. W opisie jest zawsze coœ dziwnego. 
+O: Tak. "Ukryty" +1 bonus w tym pierï¿½cieniu moï¿½e byï¿½ lub teï¿½ nie bï¿½ï¿½dem w BG2, ale
+wielu uï¿½ytkownikï¿½w zagï¿½osowaï¿½o by zatrzymaï¿½ ten bonus.
 
 
-P: Jake s¹ statystyki oryginalnego Kitthixa?
+P: Jak mogï¿½ zdobyï¿½ serce demona?
 
-O: 44 P¯, Bazowa KP 4, Ataki 3/2, Rzuty obronne 12/14/13/14/14, 10% MR, 2 uderzenia,
-14 SI£Y, 9 Innych cech. Atak: +0 broñ, 1k8 k³ute, rzut przeciw truciŸnie +1 lub
-otrzymuje 3 p¿ na sekundê przez 14 seckund. Odporny na Pajêczynê. 
+O: Sï¿½ trzy w Twierdzy Maga (Kula Sfer), a tobie wystarczy wynieï¿½ï¿½ tylko jedno.
+Moï¿½esz rï¿½wnieï¿½ uï¿½yï¿½ serce demona z labiryntowego poziomu Twierdzy Straï¿½nika.
 
 
-P: Jake s¹ statystyki ulepszonego Kitthixa?
+P: Gdzie mogï¿½ otrzymaï¿½ przeklï¿½tï¿½ miksturï¿½ uzdrowienia?
 
-O: 80 P¯, Bazowa KP -2, 4 Ataki, Rzuty 6, 25% MR, 10 Uderzeñ, 18 ZRN.
-Atak: +3 broñ, 2K4 k³ute, rzut obronny przeciw truciŸnie -3 lub 5 p¿ na sekundê
-przez 12 sekund, rzut obronny przeciw czarom -2 lub pajêczyna na 7 sekund.
-Odpornoœæ na Pajêczynê, odpornoœæ 50% na obra¿enia rêczne. Regeneracja. 
+O: Prawie kaï¿½dy kupiec w Athkatli sprzedaje te rzeczy. Szukaj butelki z miksturï¿½
+uzdrowienia, ktï¿½ra nie jest niebieska. W opisie jest zawsze coï¿½ dziwnego.
+
+
+P: Jake sï¿½ statystyki oryginalnego Kitthixa?
+
+O: 44 Pï¿½, Bazowa KP 4, Ataki 3/2, Rzuty obronne 12/14/13/14/14, 10% MR, 2 uderzenia,
+14 SIï¿½Y, 9 Innych cech. Atak: +0 broï¿½, 1k8 kï¿½ute, rzut przeciw truciï¿½nie +1 lub
+otrzymuje 3 pï¿½ na sekundï¿½ przez 14 seckund. Odporny na Pajï¿½czynï¿½.
+
+
+P: Jake sï¿½ statystyki ulepszonego Kitthixa?
+
+O: 80 Pï¿½, Bazowa KP -2, 4 Ataki, Rzuty 6, 25% MR, 10 Uderzeï¿½, 18 ZRN.
+Atak: +3 broï¿½, 2K4 kï¿½ute, rzut obronny przeciw truciï¿½nie -3 lub 5 pï¿½ na sekundï¿½
+przez 12 sekund, rzut obronny przeciw czarom -2 lub pajï¿½czyna na 7 sekund.
+Odpornoï¿½ï¿½ na Pajï¿½czynï¿½, odpornoï¿½ï¿½ 50% na obraï¿½enia rï¿½czne. Regeneracja.
 
 
 P: Gdzie jest Pazur Wody?
 
-O: Nale¿y do szlachetnego drowa w mieœcie Ust Natha. Zrób tam wszystkie poboczne
-questy tam. 
+O: Naleï¿½y do szlachetnego drowa w mieï¿½cie Ust Natha. Zrï¿½b tam wszystkie poboczne
+questy tam.
 
 
-		Rozdzia³ VI. Zmiany
+		Rozdziaï¿½ VI. Zmiany
 		~~~~~~~~~~~~~~~~~~~
 Wersja  3 BETA:
-        * Pierwsze publiczne wydanie. 
+        * Pierwsze publiczne wydanie.
 Wersja  4 BETA:
-        * Nprawione b³êdy z ko³czanem. Dziêki Jason Whittaker. 
+        * Nprawione bï¿½ï¿½dy z koï¿½czanem. Dziï¿½ki Jason Whittaker.
 Wersja  5:
-        * Wiêksze dialogi Cespego od Jasona Comptona, mistrza humoru BGII.
-        * Zmienione wymaganie zwojów Contingency zamiast Chain Contingency
+        * Wiï¿½ksze dialogi Cespego od Jasona Comptona, mistrza humoru BGII.
+        * Zmienione wymaganie zwojï¿½w Contingency zamiast Chain Contingency
           (sugestia z forum).
-        * Wymagane 2 œwiêtej wody zamiast 3 (jedna zu¿ywa siê na Bodhi,
-          nawet jeœli tego nie potrzebujesz).
-        * Naprawione b³êdy z ogniem w Pierœcieniu W³adzy.
-        * Naprawiony b³¹d, w którym nie otrzymujesz z³ych butów z powrotem. 
-        * OK, gadaj¹cy Lilarcor wymagany przez wielu. Nie mo¿esz z nim gadaæ,
-          ale nadal sam bêdzie coœ mówi³. 
-        * Dzienna Gwiazda zabiera teraz tylko dwie fiolki œwiêtej wody elfów.
-          Dziêkujê Jason Whittaker.
-        * Literówki Cromwella poprawione przez Necardan. 
-        * Œwietny opis CF dziêki Homunculusowi.
-        * Uœwiêcony Odkupiciel jest teraz +5 (nie +2). Dziêki, Kreese. 
+        * Wymagane 2 ï¿½wiï¿½tej wody zamiast 3 (jedna zuï¿½ywa siï¿½ na Bodhi,
+          nawet jeï¿½li tego nie potrzebujesz).
+        * Naprawione bï¿½ï¿½dy z ogniem w Pierï¿½cieniu Wï¿½adzy.
+        * Naprawiony bï¿½ï¿½d, w ktï¿½rym nie otrzymujesz zï¿½ych butï¿½w z powrotem.
+        * OK, gadajï¿½cy Lilarcor wymagany przez wielu. Nie moï¿½esz z nim gadaï¿½,
+          ale nadal sam bï¿½dzie coï¿½ mï¿½wiï¿½.
+        * Dzienna Gwiazda zabiera teraz tylko dwie fiolki ï¿½wiï¿½tej wody elfï¿½w.
+          Dziï¿½kujï¿½ Jason Whittaker.
+        * Literï¿½wki Cromwella poprawione przez Necardan.
+        * ï¿½wietny opis CF dziï¿½ki Homunculusowi.
+        * Uï¿½wiï¿½cony Odkupiciel jest teraz +5 (nie +2). Dziï¿½ki, Kreese.
 Wersja  6:
-        * Wymagane dla Furii Niebios serce demona mog¹ byæ teraz zast¹pione
-          przez te z Twierdzy Stra¿nika. 
-        * Ko³czan Obfitoœci +3. Naprawiony b³¹d, w którym wogóle nie mo¿esz
-          go otrzymaæ. Dziêki dla Reiella Darksythe za zidentyfikowanie problemu. 
+        * Wymagane dla Furii Niebios serce demona mogï¿½ byï¿½ teraz zastï¿½pione
+          przez te z Twierdzy Straï¿½nika.
+        * Koï¿½czan Obfitoï¿½ci +3. Naprawiony bï¿½ï¿½d, w ktï¿½rym wogï¿½le nie moï¿½esz
+          go otrzymaï¿½. Dziï¿½ki dla Reiella Darksythe za zidentyfikowanie problemu.
 Wersja  7:
-        * Dodane ulepszenia dla Œwiêtego Puklerza i Rêkawic Z³odzieja bazuj¹ce
+        * Dodane ulepszenia dla ï¿½wiï¿½tego Puklerza i Rï¿½kawic Zï¿½odzieja bazujï¿½ce
           na wielu sugestiach.
 Wersja  8:
-        * Naprawiony b³¹d, który zapobiega³ instalowania siê dialogów Cespenara w ToB.
-        * Jason Compton Deity fix. 
+        * Naprawiony bï¿½ï¿½d, ktï¿½ry zapobiegaï¿½ instalowania siï¿½ dialogï¿½w Cespenara w ToB.
+        * Jason Compton Deity fix.
 Wersja  9:
-        * Niewierna ¯ona daje teraz 25% MR. Dziêki, Bengtson. 
+        * Niewierna ï¿½ona daje teraz 25% MR. Dziï¿½ki, Bengtson.
 Wersja  10:
-        * Dodany Amulet Ilmatera. Dziêki, Mike Barnes. 
-        * Naprawiony b³¹d z Rêkawicami Z³odzieja. 
+        * Dodany Amulet Ilmatera. Dziï¿½ki, Mike Barnes.
+        * Naprawiony bï¿½ï¿½d z Rï¿½kawicami Zï¿½odzieja.
 Wersja  11:
         * Dodany Szpon Wody, Lazurowe Ostrze +4.
-        * Zmienia broñ pewnych potworów z +1 na +4. 
+        * Zmienia broï¿½ pewnych potworï¿½w z +1 na +4.
 Wersja  12:
-        * Zmienia animacje rzucanej w³óczni. 
-        * Dodaje Pierœcieñ Czarownika i Pas Chwa³y. 
+        * Zmienia animacje rzucanej wï¿½ï¿½czni.
+        * Dodaje Pierï¿½cieï¿½ Czarownika i Pas Chwaï¿½y.
 Wersja  13:
-        * Awatar Amaunatora daje teraz 3 S³oneczne kamienie
-        * Naprawiony b³¹d pasa u Cromwella i b³¹d z Cespym. Dziêki, Kish. 
+        * Awatar Amaunatora daje teraz 3 Sï¿½oneczne kamienie
+        * Naprawiony bï¿½ï¿½d pasa u Cromwella i bï¿½ï¿½d z Cespym. Dziï¿½ki, Kish.
 Wersja  14:
-        * Naprawiony b³¹d z pasem (znowu!?).
+        * Naprawiony bï¿½ï¿½d z pasem (znowu!?).
 Wersja  15:
-        * Kompresja na WeiDU. 
+        * Kompresja na WeiDU.
 Wersja  16:
-        * Naprawiona literówka w README o Pasie Chwa³y!
-        * Ulepszona Zbroja Rodzinna Corthali zapobiega rzucaniu czarów. 
+        * Naprawiona literï¿½wka w README o Pasie Chwaï¿½y!
+        * Ulepszona Zbroja Rodzinna Corthali zapobiega rzucaniu czarï¿½w.
 Wersja  17:
-        * Naprawiony b³¹d, w którym Cespy mówi o p³omiennych mieczach nawet jeœli
-          ich nie masz. Dziêki, Reiella. 
+        * Naprawiony bï¿½ï¿½d, w ktï¿½rym Cespy mï¿½wi o pï¿½omiennych mieczach nawet jeï¿½li
+          ich nie masz. Dziï¿½ki, Reiella.
 Wersja  18:
-        * Naprawiona literówka, dziêki Artemidore. 
-        * Naprawki w README. 
-        * Kolejna naprawa literówek, dziêki Azaelus. 
+        * Naprawiona literï¿½wka, dziï¿½ki Artemidore.
+        * Naprawki w README.
+        * Kolejna naprawa literï¿½wek, dziï¿½ki Azaelus.
 Wersja  19:
-        * Francuskie t³umaczenie README. 
+        * Francuskie tï¿½umaczenie README.
 Wersja  20:
-        * Naprawiony b³¹d z francuskim t³umaczeniem (przez brakuj¹ce t³umaczenia). 
+        * Naprawiony bï¿½ï¿½d z francuskim tï¿½umaczeniem (przez brakujï¿½ce tï¿½umaczenia).
 Wersja  21:
-        * Naprawiony b³¹d z u¿ywaniem ulepszonej Zbroji Firecama. Dziêki dla
+        * Naprawiony bï¿½ï¿½d z uï¿½ywaniem ulepszonej Zbroji Firecama. Dziï¿½ki dla
           Andrewa Wonga.
-        * Dodane niemieckie t³umaczenie dziêki Mausowi. Dziêki!
-        * Dodano ulepszenie dla Kitthixa (sugestia z forum). Proszê daæ mi znaæ jak
-          coœ nie pasuje. 
-        * Mo¿esz teraz powiedzieæ "do widzenia" do Cespenara i Cromwella po obejrzeniu
-          ich normalnych przedmiotów, jeœli nie chcesz ich ogl¹daæ. 
-        * Naprawione literówki wspomnienych przez Michela. Dziêki!
-        * Dodano kilku brakuj¹cych informacji w opisach przedmiotach. Dziêki Maus! 
+        * Dodane niemieckie tï¿½umaczenie dziï¿½ki Mausowi. Dziï¿½ki!
+        * Dodano ulepszenie dla Kitthixa (sugestia z forum). Proszï¿½ daï¿½ mi znaï¿½ jak
+          coï¿½ nie pasuje.
+        * Moï¿½esz teraz powiedzieï¿½ "do widzenia" do Cespenara i Cromwella po obejrzeniu
+          ich normalnych przedmiotï¿½w, jeï¿½li nie chcesz ich oglï¿½daï¿½.
+        * Naprawione literï¿½wki wspomnienych przez Michela. Dziï¿½ki!
+        * Dodano kilku brakujï¿½cych informacji w opisach przedmiotach. Dziï¿½ki Maus!
 Wersja  22:
-        * Naprawiono kilka literówek. Dziêki, Tyrus. 
-        * Naprawiono kilka kolejnych literówek. Dziêki, cz³onkowie forum. 
-        * Naprawiona literówka w pliku setup co sprawia³o, ¿eprzedmioty pojawia³y siê po
-          francusku jeœli wybra³o siê niemieckie t³umaczenie. Podziêkowania dla Rebbecci za
-          rozgryzienie tego. 
-        * Uatkualnione niemieckie t³umaczenie. Dziêki, Maus!
+        * Naprawiono kilka literï¿½wek. Dziï¿½ki, Tyrus.
+        * Naprawiono kilka kolejnych literï¿½wek. Dziï¿½ki, czï¿½onkowie forum.
+        * Naprawiona literï¿½wka w pliku setup co sprawiaï¿½o, ï¿½eprzedmioty pojawiaï¿½y siï¿½ po
+          francusku jeï¿½li wybraï¿½o siï¿½ niemieckie tï¿½umaczenie. Podziï¿½kowania dla Rebbecci za
+          rozgryzienie tego.
+        * Uatkualnione niemieckie tï¿½umaczenie. Dziï¿½ki, Maus!
 Wersja  23:
-        * Naprawione literówki, dziêki cz³onkowie forum. 
-        * Naprawiona ikona drugiej umiejêtnoœci dla Lazurowego Ostrza. 
-        * Naprawiony b³¹d zwi¹zany z Dzienn¹ Gwiazd¹. Dziêki Gorrister. 
-        * Dodano uaktualnienia dla Haer'Dalisa. Specjalne dziêki dla Jeanne Burch. 
-        * Dodano Niesamowit¹ Kolczugê. Dziêki dla Renmauzo i Renegade. 
+        * Naprawione literï¿½wki, dziï¿½ki czï¿½onkowie forum.
+        * Naprawiona ikona drugiej umiejï¿½tnoï¿½ci dla Lazurowego Ostrza.
+        * Naprawiony bï¿½ï¿½d zwiï¿½zany z Dziennï¿½ Gwiazdï¿½. Dziï¿½ki Gorrister.
+        * Dodano uaktualnienia dla Haer'Dalisa. Specjalne dziï¿½ki dla Jeanne Burch.
+        * Dodano Niesamowitï¿½ Kolczugï¿½. Dziï¿½ki dla Renmauzo i Renegade.
 Wersja  24:
-        * Instalacja moda zmienia teraz ikon¹ Wekiery Zniszczenia +2 tak by wygl¹da³a
-          jak +1. Dziêki, Moonfruit. 
-        * Naprawiony b³¹d z lecz¹c¹ moc¹ amuletu Ilmatera. Dziêki, Dashael. 
-        * Naprawiony b³¹d z Chaosem, co sprawia³o, ¿e nie wprowadza³a w Zamêt celów.
-          Teraz zachowuje siê jak zaklêcie czarodzieja (Poza tym, ¿e ma tylko 5% szansê). 
-        * Dodano francuskie t³umaczenie Cocobarda. 
+        * Instalacja moda zmienia teraz ikonï¿½ Wekiery Zniszczenia +2 tak by wyglï¿½daï¿½a
+          jak +1. Dziï¿½ki, Moonfruit.
+        * Naprawiony bï¿½ï¿½d z leczï¿½cï¿½ mocï¿½ amuletu Ilmatera. Dziï¿½ki, Dashael.
+        * Naprawiony bï¿½ï¿½d z Chaosem, co sprawiaï¿½o, ï¿½e nie wprowadzaï¿½a w Zamï¿½t celï¿½w.
+          Teraz zachowuje siï¿½ jak zaklï¿½cie czarodzieja (Poza tym, ï¿½e ma tylko 5% szansï¿½).
+        * Dodano francuskie tï¿½umaczenie Cocobarda.
 Wersja  25:
-        * Wiêcej francuskiego t³umaczenia od Cocobarda. 
-        * Wiêcej niemieckiego t³umaczenia od Norberta Frischaufa. 
-        * Lazurowe Ostrze teraz naprawdê ma inne ikony dla walki wrêcz i rzucania.
-          Zalicza siê tu równie¿ b³¹d naprawiony z Karsomirem i "50% MR". 
-          Dziêki dla Mike Barnes. 
+        * Wiï¿½cej francuskiego tï¿½umaczenia od Cocobarda.
+        * Wiï¿½cej niemieckiego tï¿½umaczenia od Norberta Frischaufa.
+        * Lazurowe Ostrze teraz naprawdï¿½ ma inne ikony dla walki wrï¿½cz i rzucania.
+          Zalicza siï¿½ tu rï¿½wnieï¿½ bï¿½ï¿½d naprawiony z Karsomirem i "50% MR".
+          Dziï¿½ki dla Mike Barnes.
 Wersja  26:
-        * Wiêcej niemieckiego t³umaczenia od Norberta Frischaufa. 
-        * Punkt podparcia: naprawiony b³¹d z dodatkowymi obra¿eniami, które nie dzia³a³y
-          prawid³owo. 
-        * Arvoreen: nie blokuje ju¿ przyspieszenia. 
-        * Uaktualniono do newer WeiDU. Na szczêœcie to powinno pomóc u¿ytkownikom Maca. 
+        * Wiï¿½cej niemieckiego tï¿½umaczenia od Norberta Frischaufa.
+        * Punkt podparcia: naprawiony bï¿½ï¿½d z dodatkowymi obraï¿½eniami, ktï¿½re nie dziaï¿½aï¿½y
+          prawidï¿½owo.
+        * Arvoreen: nie blokuje juï¿½ przyspieszenia.
+        * Uaktualniono do newer WeiDU. Na szczï¿½cie to powinno pomï¿½c uï¿½ytkownikom Maca.
 Wersja  27:
-        * Naprawiony b³¹d z ikon¹ Lazurowego Ostrza (naprawdê tym razem). 
-        * Dodano hiszpañskie t³umaczenie dziêki Clan DLAN & friends. Dziêki!
+        * Naprawiony bï¿½ï¿½d z ikonï¿½ Lazurowego Ostrza (naprawdï¿½ tym razem).
+        * Dodano hiszpaï¿½skie tï¿½umaczenie dziï¿½ki Clan DLAN & friends. Dziï¿½ki!
 Wersja  28:
-        * Uaktualnione hiszpañskie t³umaczenie.
-        * Naprawki Rassadihna: 
-          * Rzut obronny Kosturu Lasów. 
-          * Masowe literówki w Amerykañskim, francuskim i niemieckim. 
-          * Pas Chwa³y mo¿e byæ teraz zrobiony z trzech krwawników, pierœcieni z krwawnikiem
-            lub amuletów z krwawnikiem. 
-          * Szaty Arcymaga wymagaj¹ teraz p³aszczów ochrony, a nie pierœcieni. 
+        * Uaktualnione hiszpaï¿½skie tï¿½umaczenie.
+        * Naprawki Rassadihna:
+          * Rzut obronny Kosturu Lasï¿½w.
+          * Masowe literï¿½wki w Amerykaï¿½skim, francuskim i niemieckim.
+          * Pas Chwaï¿½y moï¿½e byï¿½ teraz zrobiony z trzech krwawnikï¿½w, pierï¿½cieni z krwawnikiem
+            lub amuletï¿½w z krwawnikiem.
+          * Szaty Arcymaga wymagajï¿½ teraz pï¿½aszczï¿½w ochrony, a nie pierï¿½cieni.
 Wersja  29:
-        * Naprawiony b³¹d ze Œwiêtym Puklerzem i odpornoœci¹ na magiê. Dziêki, SixofSpades.
+        * Naprawiony bï¿½ï¿½d ze ï¿½wiï¿½tym Puklerzem i odpornoï¿½ciï¿½ na magiï¿½. Dziï¿½ki, SixofSpades.
 Version 30:
         * Quietus inflicts piercing damage. Thanks, Dawid Piotrowski.
         * Polish Translation by Damian Staniszewski. Thanks!
@@ -613,7 +613,7 @@ Version 31:
         * Russian Translation by Iogan & AERIE.RU. Thanks!
         * Updated German translation by Patrick Lainer. Thanks!
 Version 33 (updated by CamDawg):
-        * Cromwell and Cespenar dialogues no longer replace critical states, 
+        * Cromwell and Cespenar dialogues no longer replace critical states,
 	  making it much easier for other mods to interact with IU
         * Fixed broken index for c2blun02.itm. On OS X, a bad index causes
           BG2 to crash to desktop. Additionally, the indexing error can
@@ -626,7 +626,7 @@ Version 33 (updated by CamDawg):
 	  Fixpack.
 	* Severl items had minor effects (such as a color set) failing due
 	  to incorrect timings and magic resistance checks
-	* Closed usability loopholes on Entropy, Chaos, Hallowed Redeemer +5 
+	* Closed usability loopholes on Entropy, Chaos, Hallowed Redeemer +5
 	  and Sword of Arvoreen +5
 	* Upgraded Corthala Family Armor now displays Mind Shield icon
 Version 34 (updated by CamDawg):
@@ -652,5 +652,5 @@ Version 38:	(updated by Lollorian)
 Version 39: (updated by Lollorian)
 	* repairs ( http://forums.pocketplane.net/index.php/topic,27176.msg327010.html#msg327010 )
 	  ( http://forums.pocketplane.net/index.php/topic,27541.msg326886.html#msg326886 )
-	* French translation repairs from Sanctifer of the d'Oghmatiques 
+	* French translation repairs from Sanctifer of the d'Oghmatiques
 	* WeiDU update to v231

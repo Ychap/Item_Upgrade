@@ -118,9 +118,9 @@ From: Your pal Kelsey <kelseynpc@5678attbi.com>
 To: weimer@5678cs.berkeley.edu
 Subject: Item Upgrade: Audio-tagged TRA
 
-Can you work this into the next IU release so that people can be 
-subjected to... er, that is, enjoy my Cespenar audio without having to 
-go through a reinstall with a separate TRA? Taken from the latest 
+Can you work this into the next IU release so that people can be
+subjected to... er, that is, enjoy my Cespenar audio without having to
+go through a reinstall with a separate TRA? Taken from the latest
 version, I just added the tags, changed nothing.
 */
 
@@ -136,7 +136,7 @@ version, I just added the tags, changed nothing.
 @56788 = ~Any chance you could improve my Boots of Grounding?~
 @56789 = ~What can you do with these Boots of Avoidance?~
 @567810 = ~Might you be able to improve on Blackblood, here?~
-@567811 = ~Can you make this Bone Club any more powerful?~ 
+@567811 = ~Can you make this Bone Club any more powerful?~
 @567812 = ~I'd like to make Skullcrusher even deadlier. Can you help?~
 @567813 = ~What can you do to improve the Heartseeker?~
 @567814 = ~Can you reforge the family armor of my friend Valygar?~
@@ -185,7 +185,7 @@ version, I just added the tags, changed nothing.
 @567841 = ~Oh boy, you sure wears a lot of shinies on your fingers. Cespenar likes the look, heard it was in this season.~ [fwcesp01]
 @5678941 = ~Anyhow, we can take Ring of Regeneration and Ring of Protection +2 and do both in one. Saves room on hand. Only need 20,000 gold and melt a diamond in, too! You like?~
 
-@56791 = ~Oh boy, you sure wears a lot of shinies on your fingers. You be adding gold to your teeth next, Cespenar thinks.~ 
+@56791 = ~Oh boy, you sure wears a lot of shinies on your fingers. You be adding gold to your teeth next, Cespenar thinks.~
 @56792 = ~Anyhow, we can take Ring of Regeneration and Ring of Protection +3 and do both in one. Saves room on hand. Only need 30,000 gold and melt a diamond in, too! You like?~
 
 @567842 = ~You don't needs jewelry box, you needs jewelry trunk! You maybe like having one on each big toe, too?!?~ [fwcesp02]

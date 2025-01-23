@@ -1,15 +1,15 @@
 EXTEND_BOTTOM WSMITH01 13
-	IF ~OR(3) 
-			PartyHasItem("ring27") 
-            PartyHasItem("ring28") 
+	IF ~OR(3)
+			PartyHasItem("ring27")
+            PartyHasItem("ring28")
             PartyHasItem("ring29")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND WSMITH01
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @123442
 		IF ~OR(6)
-				!PartyHasItem("ring27") 
-				!PartyHasItem("ring28") 
+				!PartyHasItem("ring27")
+				!PartyHasItem("ring28")
 				!PartyHasItem("ring29")
 				!PartyHasItem("scrl05")
 				!PartyHasItem("scrl06")
@@ -21,11 +21,11 @@ APPEND WSMITH01
 			PartyHasItem("scrl06")
 			PartyHasItem("scrl15")~ THEN GOTO XO#ItemUp02
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @1234842
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @1234942
 		IF ~PartyGoldLT(20000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(19999)~ THEN REPLY #66664 DO ~SetGlobal("XO#ItemUp","ar0334",3)

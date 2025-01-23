@@ -1,7 +1,7 @@
 EXTEND_BOTTOM BOTSMITH 4
 	IF ~PartyHasItem("npchan")~ THEN GOTO XO#ItemUp00
 END
-  
+
 APPEND BOTSMITH
 	IF ~~ THEN BEGIN XO#ItemUp00 SAY @567854
 		IF ~PartyHasItem("npchan")
@@ -12,11 +12,11 @@ APPEND BOTSMITH
 			PartyHasItem("leat19")
 			PartyHasItem("scrl07")~ THEN GOTO XO#ItemUp02
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp01 SAY @5678854
 		IF ~~ THEN GOTO XO#NoItemUp
 	END
-  
+
 	IF ~~ THEN BEGIN XO#ItemUp02 SAY @5678954
 		IF ~PartyGoldLT(10000)~ THEN REPLY #66662 GOTO XO#NoItemUp
 		IF ~PartyGoldGT(9999)~ THEN REPLY #66664 DO ~SetGlobal("XO#TOBItemUp","GLOBAL",13)

@@ -4,7 +4,7 @@ SUPPORT ~http://forums.pocketplane.net/index.php/board,43.0.html~
 ALWAYS
 
   ACTION_IF NOT VARIABLE_IS_SET cd_always_itemupgrade THEN BEGIN // just do this once per install
-  
+
     OUTER_SET cd_always_itemupgrade = 1
 
     ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
@@ -39,8 +39,8 @@ END
 
 VERSION ~v53~
 
-README ~itemupgrade/readme-itemupgrade.%LANGUAGE%.txt~ 
-       ~itemupgrade/readme-itemupgrade.%LANGUAGE%.html~ 
+README ~itemupgrade/readme-itemupgrade.%LANGUAGE%.txt~
+       ~itemupgrade/readme-itemupgrade.%LANGUAGE%.html~
        ~itemupgrade/readme-itemupgrade.html~ // use English if language-specific readme doesn't exist
 
 LANGUAGE ~American English~
