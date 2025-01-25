@@ -360,7 +360,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2dagg01.itm THEN BEGIN
       LPF ALTER_EFFECT INT_VAR match_opcode = 39 parameter2 = 1 special = 14 END // don't wake on damage, add icon directly
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1440~ BEGIN // Make daggers have general extra features to compensate the low damage
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 301 target = 1 parameter1 = 1 parameter2 = 1 timing = 2 END
-        LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 341 target = 1 parameter2 = 1 timing = 2 STR_VAR resource = zstwd018 END
+        LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 341 target = 1 parameter2 = 1 timing = 2 STR_VAR resource = zstwdp16 END
         LPF ALTER_HEADER INT_VAR match_type = 1 to_hit = 6 END
       END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
@@ -1201,7 +1201,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sw1h03.itm THEN BEGIN
         WRITE_LONG (fx_off + 0x04) "-1" // since we're inserting as first effect, this lazy and bad thing works
       END
       PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
-        LPF ADD_ITEM_EFFECT INT_VAR insert_point = 0 type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 11 STR_VAR resource = zstwl4 END
+        LPF ADD_ITEM_EFFECT INT_VAR insert_point = 0 type = 1 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 13 STR_VAR resource = zstwl4 END
       END
     END
 
