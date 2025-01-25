@@ -1,5 +1,5 @@
   IF ~~ THEN BEGIN c2itemupgrade
-    SAY #59707 /* ~Hmmmn... I couldn't rightly say.  Let me have a look into yer goods, then.  A minute of rummagin' and I'll know fer sure, aye?~ */
+    SAY #59707 /* ~Hmmmn... I couldn't rightly say. Let me have a look into yer goods, then. A minute of rummagin' and I'll know fer sure, aye?~ */
     IF ~~ THEN REPLY @12340 GOTO 13
     IF ~OR(3) PartyHasItem("ring06") PartyHasItem("cdpp11") PartyHasItem("c!pp11")~ THEN REPLY @12342 GOTO rop1
     IF ~OR(6) PartyHasItem("ring07") PartyHasItem("cdpp12") PartyHasItem("c!pp12") PartyHasItem("bdring07") PartyHasItem("cdpp29") PartyHasItem("c!pp29")~ THEN REPLY @12343 GOTO rop2

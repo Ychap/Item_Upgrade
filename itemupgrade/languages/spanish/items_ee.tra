@@ -471,9 +471,9 @@ Requerimientos: Fuerza 3
 
 ESTADÍSTICAS:
 
-Bonificador a la Clase de Armadura:  3
+Bonificador a la Clase de Armadura: 3
 Especial: Puede lanzar Falso Amanecer dos veces por día. El portador es inmune a la consunción de niveles.
-Peso:  2
+Peso: 2
 Requerimientos: Fuerza 4
 ~
 @179     = ~Guantes del Maestro Ladrón: 'Doce dedos'
@@ -498,13 +498,13 @@ ESTADÍSTICAS:
 Habilidades equipadas: El portador es inmune a hechizar, dominación y el horrible marchitamiento
 Habilidades especiales: Cada golpe eleva los puntos de golpe máximos del portador en 2 por 3 minutos
 Propiedades especiales: Alcance del golpe extendido
-Daño:  1D8 +4, +2 puntos de daño por veneno por segundo (acumulativo)
+Daño: 1D8 +4, +2 puntos de daño por veneno por segundo (acumulativo)
 THAC0: +4
 Tipo de daño: Cortante
 Peso: 3
 Factor de Velocidad: 1
 Tipo de Talento: Cimitarra/Wakizashi/Ninja-To
-Clase:  1 mano
+Clase: 1 mano
 Requerimientos: Fuerza 8
 ~
 @185     = ~Azuredge +4
@@ -523,7 +523,7 @@ Especial: Regresa a las manos del lanzador una vez arrojada
 Peso: 2
 Factor de Velocidad: 0
 Tipo de Talento: Hacha
-Clase:  1 mano
+Clase: 1 mano
 Requerimientos: Fuerza 4
 ~
 @194     = ~Entropía inevitable

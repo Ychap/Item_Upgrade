@@ -651,9 +651,9 @@ Cleric~
 
 STATISTICS:
 
-Armor Class Bonus:  3
-Special:  May cast False Dawn twice per day. Bearer is immune to level drain.
-Weight:  2
+Armor Class Bonus: 3
+Special: May cast False Dawn twice per day. Bearer is immune to level drain.
+Weight: 2
 Requires: 4 Strength
 Unusable By:
  Mage~
@@ -680,25 +680,25 @@ STATISTICS:
 
 Wearer is Immune to Poison
 Casts Heal once per Day
-Armor Class Bonus:  1
-Saving Throw Bonus:  3~
+Armor Class Bonus: 1
+Saving Throw Bonus: 3~
 
 @182 = ~Water's Talon +4~
 @183 = ~Water's Talon +4
-The blade of this weapon seems to shimmer, revealing a fluid, razor-sharp edge shaped somewhat like the talon of a bird of prey. Water's Talon was commissioned by <CHARNAME> and holds vast power over damaging liquids. Each hit sucks some of the life out of the target and confers it to the wielder.  In addition, the water-like edge of the blade is forever envenomed. Much like one of its predecessors, Water's Talon provides immunity to charm. In addition, however, its mastery over water protects the user from the harmful effects of Abi-Dalzim's Horrid Wilting. Most uniquely, the liquid nature of the blade allows it to extend and splash during combat, improving the strike range granted by the weapon to a range beyond that of most two-handed swords. This allows the wielder to make otherwise-impossible attacks from the back rows of a formation or try for daring hit-and-run tactics, counting on the poison from the first hit to disable foes.
+The blade of this weapon seems to shimmer, revealing a fluid, razor-sharp edge shaped somewhat like the talon of a bird of prey. Water's Talon was commissioned by <CHARNAME> and holds vast power over damaging liquids. Each hit sucks some of the life out of the target and confers it to the wielder. In addition, the water-like edge of the blade is forever envenomed. Much like one of its predecessors, Water's Talon provides immunity to charm. In addition, however, its mastery over water protects the user from the harmful effects of Abi-Dalzim's Horrid Wilting. Most uniquely, the liquid nature of the blade allows it to extend and splash during combat, improving the strike range granted by the weapon to a range beyond that of most two-handed swords. This allows the wielder to make otherwise-impossible attacks from the back rows of a formation or try for daring hit-and-run tactics, counting on the poison from the first hit to disable foes.
 
 STATISTICS:
 
 Equipped Abilities: Wielder immune to charm, domination and horrid wilting spells
 Special Abilities: Each hit raises the wielder's maximum hit points by 2 for 3 minutes
 Special Properties: Extended Strike Range
-Damage:  1D8 +4, +2 points of poison damage per second (cumulative)
+Damage: 1D8 +4, +2 points of poison damage per second (cumulative)
 THAC0: +4
 Damage type: slashing
 Weight: 3
 Speed Factor: 1
 Proficiency Type: Scimitar/Wakizashi/Ninja-To
-Type:  1-handed
+Type: 1-handed
 Requires: 8 Strength
 Not Usable By:
  Cleric
@@ -712,16 +712,16 @@ The already potent undead-bane Azuredge was further enhanced by <CHARNAME> when 
 STATISTICS
 
 Combat Ability: +4 extra damage to undead, plus they must make a saving throw vs. death (-4 penalty) or be utterly destroyed
-Equipped Ability:  Immunity to Level Drain
+Equipped Ability: Immunity to Level Drain
 Damage: 1d6+4
 THAC0: +4
-Damage type (melee):  slashing
-Damage type (thrown):  missile (piercing)
-Special:  Returns to user's hand once thrown
+Damage type (melee): slashing
+Damage type (thrown): missile (piercing)
+Special: Returns to user's hand once thrown
 Weight: 2
 Speed Factor: 0
 Proficiency Type: Axe
-Type:  1-handed
+Type: 1-handed
 Requires: 4 Strength
 Not Usable By:
  Any Neutral or Evil Character
@@ -732,7 +732,7 @@ Not Usable By:
 
 
 @186 = ~Sorcerian Ring~
-@187 = ~Sorcerian Ring:  'Grasping Power'
+@187 = ~Sorcerian Ring: 'Grasping Power'
 This ring is undoubtedly the pinnacle of mnemonic lucubration. Crafted at <CHARNAME>'s request from rings of Wizardry, Acuity and Metaspell Influence Amulet it allows the bearer to memorize an extra spell each day for all spell levels from one to seven. In addition, a ring of protection has been melted into the band, providing minor physical and magical defenses.
 
 STATISTICS:
@@ -743,12 +743,12 @@ Saving Throws: +1 bonus~
 
 @188 = ~Girdle of Glory~
 @189 = ~Girdle of Glory
-Created by <CHARNAME> to protect the wearer against slashing, piercing and blunt weapons, this belt is quite useful to anyone involved in a melee.  Its potent magic turns all types of offensive blows, and yet its slim form does not inhibit movement. In addition, the belt is stylish.
+Created by <CHARNAME> to protect the wearer against slashing, piercing and blunt weapons, this belt is quite useful to anyone involved in a melee. Its potent magic turns all types of offensive blows, and yet its slim form does not inhibit movement. In addition, the belt is stylish.
 
 STATISTICS:
 
 Armor Class: +3 bonus
-Weight:  2~
+Weight: 2~
 
 @190 = ~Improved Kitthix Figurine~
 @191 = ~Improved Kitthix Figurine
