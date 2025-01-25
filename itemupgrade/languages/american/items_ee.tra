@@ -570,7 +570,7 @@ Equipped abilities:
 – Exceptional Strength: +75
 
 Combat abilities:
-– Hit target's movement rate is slowed by 2 for 45 seconds (Save vs. Wand negates)
+– Target must save vs. Wands or be slowed for 45 seconds
 
 THAC0: +5
 Damage: 1d6+5 (piercing)
@@ -767,7 +767,7 @@ Equipped abilities:
 – Immunity to charm
 – Immunity to domination
 – Immunity to Abi-Dalzim's Horrid Wilting
-- Striking range is that of a spear or two-handed sword
+– Striking range is that of a spear or two-handed sword
 
 Combat abilities:
 – Target suffers 2 points of damage per second for 3 turns
