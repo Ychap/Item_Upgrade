@@ -175,7 +175,9 @@
 @12348100= ~Je pourrais combiner une Cotte de Mailles Sylvestre avec les écailles d'une bête de flammes. Avec trois gemmes Andar, trois agates de feu pour contenir le brasier et 25.000 pièces d'or comme réactifs et pour la main d'oeuvre, je pourrais vous faire une puissante armure.~
 @12349100= ~Je pourrais combiner une Cotte de Mailles Sylvestre avec les écailles d'une bête de flammes. Avec trois gemmes Andar, trois agates de feu pour contenir le brasier et 25.000 pièces d'or comme réactifs et pour la main d'oeuvre, je pourrais vous faire une puissante armure. Ça vous intéresse ?~
 
-
+@123484 = ~Joli anneau que vous possédez là. Laissez-moi l'examiner...~
+@1234884= ~Je pourrais combiner un Anneau de Protection +3 avec un Anneau de Régénération. Il me faudrait ajouter un diamant à la préparation et cela vous coûterait 30.000 pièces d'or.~
+@1234984= ~Je pourrais combiner un Anneau de Protection +3 avec un Anneau de Régénération. Il me faudrait ajouter un diamant à la préparation et cela vous coûterait 30.000 pièces d'or. Ça vous intéresse ?~
 
 
 
@@ -364,3 +366,8 @@
 @5678100= ~Oooh, Cotte de Mailles Sylvestre ? Tu as tout à coup envie de te couvrir de feuilles et protester contre le "réchauffement climatique" ou je sais pas quoi ? Pfff... Ces <PRO_RACE>s !~
 @56788100= ~Oooh oui ! Peut-être tu aimes ce qui est chaud et épicé ? Cespenar fait frire ensemble une cotte de mailles elfique et des écailles de dragon rouge. On ajoute des champignons, des épices d'Andar et du poivre d'agates de feu et ça y est : très léger, très chaud, très nourrissant. Cespenar est un chef du fer... ou peut être un forgeron culinaire. Malheureusement, la poêle spéciale et l'huile de cacahouète te coûteront 25.000 pièces d'or.~
 @56789100= ~Oooh oui ! Tu aimes ce qui est chaud et épicé ? Cespenar fait sauter ensemble une cotte de mailles elfique et des écailles de dragon rouge. On ajoute des champignons, des épices d'Andar et du poivre d'agates de feu et ça y est : très léger, très chaud, très nourrissant. Cespenar est un chef du fer... ou peut être un forgeron culinaire. Malheureusement, la poêle spéciale et l'huile de cacahouète te coûteront 25.000 pièces d'or. Toujours d'accord ?~ [fwcesp43]
+
+@567853 = ~Pourquoi tu as tellement d'anneaux ? Tu vas te mettre de l’or sur les dents après, Cespenar pense.~
+@5678853 = ~Anneau de Protection +3 peut faire un seul anneau avec Anneau de Régénération. Seulement besoin de 30.000 pièces d'or, et aussi un diamant pour que ça marche.~
+@5678953 = ~Bon bon bon, on peut prendre un Anneau de Régénération et un Anneau de Protection +3 et faire un seul anneau. T'économises des doigts. Seulement besoin de 30.000 pièces d'or, et aussi un diamant ! Tu aimes ?~
+

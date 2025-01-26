@@ -932,3 +932,15 @@ Poids : 15
 Force nécessaire : 5
 Inutilisable par :
  Druide~
+@199 = ~Anneau de Préservation +3~
+@200 = ~Anneau de Préservation +3: "Chevalière de Gardien"
+Cet anneau a été forgé magiquement pour <CHARNAME>. Il combine les pouvoirs de l'anneau de protection Chevalière de Gardien avec les pouvoirs guérisseurs des anneaux trolliques de Huhhus. De plus, on peut dire qu'il a du style.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+ Le porteur régénère 1 point de vie toutes les 6 secondes
+ Classe d'Armure : bonus de 3
+ Jets de sauvegarde : bonus de 3~
+
+// @200 - @216 are reserved for EE-exclusive strings for compatibility with ZS Tweaks
