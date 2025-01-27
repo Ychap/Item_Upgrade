@@ -62,7 +62,7 @@ COPY ~itemupgrade/itm/c2quiv01.itm~ ~override~
   PATCH_IF enhanced_edition BEGIN // make usable by shaman
     WRITE_BYTE 0x21 (THIS BAND `BIT6) // removes druid flag
     LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 319 target = 1 parameter1 = 11 parameter2 = 5 timing = 2 special = 1080 END
-    PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
+    PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ OR MOD_IS_INSTALLED ~zstweaks.tp2~ ~103~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
       LPF ADD_ITEM_EFFECT INT_VAR type = 2 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 35 STR_VAR resource = zstwa3 END
     END
   END
@@ -79,7 +79,7 @@ COPY ~itemupgrade/itm/c2quiv02.itm~ ~override~
       SET index = abil_num // kill loop
     END
   END
-  PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
+  PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ OR MOD_IS_INSTALLED ~zstweaks.tp2~ ~103~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
     LPF ADD_ITEM_EFFECT INT_VAR type = 2 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 35 STR_VAR resource = zstwb3 END
   END
 
@@ -95,7 +95,7 @@ COPY ~itemupgrade/itm/c2quiv03.itm~ ~override~
       SET index = abil_num // kill loop
     END
   END
-  PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
+  PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ OR MOD_IS_INSTALLED ~zstweaks.tp2~ ~103~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
     LPF ADD_ITEM_EFFECT INT_VAR type = 2 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 20 STR_VAR resource = zstws3 END
   END
 
@@ -111,7 +111,7 @@ COPY ~itemupgrade/itm/c2sw2h02.itm~ ~override~
       LPF ALTER_EFFECT INT_VAR match_opcode = 77 opcode = 146 parameter1 = 0 parameter2 = 2 STR_VAR resource = ~#curefbm~ END
       LPF DELETE_EFFECT INT_VAR match_opcode = 240 match_parameter2 = 48 END
     END
-    PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1430~ BEGIN // Make Two-handed swords deal 1d9+1 by default, and 2d6 where it applies
+    PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1430~ OR MOD_IS_INSTALLED ~zstweaks.tp2~ ~103~ BEGIN // Make Two-handed swords deal 1d9+1 by default, and 2d6 where it applies
       LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 6 dicenumber = 2 END
       SPRINT old @215
       SPRINT new @216
