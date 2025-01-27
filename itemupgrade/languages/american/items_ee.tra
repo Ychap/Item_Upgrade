@@ -759,7 +759,7 @@ Charge abilities:
 Weight: 1~
 
 @183 = ~Water's Talon +4
-The blade of this weapon seems to shimmer, revealing a fluid, razor-sharp edge shaped somewhat like the talon of a bird of prey. Water's Talon was commissioned by <CHARNAME> and holds vast power over damaging liquids. Each hit sucks some of the life out of the target and confers it to the wielder.  In addition, the water-like edge of the blade is forever envenomed. Much like one of its predecessors, Water's Talon provides immunity to charm. In addition, however, its mastery over water protects the user from the harmful effects of Abi-Dalzim's Horrid Wilting. Most uniquely, the liquid nature of the blade allows it to extend and splash during combat, improving the strike range granted by the weapon to a range beyond that of most two-handed swords. This allows the wielder to make otherwise-impossible attacks from the back rows of a formation or try for daring hit-and-run tactics, counting on the poison from the first hit to disable foes.
+The blade of this weapon seems to shimmer, revealing a fluid, razor-sharp edge shaped somewhat like the talon of a bird of prey. Water's Talon was commissioned by <CHARNAME> and holds vast power over damaging liquids. Each hit sucks some of the life out of the target and confers it to the wielder. In addition, the water-like edge of the blade is forever envenomed. Much like one of its predecessors, Water's Talon provides immunity to charm. In addition, however, its mastery over water protects the user from the harmful effects of Abi-Dalzim's Horrid Wilting. Most uniquely, the liquid nature of the blade allows it to extend and splash during combat, improving the strike range granted by the weapon to a range beyond that of most two-handed swords. This allows the wielder to make otherwise-impossible attacks from the back rows of a formation or try for daring hit-and-run tactics, counting on the poison from the first hit to disable foes.
 
 STATISTICS:
 
@@ -806,7 +806,7 @@ Requires:
  4 Strength
 
 Weight: 2~
-@187 = ~Sorcerian Ring:  'Grasping Power'
+@187 = ~Sorcerian Ring: 'Grasping Power'
 This ring is undoubtedly the pinnacle of mnemonic lucubration. Crafted at <CHARNAME>'s request from rings of Wizardry, Acuity and Metaspell Influence Amulet it allows the bearer to memorize an extra spell each day for all spell levels from one to seven. In addition, a ring of protection has been melted into the band, providing minor physical and magical defenses.
 
 STATISTICS:
@@ -818,7 +818,7 @@ Equipped abilities:
 
 Weight: 0~
 @189 = ~Girdle of Glory
-Created by <CHARNAME> to protect the wearer against slashing, piercing and blunt weapons, this belt is quite useful to anyone involved in a melee.  Its potent magic turns all types of offensive blows, and yet its slim form does not inhibit movement. In addition, the belt is stylish.
+Created by <CHARNAME> to protect the wearer against slashing, piercing and blunt weapons, this belt is quite useful to anyone involved in a melee. Its potent magic turns all types of offensive blows, and yet its slim form does not inhibit movement. In addition, the belt is stylish.
 
 STATISTICS:
 

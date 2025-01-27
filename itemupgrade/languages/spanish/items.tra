@@ -652,9 +652,9 @@ No lo puede usar:
 
 ESTADÍSTICAS:
 
-Bonificador a la Clase de Armadura:  3
+Bonificador a la Clase de Armadura: 3
 Especial: Puede lanzar Falso Amanecer dos veces por día. El portador es inmune a la consunción de niveles.
-Peso:  2
+Peso: 2
 Requerimientos: Fuerza 4
 No lo puede usar:
  El mago~
@@ -682,8 +682,8 @@ ESTADÍSTICAS:
 
 El portador es inmune al veneno
 Lanza Sanar una vez por día
-Bonificador a la Clase de Armadura:  1
-Bonificación a las tiradas de salvación:  3~
+Bonificador a la Clase de Armadura: 1
+Bonificación a las tiradas de salvación: 3~
 @182     = ~Garra de agua +4~
 @183     = ~Garra de agua +4
 
@@ -694,13 +694,13 @@ ESTADÍSTICAS:
 Habilidades equipadas: El portador es inmune a hechizar, dominación y el horrible marchitamiento
 Habilidades especiales: Cada golpe eleva los puntos de golpe máximos del portador en 2 por 3 minutos
 Propiedades especiales: Alcance del golpe extendido
-Daño:  1D8 +4, +2 puntos de daño por veneno por segundo (acumulativo)
+Daño: 1D8 +4, +2 puntos de daño por veneno por segundo (acumulativo)
 THAC0: +4
 Tipo de daño: Cortante
 Peso: 3
 Factor de Velocidad: 1
 Tipo de Talento: Cimitarra/Wakizashi/Ninja-To
-Clase:  1 mano
+Clase: 1 mano
 Requerimientos: Fuerza 8
 No lo puede usar:
  El clérigo
@@ -723,7 +723,7 @@ Especial: Regresa a las manos del lanzador una vez arrojada
 Peso: 2
 Factor de Velocidad: 0
 Tipo de Talento: Hacha
-Clase:  1 mano
+Clase: 1 mano
 Requerimientos: Fuerza 4
 No lo puede usar:
  Cualquier personaje neutral o maligno
@@ -731,8 +731,8 @@ No lo puede usar:
  El clérigo
  El mago
  El ladrón~
-@186     = ~Anillo del Hechicero:  'Poder Codicioso'~
-@187     = ~Anillo del Hechicero:  'Poder Codicioso'
+@186     = ~Anillo del Hechicero: 'Poder Codicioso'~
+@187     = ~Anillo del Hechicero: 'Poder Codicioso'
 
 Este anillo es sin duda el pináculo de los estudios en nemotécnica. Forjado a pedido de <CHARNAME> a partir el anillo de la hechicería, el de la agudeza y el Amuleto de influencia del metaconjuro, permite al portador cada día memorizar un conjuro extra de todos los niveles del uno hasta el siete. En adición, un anillo de protección fue fundido en la banda, suministrando defensas psíquicas y mágicas menores.
 
@@ -749,7 +749,7 @@ Creado por <CHARNAME> para proteger al portador contra los ataques de las armas 
 ESTADÍSTICAS:
 
 Clase de Armadura: Bonificador +3
-Peso:  2~
+Peso: 2~
 @190     = ~Figura de Kitthix mejorada~
 @191     = ~Figura de Kitthix mejorada
 

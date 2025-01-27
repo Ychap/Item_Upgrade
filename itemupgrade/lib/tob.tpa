@@ -63,7 +63,7 @@ COPY ~itemupgrade/itm/c2quiv01.itm~ ~override~
     WRITE_BYTE 0x21 (THIS BAND `BIT6) // removes druid flag
     LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 319 target = 1 parameter1 = 11 parameter2 = 5 timing = 2 special = 1080 END
     PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1450~ BEGIN // Make some rogue weapons have the chance of doing more damage if wielded by pure rogues (Finesse)
-      LPF ADD_ITEM_EFFECT INT_VAR type = 2 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 32 STR_VAR resource = zstwa1 END
+      LPF ADD_ITEM_EFFECT INT_VAR type = 2 opcode = 326 target = 1 parameter1 = 4 parameter2 = 105 timing = 1 probability1 = 35 STR_VAR resource = zstwa3 END
     END
   END
 
