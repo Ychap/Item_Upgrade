@@ -1,12 +1,9 @@
 EXTEND_BOTTOM WSMITH01 13
-	IF ~OR(7)
+	IF ~OR(4)
 			PartyHasItem("ring08")
 			PartyHasItem("ring08a")
 			PartyHasItem("ohringwi")
-			PartyHasItem("ring40")
-			PartyHasItem("ring06")
-			PartyHasItem("cdpp11")
-			PartyHasItem("c!pp11")~ THEN GOTO XO#ItemUp00
+			PartyHasItem("ring40")~ THEN GOTO XO#ItemUp00
 END
 
 APPEND WSMITH01
