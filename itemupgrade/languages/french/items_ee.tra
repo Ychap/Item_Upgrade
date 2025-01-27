@@ -211,7 +211,7 @@ Capacités d'équipement :
 Capacités spéciales :
  Flèche Acide de Melf (trois fois par jour)
 
-Classe d'Armure : -1
+Classe d'Armure : -1 (-4 contre les armes tranchantes, -2 contre les armes perforantes et les projectiles)
 Poids : 25
 Force nécessaire : 8~
 
@@ -632,10 +632,42 @@ Capacités d'équipement :
  Détection et désamorçage des pièges : malus de 5 %
  Vol à la tire : malus de 20 %
 
-Classe d'Armure : 0
+Classe d'Armure : 0 (-2 contre les armes tranchantes, 2 contre les armes contondantes)
 Poids : 15
 Force nécessaire : 5~
 
+@200 = ~Anneau de Préservation +3: "Chevalière de Gardien"
+Cet anneau a été forgé magiquement pour <CHARNAME>. Il combine les pouvoirs de l'anneau de protection Chevalière de Gardien avec les pouvoirs guérisseurs des anneaux trolliques de Huhhus. De plus, on peut dire qu'il a du style.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+ Le porteur régénère 1 point de vie toutes les 6 secondes
+ Classe d'Armure : bonus de 3
+ Jets de sauvegarde : bonus de 3~
+
+// the following strings are used for compatibility with ZS Tweaks
+// since it's an EE-only mod, they're only placed here so they're in UTF-8
+// ZS Tweaks is not yet  translated into French
+@201 = ~Damage: 1d6\+\([34]\)~
+@202 = ~Damage (thrown): 1d6+\1
+Damage (melee): 1d8~
+@203 = ~Acid Resistance: \+50%~
+@204 = ~Immunity to level drain~
+@205 = ~– Pick Pockets:~
+@206 = ~– Immunity to backstab~
+@207 = ~STATISTICS:~
+@208 = ~Combat abilities:
+– Every hit inflicts pain, making living beings feel weakened for 1 round, suffering a penalty of 2 to THAC0, AC, and damage. This effect does not stack~
+@209 = ~– Magic Resistance:~
+@210 = ~– Magic damage resistance: +25%
+– Casting speed improved by 1~
+@211 = ~Damage: 1d10\+5 (slashing)~
+@212 = ~Damage: 2d5+5 (slashing)~
+@213 = ~Combat abilities:~
+@214 = ~– 1/2 extra attack per round~
+@215 = ~Damage: 1d12\+~
+@216 = ~Damage: 2d6+~
 
 //WeiDU prompts
 @-1000= "Le mod %TP2_FILE_NAME% contient"

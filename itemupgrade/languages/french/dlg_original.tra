@@ -33,6 +33,7 @@
 @123432 = ~J'aimerais bien une dague vraiment mortelle. Vous pouvez améliorer une des miennes ?~
 @123433 = ~Qu'est-ce que vous pouvez faire avec cette targe abandonnée ?~
 @123434 = ~Un espoir d'améliorer ces gantelets fourbes ?~
+@12350 = ~Pouvez-vous forger quelque chose à partir de cet Anneau de Protection exceptionnellement puissant ?~
 
 @123435 = ~Non, pas maintenant.~
 @123436 = ~D'accord, faisons ça !~
@@ -109,6 +110,7 @@
 @1234100 = ~Oui, je pourrais combiner une Cotte de Mailles Sylvestre avec les écailles d'une bête de flammes. Avec trois gemmes Andar, trois agates de feu pour contenir le brasier et 25.000 pièces d'or comme réactifs et pour la main d'oeuvre, je pourrais vous faire une puissante armure. Ça vous intéresse ?~
 
 
+@12351 = ~Je pourrais combiner un Anneau de Protection +3 avec un Anneau de Régénération. Il me faudrait ajouter un diamant à la préparation et cela vous coûterait 30.000 pièces d'or. Ça vous intéresse ?~
 
 
 
@@ -152,6 +154,7 @@
 @567838 = ~J'aimerais améliorer ce Cimeterre.~
 @567839 = ~Peux-tu rendre Bordazur plus puissante ?~
 @567891 = ~J'aimerais que mon Anneau des Arcanes ait plus d'enchantements.~
+@56790  = ~Pouvez-vous forger quelque chose à partir de cet Anneau de Protection exceptionnellement puissant ?~
 
 @567835 = ~Non, pas maintenant.~
 @567836 = ~D'accord, faisons comme ça !~
@@ -171,6 +174,9 @@
 
 @567841 = ~Dis donc, tu en portes des choses brillantes sur tes doigts. Cespenar aime bien le look, entendu dire que c'était la mode en ce moment.~
 @5678941 = ~Bon bon bon, on peut prendre un Anneau de Régénération et un Anneau de Protection +2 et faire un seul anneau. T'économises des doigts. Seulement besoin de 20.000 pièces d'or, et aussi un diamant ! Tu aimes ?~
+
+@56791 = ~Dis donc, tu en portes des choses brillantes sur tes doigts. Tu vas te mettre de l’or sur les dents après, Cespenar pense.~
+@56792 = ~Bon bon bon, on peut prendre un Anneau de Régénération et un Anneau de Protection +3 et faire un seul anneau. T'économises des doigts. Seulement besoin de 30.000 pièces d'or, et aussi un diamant ! Tu aimes ?~
 
 @567842 = ~Tu n'as pas besoin d'un sac à bijoux, t'as besoin d'un coffre à bijoux ! Peut-être que ça te plairait d'en avoir un sur chaque gros orteil, hein ?!?~
 @5678942 = ~Et si Cespenar prenait ces Anneaux de l'Air, de la Terre et du Feu et fabriquait un gros anneau de Maîtrise Élementaire ? Plus facile pour négocier l'assurance qu'avec trois. Besoin de parchemins de Protection contre Visage-pierreux, Chaud-devant et Zip-zap, et 20.000 pièces d'or. Cespenar fait pas les prix, c'est la loi du marché, la mondialisation, tout ça.~
