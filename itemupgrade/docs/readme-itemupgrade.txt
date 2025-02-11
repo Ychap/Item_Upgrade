@@ -238,7 +238,7 @@ Blackblood
 Gnasher
 15,000 Gold
                         Pitchwife +5
-                        +5 acid damage, slivers: 3/round for 4 rounds,
+                        +3 acid damage, slivers: 3/round for 4 rounds,
                         25% acid resistance
 ---------------------------------------------------------------------------
 Bone Club
