@@ -55,7 +55,7 @@ LANGUAGE ~Francais (traduction de Artemidore et Cocobard et Sanctifer (d'Oghmati
   ~itemupgrade/languages/french/weidu.tra~
   ~itemupgrade/languages/french/items.tra~
 
-LANGUAGE ~Deutsche (Uebersetzung durch Maus & Norbert Frischauf & Patrick Lainer)~
+LANGUAGE ~Deutsche (Uebersetzung durch Maus & Norbert Frischauf & Patrick Lainer & Ychap)~
   ~german~
   ~itemupgrade/languages/american/weidu.tra~
   ~itemupgrade/languages/american/items.tra~
@@ -138,6 +138,7 @@ BEGIN @5 DESIGNATED 10
 LABEL ~c2_item_upgrade_soa_seamless~
 REQUIRE_PREDICATE (("%LANGUAGE%" STRING_COMPARE_CASE "american" = 0) OR
                    ("%LANGUAGE%" STRING_COMPARE_CASE "french" = 0) OR
+                   ("%LANGUAGE%" STRING_COMPARE_CASE "german" = 0) OR
                    ("%LANGUAGE%" STRING_COMPARE_CASE "polski" = 0) OR
                    ("%LANGUAGE%" STRING_COMPARE_CASE "russian" = 0) OR
                    ("%LANGUAGE%" STRING_COMPARE_CASE "spanish" = 0) OR
@@ -239,6 +240,7 @@ BEGIN @5 DESIGNATED 11
 REQUIRE_PREDICATE GAME_IS ~tob bgt bg2ee eet~ @3 // ToB
 REQUIRE_PREDICATE (("%LANGUAGE%" STRING_COMPARE_CASE "american" = 0) OR
                    ("%LANGUAGE%" STRING_COMPARE_CASE "french" = 0) OR
+                   ("%LANGUAGE%" STRING_COMPARE_CASE "german" = 0) OR
                    ("%LANGUAGE%" STRING_COMPARE_CASE "polski" = 0) OR
                    ("%LANGUAGE%" STRING_COMPARE_CASE "russian" = 0) OR
                    ("%LANGUAGE%" STRING_COMPARE_CASE "spanish" = 0) OR
