@@ -182,7 +182,7 @@ Noirsang
 Mâchouilleuse
 15,000 Or
                         Poisseuse +5
-                        +3 dommages acides, échardes: 3/round pendant 4
+                        +5 dommages acides, échardes: 3/round pendant 4
                         rounds,
                         25% acide resistance
 ---------------------------------------------------------------------------
