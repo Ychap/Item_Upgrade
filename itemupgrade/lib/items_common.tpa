@@ -813,7 +813,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2robe01.itm THEN BEGIN
     SAY DESC      @131
     PATCH_IF enhanced_edition BEGIN
       WRITE_BYTE 0x29 (THIS BOR  BIT6) // adds barbarian flag for EEs
-      PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1317~ OR MOD_IS_INSTALLED ~zstweaks.tp2~ ~1001~  BEGIN // Make the basic robes and Archmage robes slightly more remarkable
+      PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1317~ OR MOD_IS_INSTALLED ~zstweaks.tp2~ ~1001~ BEGIN // Make the basic robes and Archmage robes slightly more remarkable
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode =  31 target = 1 parameter1 = 25 timing = 2 END
         LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 189 target = 1 parameter1 =  1 timing = 2 END
         SPRINT old @209
