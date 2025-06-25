@@ -929,7 +929,9 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper01.itm THEN BEGIN
         SET index = abil_num // kill loop
       END
     END
-    PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1150~ OR MOD_IS_INSTALLED ~zstweaks.tp2~ ~103~ BEGIN // Make spears do a baseline damage of 1d8, not 1d6
+    PATCH_IF ((MOD_IS_INSTALLED ~zstweaks.tp2~ ~1150~) OR 
+              (MOD_IS_INSTALLED ~zstweaks.tp2~ ~103~) OR
+              (MOD_IS_INSTALLED ~iwdification.tp2~ ~190~)) BEGIN // Make spears do a baseline damage of 1d8, not 1d6
       LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 8 END
       SPRINT old @201
       SPRINT new @202
@@ -970,16 +972,18 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper02.itm THEN BEGIN
       PATCH_IF (hold_immunity > 0) BEGIN
         LPF CLONE_EFFECT INT_VAR multi_match = 1 match_opcode = 101 match_parameter2 = 175 opcode = 328 parameter2 = hold_immunity special = 1 STR_VAR insert = first END // clone immunity to hold into set spell state
       END
-      PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1150~ OR MOD_IS_INSTALLED ~zstweaks.tp2~ ~103~ BEGIN // Make spears do a baseline damage of 1d8, not 1d6
-        LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 8 END
-        SPRINT old @201
-        SPRINT new @202
-        READ_STRREF 0x54 desc
-        INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
-          REPLACE_TEXTUALLY ~%old%~ ~%new%~
-        END
-        SAY_EVALUATED 0x54 ~%desc%~ // write changes
+    END
+    PATCH_IF ((MOD_IS_INSTALLED ~zstweaks.tp2~ ~1150~) OR 
+              (MOD_IS_INSTALLED ~zstweaks.tp2~ ~103~) OR
+              (MOD_IS_INSTALLED ~iwdification.tp2~ ~190~)) BEGIN // Make spears do a baseline damage of 1d8, not 1d6
+      LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 8 END
+      SPRINT old @201
+      SPRINT new @202
+      READ_STRREF 0x54 desc
+      INNER_PATCH_SAVE desc ~%desc%~ BEGIN // update identified description
+        REPLACE_TEXTUALLY ~%old%~ ~%new%~
       END
+      SAY_EVALUATED 0x54 ~%desc%~ // write changes
     END
 
   COPY ~itemupgrade/bam/c2sper02.bam~ ~override~
@@ -1005,7 +1009,9 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper03.itm THEN BEGIN
         SET index = abil_num // kill loop
       END
     END
-    PATCH_IF MOD_IS_INSTALLED ~zstweaks.tp2~ ~1150~ OR MOD_IS_INSTALLED ~zstweaks.tp2~ ~103~ BEGIN // Make spears do a baseline damage of 1d8, not 1d6
+    PATCH_IF ((MOD_IS_INSTALLED ~zstweaks.tp2~ ~1150~) OR 
+              (MOD_IS_INSTALLED ~zstweaks.tp2~ ~103~) OR
+              (MOD_IS_INSTALLED ~iwdification.tp2~ ~190~)) BEGIN // Make spears do a baseline damage of 1d8, not 1d6
       LPF ALTER_HEADER INT_VAR match_type = 1 dicesize = 8 END
       SPRINT old @201
       SPRINT new @202
