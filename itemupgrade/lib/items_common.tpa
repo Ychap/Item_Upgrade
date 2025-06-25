@@ -914,6 +914,8 @@ END
 
 ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper01.itm THEN BEGIN
 
+  INCLUDE ~itemupgrade/lib/cdspear.tpa~ // sets cdspear projectile value
+
   COPY ~itemupgrade/itm/c2sper01.itm~ ~override~
     SAY NAME2     @150
     SAY DESC      @151
@@ -923,6 +925,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper01.itm THEN BEGIN
       READ_BYTE (abil_off + 0x00 + (index * 0x38)) type
       PATCH_IF type = 2 BEGIN
         WRITE_LONG  (abil_off + 0x26 + (index * 0x38)) throwing_flags
+        WRITE_SHORT (abil_off + 0x2a + (index * 0x38)) cdspear // new throwing spear projectile
         SET index = abil_num // kill loop
       END
     END
@@ -945,6 +948,8 @@ END
 
 ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper02.itm THEN BEGIN
 
+  INCLUDE ~itemupgrade/lib/cdspear.tpa~ // sets cdspear projectile value
+
   COPY ~itemupgrade/itm/c2sper02.itm~ ~override~
     SAY NAME2     @152
     SAY DESC      @153
@@ -954,6 +959,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper02.itm THEN BEGIN
       READ_BYTE (abil_off + 0x00 + (index * 0x38)) type
       PATCH_IF type = 2 BEGIN
         WRITE_LONG  (abil_off + 0x26 + (index * 0x38)) throwing_flags
+        WRITE_SHORT (abil_off + 0x2a + (index * 0x38)) cdspear // new throwing spear projectile
         SET index = abil_num // kill loop
       END
     END
@@ -984,6 +990,8 @@ END
 
 ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper03.itm THEN BEGIN
 
+  INCLUDE ~itemupgrade/lib/cdspear.tpa~ // sets cdspear projectile value
+
   COPY ~itemupgrade/itm/c2sper03.itm~ ~override~
     SAY NAME2     @154
     SAY DESC      @155
@@ -993,6 +1001,7 @@ ACTION_IF NOT FILE_EXISTS_IN_GAME c2sper03.itm THEN BEGIN
       READ_BYTE (abil_off + 0x00 + (index * 0x38)) type
       PATCH_IF type = 2 BEGIN
         WRITE_LONG  (abil_off + 0x26 + (index * 0x38)) throwing_flags
+        WRITE_SHORT (abil_off + 0x2a + (index * 0x38)) cdspear // new throwing spear projectile
         SET index = abil_num // kill loop
       END
     END
